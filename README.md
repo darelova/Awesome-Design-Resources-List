@@ -1,9 +1,8 @@
 # ❤️ Awesome Design Resources List
 
-_Tools, articles, inspiration // Design & Front-End Space Community_
+_Tools, resources, articles, inspiration_
 
-![featured-image-design-list](https://github.com/user-attachments/assets/272e3f5e-cd38-4788-84cb-f666754c403c)
-
+![featured-image-awesome-design-list](https://github.com/user-attachments/assets/5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b)
 
 ## 👾 Design Inspiration
 
