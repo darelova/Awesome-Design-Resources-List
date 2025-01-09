@@ -2,7 +2,7 @@
 
 _Tools, resources, articles, inspiration_
 
-![featured-image-awesome-design-list](https://github.com/user-attachments/assets/5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/126238241/401597829-5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250109T162020Z&X-Amz-Expires=300&X-Amz-Signature=c98736e4474bec9f4dddbb2a47ee017614dbe593ab9268c888f87ab51eeb4828&X-Amz-SignedHeaders=host">](https://discord.gg/exncPmG4tH)
 
 ## 👾 Design Inspiration
 
