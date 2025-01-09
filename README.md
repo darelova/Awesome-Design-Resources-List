@@ -4,32 +4,6 @@ _Tools, resources, articles, inspiration_
 
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/126238241/401597829-5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250109T162020Z&X-Amz-Expires=300&X-Amz-Signature=c98736e4474bec9f4dddbb2a47ee017614dbe593ab9268c888f87ab51eeb4828&X-Amz-SignedHeaders=host">](https://discord.gg/exncPmG4tH)
 
-Quick jump to:
-
-  - [👾 Design Inspiration](<uikit.md#-design-inspiration>)
-  - [🧑‍🎓 Learning UI/UX](<uikit.md#-learning-ui/ux>)
-  - [💫 Awesome lists](<uikit.md#-awesome-lists>)
-  - [🛠️ Component references and inspiration](<uikit.md#%EF%B8%8F-component-references-and-inspiration>)
-  - [📚 Component libraries](<uikit.md#-component-libraries>)
-  - [📝 Design System Resources](<uikit.md#-design-system-resources>)
-  - [⚙️ Design Systems](<uikit.md#%EF%B8%8F-design-systems>)
-  - [🕹️ Games & tasks to help you master your design skills](<uikit.md#%EF%B8%8F-games-&-tasks-to-help-you-master-your-design-skills>)
-  - [🤓 Аccessibility](<uikit.md#-ccessibility>)
-  - [🖊️ Typography articles](<uikit.md#%EF%B8%8F-typography-articles>)
-  - [🔤 Fonts](<uikit.md#-fonts>)
-  - [🎨 Illustrations](<uikit.md#-illustrations>)
-  - [👾 Avatars](<uikit.md#-avatars>)
-  - [😊 Icons](<uikit.md#-icons>)
-  - [🌈 Colors](<uikit.md#-colors>)
-  - [🖼️ Images & backgrounds](<uikit.md#%EF%B8%8F-images-&-backgrounds>)
-  - [📍 Animation](<uikit.md#-animation>)
-  - [🌐 3D Visualization](<uikit.md#-3d-visualization>)
-  - [🔌 Figma plugins & resources](<uikit.md#-figma-plugins-&-resources>)
-  - [📦 Mockups](<uikit.md#-mockups>)
-  - [✨ AI](<uikit.md#-ai>)
-
-
-
 ## 👾 Design Inspiration
 
 - [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
