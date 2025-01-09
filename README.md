@@ -35,7 +35,7 @@ _Tools, resources, articles, inspiration_
 - [UX Resources & Bookmarks](https://simonasmaciulis.gumroad.com/l/ux-resources) - 200+ resources that will help you to learn more about UX
 - [Memorisely](https://www.memorisely.com/) - live and on-demand immersive Figma training plans
 
-## 💫 Awesome lists:
+## 💫 Awesome lists
 
 - [Awesome Design](https://github.com/gztchan/awesome-design) - curated design resources from all over the world
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - a collection of awesome design systems
@@ -48,7 +48,7 @@ _Tools, resources, articles, inspiration_
 
 - [The Component Gallery](https://component.gallery/components/accordion/) - an up-to-date repository of interface components based on examples from the world of design systems
 
-## Component libraries:
+## 📚 Component libraries
 
 - [Tailwind components](https://tailwindui.com/components) - in-depth industry-standard compilation of components
 * [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
@@ -57,16 +57,16 @@ _Tools, resources, articles, inspiration_
 * [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
 * [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react)
 
-## ⚙️📝 Design System Resources:
+## 📝 Design System Resources
 
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
 
-## ⚙️ Design Systems:
+## ⚙️ Design Systems
 
 - [Material Design](https://m3.material.io/) - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft’s collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior
 
-## 🕹️ Games & tasks to help you master your design skills:
+## 🕹️ Games & tasks to help you master your design skills
 
 - [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
 - [What Should I Design](http://www.whatshouldidesign.com/) - a set of design challenges to practice design
@@ -78,7 +78,7 @@ _Tools, resources, articles, inspiration_
 - [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
 - [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy.
 
-## **Typography articles
+## 🖊️ Typography articles
 
 - [28 Best Free Fonts for Modern UI Design in 2025 (+ Typography Best Practices)](https://www.untitledui.com/blog/best-free-fonts) - article
 
@@ -94,11 +94,11 @@ _Tools, resources, articles, inspiration_
 - [Open Doodles](https://www.opendoodles.com/) - a library of sketchy illustrations of people free for personal and commercial use
 - [SVG Doodles](https://svgdoodles.com/) - a free collection of different editable SVGs to spice up your online and offline designs
 
-👾 **Avatars**:
+## 👾 Avatars
 
 - [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
 
-**Icons:**
+## 😊 Icons
 
 - [Remix Icon](https://remixicon.com/) - open-source neutral-style system symbols elaborately crafted for designers and developers
 - [pqoqubbw/icons](https://icons.pqoqubbw.dev/) - beautifully crafted _animated_ icons
@@ -119,7 +119,7 @@ _Tools, resources, articles, inspiration_
 - [Randoma11y](https://randoma11y.com/?color=%2300ffff) - an endless collection of accessible color combos
 - [MyMind](https://access.mymind.com/colors) - a collection of unique color combinations for your design projects
 
-## 🖼️ Images & backgrounds:
+## 🖼️ Images & backgrounds
 
 - [Unsplash](https://unsplash.com/) - a wide variety of high-quality photos contributed by photographers
 - [Pexels](https://www.pexels.com/) - free stock photos and videos
@@ -128,19 +128,19 @@ _Tools, resources, articles, inspiration_
 - [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 
 
-## 📍 Animation:
+## 📍 Animation
 
 - [GSAP](https://gsap.com/) - JavaScript animation library
-
 - [Modyfi](https://www.modyfi.com/modifiers) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
+- [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 
-## 🌐 3D Visualization:
+## 🌐 3D Visualization
 
 - [three.js](http://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
 
-## 🔌 Figma plugins & resources:
+## 🔌 Figma plugins & resources
 
 - [Fig Mayo](https://www.figmayo.com/) - effortless design system docs
 - [Specs (formerly, EightShapes Specs)](https://www.figma.com/community/plugin/1205622541257680763/specs-formerly-eightshapes-specs) - automate production of page and component design specifications (“specs”) of selected components, instances and frames.
@@ -150,20 +150,20 @@ _Tools, resources, articles, inspiration_
 - [Translator](https://www.figma.com/community/plugin/743218037112142643/translator) - enables you to translate your text layers to other languages right in Figma
 - [Setproduct](https://www.setproduct.com/freebies) Free Figma Templates - UI kits, app templates, design systems (freebies as included)
 
-## 📦 Mockups:
+## 📦 Mockups
 
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Mockuuups Studio](https://mockuuups.studio/) - drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free
 - [Angle.sh](http://angle.sh) - vector device mockups for Sketch, Figma, and XD
 - [Shots.so](http://shots.so) - any mockup that you need. Choose a mockup that suits your needs drag and drop your screenshot, design or any image to get started
 
-## ✨ AI:
+## ✨ AI
 
-Image scaling:
+Image scaling
 
 - [Topaz](https://www.topazlabs.com/topaz-photo-ai) - sharpen, denoise, and upscale your images
 
-For image generation:
+For image generation
 
 - [Midjourney](https://www.midjourney.com/home)
 - [Dall-E](https://openart.ai/home)
@@ -171,43 +171,43 @@ For image generation:
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html)
 - [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 
-For music:
+For music
 
 - [Suno](https://suno.com/) - building a future where anyone can make great music
 
-For videos:
+For videos
 
 - [Captions](https://www.captions.ai/) - creates videos from captions with AI
 
-Free AI images:
+Free AI images
 
 - [Lummi](https://www.lummi.ai/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 
-Emojis:
+Emojis
 
 - [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 
-Creating landing pages:
+Creating landing pages
 
 - [Musho](https://musho.ai/) - turns your prompts into nearly complete, dev-ready websites with simple layouts
 
-Website building:
+Website building
 
 - [Relume](https://www.relume.io/) -[ ](https://library.relume.io/)websites designed and built faster with AI
 - [Visily AI](https://www.visily.ai/) - wireframe tool that swiftly transforms screenshots, templates, or text prompts into editable wireframes and prototypes, powered by AI
 
-Copy:
+Copy
 
 - [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
 
-Colors:
+Colors
 
 - [AI colors](https://aicolors.co/) - create cool and unique color palettes with an AI-powered color palette generator
 
-Vectorizing:
+Vectorizing
 
 - [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color
 
-Branding:
+Branding
 
 - [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
