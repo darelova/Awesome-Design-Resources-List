@@ -2,6 +2,9 @@
 
 _Tools, articles, inspiration // Design & Front-End Space Community_
 
+![featured-image-design-list](https://github.com/user-attachments/assets/272e3f5e-cd38-4788-84cb-f666754c403c)
+
+
 ## 👾 Design Inspiration
 
 - [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
