@@ -2,7 +2,7 @@
 
 _Tools, resources, articles, inspiration_
 
-[![Join Discord Server](https://github-production-user-asset-6210df.s3.amazonaws.com/126238241/401597829-5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b.png)](https://discord.gg/exncPmG4tH)
+[<img src="https://i.imgur.com/kq9XYWU.png">](https://discord.gg/exncPmG4tH)
 
 ## 👾 Design Inspiration
 
@@ -21,7 +21,17 @@ _Tools, resources, articles, inspiration_
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
 - [Land-book](https://land-book.com/) -  hand-picked website design inspiration
 
-## 🧑‍🎓 Learning UI/UX
+## 🤩 Branding Inspiration
+
+- [Starbucks Creative Expression](https://creative.starbucks.com/)
+- [Dropbox Brand Guidelines](https://brand.dropbox.com/)
+- [IBM Design Language](https://www.ibm.com/design/language/)
+- [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
+- [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
+- [Instagram Brand Identity](https://about.instagram.com/brand)
+
+## 👨‍🎓 Learning UI/UX
 
 - [Visual Design in UX: Study Guide](https://www.nngroup.com/articles/visual-design-in-ux-study-guide/) - article
 - [Interaction Design Foundation: The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature) - article
@@ -137,10 +147,13 @@ _Tools, resources, articles, inspiration_
 - [Pixabay](https://pixabay.com/) - photos, illustrations, vectors, and videos available
 - [Burst by Shopify](https://www.shopify.com/stock-photos) - business-oriented images, especially for e-commerce
 - [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
+- [Dupe](https://dupephotos.com/) - relevant royalty-free imagery submitted by a community of creators that can be used commercially under their license
+- [Kaboompics](https://kaboompics.com/) - authentic and always consistent free stock photos
+- [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
 
-## 🖼️ Image tools
+## ✂️ Image tools
 
-- [TinyPNG](https://tinypng.com/) - the online compressor empowers you to easily optimize your images
+- [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
 - [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images  
 
 ## 📍 Animation
