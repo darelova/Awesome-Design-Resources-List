@@ -2,7 +2,7 @@
 
 _Tools, resources, articles, inspiration_
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/126238241/401597829-5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250109T162020Z&X-Amz-Expires=300&X-Amz-Signature=c98736e4474bec9f4dddbb2a47ee017614dbe593ab9268c888f87ab51eeb4828&X-Amz-SignedHeaders=host">](https://discord.gg/exncPmG4tH)
+[![Join Discord Server](https://github-production-user-asset-6210df.s3.amazonaws.com/126238241/401597829-5bcb2f3b-6167-4fb1-afd4-f5f6017d5f5b.png)](https://discord.gg/exncPmG4tH)
 
 ## 👾 Design Inspiration
 
@@ -51,11 +51,11 @@ _Tools, resources, articles, inspiration_
 ## 📚 Component libraries
 
 - [Tailwind components](https://tailwindui.com/components) - in-depth industry-standard compilation of components
-* [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
-* [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
-* [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
-* [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
-* [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react)
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
+- [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
+- [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
+- [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
+- [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react) 
 - [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility  
 
 ## 📝 Design System Resources
@@ -174,11 +174,11 @@ _Tools, resources, articles, inspiration_
 
 ## ✨ AI
 
-Image scaling
+#### Image scaling
 
 - [Topaz](https://www.topazlabs.com/topaz-photo-ai) - sharpen, denoise, and upscale your images
 
-For image generation
+#### For image generation
 
 - [Midjourney](https://www.midjourney.com/home)
 - [Dall-E](https://openart.ai/home)
@@ -186,43 +186,43 @@ For image generation
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html)
 - [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 
-For music
+#### For music
 
 - [Suno](https://suno.com/) - building a future where anyone can make great music
 
-For videos
+#### For videos
 
 - [Captions](https://www.captions.ai/) - creates videos from captions with AI
 
-Free AI images
+#### Free AI images
 
 - [Lummi](https://www.lummi.ai/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 
-Emojis
+#### Emojis
 
 - [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 
-Creating landing pages
+#### Creating landing pages
 
 - [Musho](https://musho.ai/) - turns your prompts into nearly complete, dev-ready websites with simple layouts
 
-Website building
+#### Website building
 
 - [Relume](https://www.relume.io/) -[ ](https://library.relume.io/)websites designed and built faster with AI
 - [Visily AI](https://www.visily.ai/) - wireframe tool that swiftly transforms screenshots, templates, or text prompts into editable wireframes and prototypes, powered by AI
 
-Copy
+#### Copy
 
 - [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
 
-Colors
+#### Colors
 
 - [AI colors](https://aicolors.co/) - create cool and unique color palettes with an AI-powered color palette generator
 
-Vectorizing
+#### Vectorizing
 
 - [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color
 
-Branding
+#### Branding
 
 - [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
