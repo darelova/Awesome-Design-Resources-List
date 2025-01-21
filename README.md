@@ -56,6 +56,7 @@ _Tools, resources, articles, inspiration_
 * [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
 * [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
 * [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react)
+- [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility  
 
 ## 📝 Design System Resources
 
@@ -65,6 +66,8 @@ _Tools, resources, articles, inspiration_
 
 - [Material Design](https://m3.material.io/) - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft’s collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior
+- [Carbon Design System](https://carbondesignsystem.com/) - IBM's open-source design system for digital experiences, with a focus on accessibility, modularity, and flexibility  
+
 
 ## 🕹️ Games & tasks to help you master your design skills
 
@@ -103,6 +106,7 @@ _Tools, resources, articles, inspiration_
 ## 👾 Avatars
 
 - [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
+- [DiceBear Avatars](https://dicebear.com/) - A free avatar library offering customizable, SVG-based avatar styles
 
 ## 😊 Icons
 
@@ -117,6 +121,7 @@ _Tools, resources, articles, inspiration_
 - [Feather](https://feathericons.com/) - simply beautiful open-source icons
 - [Material Symbols](https://fonts.google.com/icons) - Google’s Material Design icons pack
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - icon font and CSS with 222 weather-themed icons, ready to be dropped right into Bootstrap, or any project that needs high-quality weather, maritime, and meteorological-based icons
+- [Icones](https://icones.js.org) - A powerful icon explorer with over 100,000 icons from various libraries, supporting on-demand import and easy customization  
 
 ## 🌈 Colors
 
@@ -136,6 +141,7 @@ _Tools, resources, articles, inspiration_
 ## 🖼️ Image tools
 
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to easily optimize your images
+- [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images  
 
 ## 📍 Animation
 
