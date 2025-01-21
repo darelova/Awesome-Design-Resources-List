@@ -87,12 +87,18 @@ _Tools, resources, articles, inspiration_
 - [Google Fonts](https://fonts.google.com/)
 - [Adobe Fonts](https://fonts.adobe.com/)
 - [Free Faces Gallery](https://www.freefaces.gallery/?fbclid=IwAR0z5NvxCSwOIEuwL8Ox6wROg1mqkn76V5HxE44HU-kOMKyq185U2Vsf10M) - a curated collection of typefaces that are available under a variety of free licenses somewhere on the interwebs
+- [Collletttivo](https://www.collletttivo.it/) - an open-source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration
+- [UNCUT.wtf](https://uncut.wtf/) - a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured
+- [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - advanced fonts for programmers with special glyphs 
 
 ## 🎨 Illustrations
 
 - [MapSVG](https://mapsvg.com/maps) - download a free SVG map of any country in the world, free for commercial use
 - [Open Doodles](https://www.opendoodles.com/) - a library of sketchy illustrations of people free for personal and commercial use
 - [SVG Doodles](https://svgdoodles.com/) - a free collection of different editable SVGs to spice up your online and offline designs
+- [unDraw](https://undraw.co/illustrations) - free open-source SVG illustrations
+- [DrawKit](https://www.drawkit.com/) - hand-drawn 2D & 3D illustrations, icons and animations
+- [ManyPixels](https://www.manypixels.co/gallery) - a royalty-free illustrations gallery
 
 ## 👾 Avatars
 
@@ -127,6 +133,9 @@ _Tools, resources, articles, inspiration_
 - [Burst by Shopify](https://www.shopify.com/stock-photos) - business-oriented images, especially for e-commerce
 - [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 
+## 🖼️ Image tools
+
+- [TinyPNG](https://tinypng.com/) - the online compressor empowers you to easily optimize your images
 
 ## 📍 Animation
 
