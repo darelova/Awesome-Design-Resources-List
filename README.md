@@ -212,7 +212,7 @@ _Tools, resources, articles, inspiration_
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device   
-- [Phase](https://www.phase.com/) - simple animations for product designers  
+- [Phase](https://www.phase.com/) - web application to create and edit animations
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
 
 ## 🌐 3D Visualization
