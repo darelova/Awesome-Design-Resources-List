@@ -20,6 +20,20 @@ _Tools, resources, articles, inspiration_
 - [Mobbin](https://mobbin.com/browse/ios/apps) - the world’s largest mobile and web design library
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
 - [Land-book](https://land-book.com/) -  hand-picked website design inspiration
+- [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
+- [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
+- [Visuelle](https://visuelle.co.uk/) - an online creative showcase and feed curated by David Bennett, Creative Director at OPX Studio  
+- [Logggos](https://www.logggos.club/) - a catalog of well-designed logos  
+- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX as well as tutorials for Photoshop and other tools  
+- [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
+- [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
+- [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
+- [Appshots design](https://appshots.design/) - inspiring real-world UX designs  
+- [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos  
+- [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design  
+- [Godly](https://godly.website/) - a curation of the best web design inspiration, every day  
+- [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
+
 
 ## 🤩 Branding Inspiration
 
@@ -44,6 +58,8 @@ _Tools, resources, articles, inspiration_
 - [Data Table Design Patterns](https://medium.com/design-bootcamp/data-table-design-patterns-4e38188a0981) - article
 - [UX Resources & Bookmarks](https://simonasmaciulis.gumroad.com/l/ux-resources) - 200+ resources that will help you to learn more about UX
 - [Memorisely](https://www.memorisely.com/) - live and on-demand immersive Figma training plans
+- [User-Interface Elements: Glossary](https://www.nngroup.com/articles/ui-elements-glossary/?utm_campaign=&utm_source=linkedin&utm_medium=social#Ribbon) - use this glossary to clarify definitions for key graphical user-interface elements and controls quickly
+
 
 ## 💫 Awesome lists
 
@@ -71,6 +87,7 @@ _Tools, resources, articles, inspiration_
 ## 📝 Design System Resources
 
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
+- [Hey Design Systems\!](https://heydesign.systems/) - your introduction to design systems
 
 ## ⚙️ Design Systems
 
@@ -94,6 +111,12 @@ _Tools, resources, articles, inspiration_
 ## 🖊️ Typography articles
 
 - [28 Best Free Fonts for Modern UI Design in 2025 (+ Typography Best Practices)](https://www.untitledui.com/blog/best-free-fonts) - article
+- [Font trends for 2025 that creatives should keep in mind](https://www.lummi.ai/blog/font-trends)
+
+**🅰 Typography tools**
+
+- [Typescale](https://typescale.com/) - A simple tool that allows you to preview and adjust typography scales with different fonts and ratios  
+- [Typespiration](https://typespiration.com/) - a complete guide to matching typefaces, styling techniques, improving readability, and more
 
 ## 🔤 Fonts
 
@@ -103,6 +126,9 @@ _Tools, resources, articles, inspiration_
 - [Collletttivo](https://www.collletttivo.it/) - an open-source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration
 - [UNCUT.wtf](https://uncut.wtf/) - a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - advanced fonts for programmers with special glyphs 
+- [Typefaces.today](https://typefaces.today/) - handpicked typefaces for your creative projects  
+- [Fontshare](https://www.fontshare.com/) - a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all  
+- [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
 
 ## 🎨 Illustrations
 
@@ -112,6 +138,7 @@ _Tools, resources, articles, inspiration_
 - [unDraw](https://undraw.co/illustrations) - free open-source SVG illustrations
 - [DrawKit](https://www.drawkit.com/) - hand-drawn 2D & 3D illustrations, icons and animations
 - [ManyPixels](https://www.manypixels.co/gallery) - a royalty-free illustrations gallery
+- [coolshapes](https://coolshap.es/) \- 100+ abstract shapes with cool grainy gradient  
 
 ## 👾 Avatars
 
@@ -132,6 +159,12 @@ _Tools, resources, articles, inspiration_
 - [Material Symbols](https://fonts.google.com/icons) - Google’s Material Design icons pack
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - icon font and CSS with 222 weather-themed icons, ready to be dropped right into Bootstrap, or any project that needs high-quality weather, maritime, and meteorological-based icons
 - [Icones](https://icones.js.org) - A powerful icon explorer with over 100,000 icons from various libraries, supporting on-demand import and easy customization  
+- [Iconmonstr](https://iconmonstr.com/) - free simple icons collection  
+- [Iconoir](https://iconoir.com/) - a high-quality selection of free icons  
+- [Iconhub](https://iconhub.io/) - diverse Icon set to complete your awesome design  
+- [OpenMoji](https://openmoji.org/) - open-source emojis for designers, developers  
+- [Tabler Icons](https://tabler.io/icons) - free and open-source icons designed to make your website or app attractive, visually consistent, and simply beautiful  
+- [Phosphor](https://phosphoricons.com/) - a flexible icon family for interfaces, diagrams, presentations
 
 ## 🌈 Colors
 
@@ -139,6 +172,15 @@ _Tools, resources, articles, inspiration_
 - [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/create) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Randoma11y](https://randoma11y.com/?color=%2300ffff) - an endless collection of accessible color combos
 - [MyMind](https://access.mymind.com/colors) - a collection of unique color combinations for your design projects
+- [Color Box](https://colorbox.io/) - generate, preview, and organize color palettes  
+- [Colorsinspo](https://colorsinspo.com/) - an all-in-one resource to find everything about colors with extreme ease  
+- [Color Hunt](https://colorhunt.co/) - hand-picked color palettes  
+- [Happy Hues](https://www.happyhues.co/) - a color palette inspiration site that acts as a real-world example of how the colors could be used in your design project  
+- [Goodpalette](https://goodpalette.io/ed330e-3cc3de-b3adab) - a curated color palette generator that provides aesthetically pleasing color combinations  
+- [Tone](https://t-o-n-e.com/) - Color Inspiration - explores natural color schemes of beautiful places on Earth through photography  
+- [Adobe Color](https://color.adobe.com/) - gives you the power to extract a beautiful gradient from any image you choose  
+- [Spectrum Art](https://spectrum.art/) - Explore perfect color shades for website design updated in line with trends
+
 
 ## 🖼️ Images & backgrounds
 
@@ -149,7 +191,14 @@ _Tools, resources, articles, inspiration_
 - [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - [Dupe](https://dupephotos.com/) - relevant royalty-free imagery submitted by a community of creators that can be used commercially under their license
 - [Kaboompics](https://kaboompics.com/) - authentic and always consistent free stock photos
+- [Picjumbo](https://picjumbo.com/) - free images, backgrounds, and free photos for your projects  
+- [Barnimages](https://barnimages.com/) - free stock photos that are high-quality and royalty-free  
+- [Openverse](https://openverse.org/) - an extensive library of free stock photos, images, and audio, available for free use  
+- [Gratisography](https://gratisography.com/) - royalty-free HD stock photos and images  
+- [Shotstash](https://shotstash.com/) - free stock photos for creative professionals  
+- [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
+- [Lummi](https://www.lummi.ai/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 
 ## ✂️ Image tools
 
@@ -161,6 +210,10 @@ _Tools, resources, articles, inspiration_
 - [GSAP](https://gsap.com/) - JavaScript animation library
 - [Modyfi](https://www.modyfi.com/modifiers) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
+- [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
+- [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device   
+- [Phase](https://www.phase.com/) - simple animations for product designers  
+- [Paper](https://liquid.paper.design/) - see your logo in liquid
 
 ## 🌐 3D Visualization
 
@@ -177,6 +230,7 @@ _Tools, resources, articles, inspiration_
 - [iOS 16 UI Kit for Figma](https://www.figma.com/community/file/1121065701252736567) - contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS
 - [Translator](https://www.figma.com/community/plugin/743218037112142643/translator) - enables you to translate your text layers to other languages right in Figma
 - [Setproduct](https://www.setproduct.com/freebies) Free Figma Templates - UI kits, app templates, design systems (freebies as included)
+- [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 
 ## 📦 Mockups
 
@@ -184,8 +238,27 @@ _Tools, resources, articles, inspiration_
 - [Mockuuups Studio](https://mockuuups.studio/) - drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free
 - [Angle.sh](http://angle.sh) - vector device mockups for Sketch, Figma, and XD
 - [Shots.so](http://shots.so) - any mockup that you need. Choose a mockup that suits your needs drag and drop your screenshot, design or any image to get started
+- [Mockupworld](https://www.mockupworld.co/) - source of photo-realistic free PSD Mockups online  
+- [Pixeden](https://www.pixeden.com/) - exclusive graphic, web, and design assets club (free and paid)  
+- [Mockups Design](https://mockups-design.com/) - source of free & high-quality mockups  
+- [Mr. Mockup](https://mrmockup.com/free-mockups/) - a huge collection of high-quality free mockups for Photoshop  
+- [LS Graphics](https://www.ls.graphics/) - a vast collection of free and premium mockups for Photoshop and Figma  
+- [Mockup Hunt](https://mockuphunt.co/) - a huge collection of the best free mockups hand-curated from the most trusted mockup websites  
+- [Minimal Mockups](https://www.minimalmockups.com/) - free high-quality mockups  
+- [Unblast](https://unblast.com/) - fine and free design resources made by the world's best designers  
+- [Flyerwrk](https://www.flyerwrk.com/en-com/collections/freebies) - mockup freebies collection  
+- [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
+- [Akoya](https://akoyamockups.com/) - photorealistic mockups
 
 ## ✨ AI
+
+#### AI chatbots:
+
+- [ChatGPT](https://openai.com/index/chatgpt/) - developed by OpenAI, ChatGPT is renowned for its human-like conversational abilities and is widely used for various applications, including drafting emails, writing code, and answering questions  
+- [Google Gemini](https://gemini.google.com/app) - formerly known as Google Bard, Gemini is Google's AI chatbot that leverages the company's extensive search capabilities to provide accurate and up-to-date information  
+- [Copilot](https://copilot.microsoft.com/chats/kpJMM6jmhXFpecA1qmK3X) - Microsoft's Copilot integrates seamlessly with Office applications, assisting users by generating content, summarizing information, and enhancing productivity  
+- [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic  
+- [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
 
 #### Image scaling
 
@@ -207,10 +280,6 @@ _Tools, resources, articles, inspiration_
 
 - [Captions](https://www.captions.ai/) - creates videos from captions with AI
 
-#### Free AI images
-
-- [Lummi](https://www.lummi.ai/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
-
 #### Emojis
 
 - [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
@@ -231,6 +300,7 @@ _Tools, resources, articles, inspiration_
 #### Colors
 
 - [AI colors](https://aicolors.co/) - create cool and unique color palettes with an AI-powered color palette generator
+- [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 
 #### Vectorizing
 
