@@ -31,7 +31,7 @@ _Tools, resources, articles, inspiration_
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs  
 - [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos  
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design  
-- [Godly](https://godly.website/) - a curation of the best web design inspiration, every day  
+- [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday  
 - [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
 
 
@@ -50,7 +50,7 @@ _Tools, resources, articles, inspiration_
 - [Visual Design in UX: Study Guide](https://www.nngroup.com/articles/visual-design-in-ux-study-guide/) - article
 - [Interaction Design Foundation: The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature) - article
 - [Lows of UX](https://lawsofux.com/) - a collection of best practices that designers can consider when building user interfaces
-- [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused around digital well-being
+- [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
 - [Practical UX skills and tools](https://uxtools.co/) - practical lessons, resources, and news in just 5 minutes a week
 - [Laws of UX](https://lawsofux.com/) - a collection of best practices that designers can consider when building user interfaces
 - [Design Principles](https://principles.design/) - аn open source collection of Design Principles and methods
@@ -229,8 +229,18 @@ _Tools, resources, articles, inspiration_
 - [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/mockuuups-studio) - mockup plugin with 4500+ device mockups
 - [iOS 16 UI Kit for Figma](https://www.figma.com/community/file/1121065701252736567) - contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS
 - [Translator](https://www.figma.com/community/plugin/743218037112142643/translator) - enables you to translate your text layers to other languages right in Figma
-- [Setproduct](https://www.setproduct.com/freebies) Free Figma Templates - UI kits, app templates, design systems (freebies as included)
+- [Setproduct](https://www.setproduct.com/freebies) - free Figma Templates - UI kits, app templates, design systems (freebies as included)
 - [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
+- [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint) - a plugin that finds missing styles within your designs
+- [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort) - automatically applies a basic structure to your component sets (variants) which can be customized to your liking
+- [Super Tidy](https://www.figma.com/community/plugin/731260060173130163/super-tidy) - keep your design tidy by easily aligning, renaming, and reordering your frames based on their canvas position
+- [Styles & Variables Organizer](https://www.figma.com/community/plugin/816627069580757929/styles-variables-organizer) - link values used in your design file to all types of styles and variables easily
+- [Typography Style Guide Generator](https://www.figma.com/community/plugin/1209900339618349575/typography-style-guide-generator) - this plugin allows you to generate a typography style guide based on your defined local styles
+- [Delete Hidden Layers](https://www.figma.com/community/plugin/750292779381900360/delete-hidden-layers) - delete all hidden layers (also locked) at current or inside selected frame page except layers in components
+- [Humaan Annotations](https://www.figma.com/community/widget/1253154577300925316) - a helpful widget for annotating/commenting on designs within the Figma canvas
+- [To Do: Just a task on your canvas](https://www.figma.com/community/widget/1229395149230714315) - the tool for keeping track of tasks and managing workflow without ever leaving the design environment
+- [Ticket Sync](https://www.figma.com/community/plugin/1073234730618485706/ticket-sync) - effortlessly link your project management tool (Jira, ClickUp, Monday) and Figma with Ticket Sync
+- [Faker](https://www.figma.com/community/plugin/833836762121994814/faker) - quickly generates realistic placeholder text. Names, emails, URLs, headlines, and more
 
 ## 📦 Mockups
 
