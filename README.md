@@ -5,7 +5,15 @@ _Tools, resources, articles, inspiration_
 [<img src="https://i.imgur.com/kq9XYWU.png">](https://discord.gg/exncPmG4tH)
 
 ## 👾 Design Inspiration
-
+ 
+- [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
+- [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
+- [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
+- [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
+- [Dark](https://www.dark.design/) - handpicked dark-mode designs
+- [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday
+- [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos   
+- [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
 - [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
 - [Behance](https://www.behance.net/) - the world's largest creative network to showcase work, find inspiration, and get hired
 - [Awwwards](https://www.awwwards.com/) - the Website Awards that recognize and promote the talent and effort of the best developers, designers, and web agencies in the world
@@ -13,12 +21,10 @@ _Tools, resources, articles, inspiration_
 - [Savee](https://savee.it/) -  a platform where creatives find inspiration
 - [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
-- [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
 - [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 - [Mobbin](https://mobbin.com/browse/ios/apps) - the world’s largest mobile and web design library
-- [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
 - [Land-book](https://land-book.com/) -  hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
@@ -28,22 +34,31 @@ _Tools, resources, articles, inspiration_
 - [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
 - [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
-- [Appshots design](https://appshots.design/) - inspiring real-world UX designs  
-- [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos  
-- [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design  
-- [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday  
-- [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
+- [Appshots design](https://appshots.design/) - inspiring real-world UX designs
 
+## 📰 News & Blogs
 
-## 🤩 Branding Inspiration
+- [It's Nice That](https://www.itsnicethat.com/projects-creatives) - daily dose of creative inspiration
+- [Design Milk](https://design-milk.com/) - spotlights emerging talent, innovation, and creative living across architecture, art, and more
+- [Smashing Magazine](https://www.smashingmagazine.com/) - offers practical design and development insights to help you build better, user-friendly websites
+- [UX Collective](https://uxdesign.cc/) - a design publication sharing thoughtful insights on UX, product, and visual design
+- [The Creative Edge](https://99designs.com/blog/) - 99designs' blog offers design inspiration, tutorials, and resources for designers and entrepreneurs
+- [Creative Boom](https://www.creativeboom.com/) - delivers news, inspiration, and insights to empower the global creative community
+- [Made By James](https://themadebyjames.com/the-blog/) - design tips by James Martin
+- [Nielsen Norman Group Articles & Videos](https://www.nngroup.com/articles/) - provides research-based insights on user experience, interaction design, and usability
+- [The DESK Magazine](https://vanschneider.com/blog/) - the design blog of Tobias von Schneider
 
-- [Starbucks Creative Expression](https://creative.starbucks.com/)
-- [Dropbox Brand Guidelines](https://brand.dropbox.com/)
-- [IBM Design Language](https://www.ibm.com/design/language/)
-- [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
-- [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
-- [Instagram Brand Identity](https://about.instagram.com/brand)
+## 👓 Newsletters
+
+- [It's Nice That](https://www.itsnicethat.com/newsletters) - featuring top creative stories, industry news, and cultural highlights each week
+- [Design Milk](https://design-milk.com/subscriptions/) - get the latest design news and fresh design finds
+- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) - useful tips and techniques on front-end and UX
+- [UX Collective](https://newsletter.uxdesign.cc/) - provides weekly insights and resources to help designers think critically about their work
+- [Dense Discovery](https://www.densediscovery.com/) - offers a curated selection of links across design, technology, art, urbanism, and sustainability
+- [Creative Boom](https://www.creativeboom.com/news/) - a curated selection of inspiring stories, news, and insights from the creative industries
+- [NN/g Newsletter](https://www.nngroup.com/articles/subscribe/) - the latest articles about usability, design, and UX research from the Nielsen Norman Group
+- [HeyDesigner](https://heydesigner.com/) - the go-to newsletter for product people, UXers, PMs, and design engineers
+- [Interaction Design Foundation](https://www.interaction-design.org/newsletter) - stay updated with high-quality educational material every week
 
 ## 👨‍🎓 Learning UI/UX
 
@@ -59,7 +74,17 @@ _Tools, resources, articles, inspiration_
 - [UX Resources & Bookmarks](https://simonasmaciulis.gumroad.com/l/ux-resources) - 200+ resources that will help you to learn more about UX
 - [Memorisely](https://www.memorisely.com/) - live and on-demand immersive Figma training plans
 - [User-Interface Elements: Glossary](https://www.nngroup.com/articles/ui-elements-glossary/?utm_campaign=&utm_source=linkedin&utm_medium=social#Ribbon) - use this glossary to clarify definitions for key graphical user-interface elements and controls quickly
+- [Design Patterns Catalogue](https://catalogue.projectsbyif.com/) - design pattern guideline resources to help you build better websites and apps
 
+## 🤩 Branding Inspiration
+
+- [Starbucks Creative Expression](https://creative.starbucks.com/)
+- [Dropbox Brand Guidelines](https://brand.dropbox.com/)
+- [IBM Design Language](https://www.ibm.com/design/language/)
+- [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
+- [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
+- [Instagram Brand Identity](https://about.instagram.com/brand)
 
 ## 💫 Awesome lists
 
@@ -82,12 +107,15 @@ _Tools, resources, articles, inspiration_
 - [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
 - [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
 - [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react) 
-- [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility  
+- [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
+- [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
+- [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
+- [Simple Design System](https://www.figma.com/community/file/1380235722331273046) - a UI kit built by Figma to help you get started faster using pre-built examples and components
 
 ## 📝 Design System Resources
 
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
-- [Hey Design Systems\!](https://heydesign.systems/) - your introduction to design systems
+- [Hey Design Systems!](https://heydesign.systems/) - your introduction to design systems
 
 ## ⚙️ Design Systems
 
@@ -113,7 +141,7 @@ _Tools, resources, articles, inspiration_
 - [28 Best Free Fonts for Modern UI Design in 2025 (+ Typography Best Practices)](https://www.untitledui.com/blog/best-free-fonts) - article
 - [Font trends for 2025 that creatives should keep in mind](https://www.lummi.ai/blog/font-trends)
 
-**🅰 Typography tools**
+## 🅰 Typography tools
 
 - [Typescale](https://typescale.com/) - A simple tool that allows you to preview and adjust typography scales with different fonts and ratios  
 - [Typespiration](https://typespiration.com/) - a complete guide to matching typefaces, styling techniques, improving readability, and more
@@ -129,6 +157,7 @@ _Tools, resources, articles, inspiration_
 - [Typefaces.today](https://typefaces.today/) - handpicked typefaces for your creative projects  
 - [Fontshare](https://www.fontshare.com/) - a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all  
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
+- [YouWorkForThem](https://www.youworkforthem.com/) - free high-quality fonts and graphics
 
 ## 🎨 Illustrations
 
@@ -138,7 +167,10 @@ _Tools, resources, articles, inspiration_
 - [unDraw](https://undraw.co/illustrations) - free open-source SVG illustrations
 - [DrawKit](https://www.drawkit.com/) - hand-drawn 2D & 3D illustrations, icons and animations
 - [ManyPixels](https://www.manypixels.co/gallery) - a royalty-free illustrations gallery
-- [coolshapes](https://coolshap.es/) \- 100+ abstract shapes with cool grainy gradient  
+- [coolshapes](https://coolshap.es/) - 100+ abstract shapes with cool grainy gradient
+- [Shapes](https://shapes.framer.website/) - SVG shapes that you can easily copy and paste into your designs
+- [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
+- [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
 
 ## 👾 Avatars
 
@@ -165,6 +197,8 @@ _Tools, resources, articles, inspiration_
 - [OpenMoji](https://openmoji.org/) - open-source emojis for designers, developers  
 - [Tabler Icons](https://tabler.io/icons) - free and open-source icons designed to make your website or app attractive, visually consistent, and simply beautiful  
 - [Phosphor](https://phosphoricons.com/) - a flexible icon family for interfaces, diagrams, presentations
+- [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
+- [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
 
 ## 🌈 Colors
 
@@ -180,6 +214,7 @@ _Tools, resources, articles, inspiration_
 - [Tone](https://t-o-n-e.com/) - Color Inspiration - explores natural color schemes of beautiful places on Earth through photography  
 - [Adobe Color](https://color.adobe.com/) - gives you the power to extract a beautiful gradient from any image you choose  
 - [Spectrum Art](https://spectrum.art/) - Explore perfect color shades for website design updated in line with trends
+- [BrandColors](https://brandcolors.net/) - the biggest collection of official brand color codes around
 
 
 ## 🖼️ Images & backgrounds
@@ -199,6 +234,7 @@ _Tools, resources, articles, inspiration_
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
 - [Lummi](https://www.lummi.ai/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
+- [The Pattern Library](http://thepatternlibrary.com/#maze) - a collection of background patterns
 
 ## ✂️ Image tools
 
@@ -232,7 +268,7 @@ _Tools, resources, articles, inspiration_
 - [Setproduct](https://www.setproduct.com/freebies) - free Figma Templates - UI kits, app templates, design systems (freebies as included)
 - [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint) - a plugin that finds missing styles within your designs
-- [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort) - automatically applies a basic structure to your component sets (variants) which can be customized to your liking
+- [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort) - automatically applies a basic structure to your component sets (variants), which can be customized to your liking
 - [Super Tidy](https://www.figma.com/community/plugin/731260060173130163/super-tidy) - keep your design tidy by easily aligning, renaming, and reordering your frames based on their canvas position
 - [Styles & Variables Organizer](https://www.figma.com/community/plugin/816627069580757929/styles-variables-organizer) - link values used in your design file to all types of styles and variables easily
 - [Typography Style Guide Generator](https://www.figma.com/community/plugin/1209900339618349575/typography-style-guide-generator) - this plugin allows you to generate a typography style guide based on your defined local styles
@@ -241,6 +277,18 @@ _Tools, resources, articles, inspiration_
 - [To Do: Just a task on your canvas](https://www.figma.com/community/widget/1229395149230714315) - the tool for keeping track of tasks and managing workflow without ever leaving the design environment
 - [Ticket Sync](https://www.figma.com/community/plugin/1073234730618485706/ticket-sync) - effortlessly link your project management tool (Jira, ClickUp, Monday) and Figma with Ticket Sync
 - [Faker](https://www.figma.com/community/plugin/833836762121994814/faker) - quickly generates realistic placeholder text. Names, emails, URLs, headlines, and more
+- [Curve Text](https://www.figma.com/community/plugin/1331748701210388011/curve-text) - from circles, squares, arches, to custom paths – bend your text any way you want
+- [Displace – pattern glass, noise and glitch effects](https://www.figma.com/community/plugin/1415463691038193181/displace-pattern-glass-noise-and-glitch-effects) - create stunning reeded glass, noise, and glitch effects with real-time adjustments
+- [3D Wave: Soften everything like fabric](https://www.figma.com/community/plugin/1026141971534783843/3d-wave-soften-everything-like-fabric) - make Everything into 3D wave
+- [Randomiser](https://www.figma.com/community/plugin/1189284785668093844/randomiser) - randomise the positions, sizes, and colors of elements within a frame with just a few clicks
+- [Trace Images](https://www.figma.com/community/plugin/1291512177354533481/trace-images) - convert JPEGs and PNGs to vibrant SVG vectors in a single click, all within Figma
+- [Progressive Blur](https://www.figma.com/community/plugin/1362669306042132547/progressive-blur) - create real progressive blurs to your files, all in Figma
+- [Stark - Contrast & Accessibility Checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker) - a powerful combination of integrated tools that help you streamline your accessibility workflow
+- [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers an access a world of stunning, AI-generated images crafted by talented digital artists
+- [Unipaste](https://www.figma.com/community/plugin/964930640501844415/unipaste) - delivers the easiest way to work with special characters in Figma
+- [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/breakpoints) - preview responsive layout inside a Figma frame and share animated prototype
+- [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
+- [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
 
 ## 📦 Mockups
 
@@ -301,7 +349,11 @@ _Tools, resources, articles, inspiration_
 #### Website building
 
 - [Relume](https://www.relume.io/) -[ ](https://library.relume.io/)websites designed and built faster with AI
+- [Dora AI](https://www.dora.run/ai) - generate, customize, and deploy 3D websites with AI
 - [Visily AI](https://www.visily.ai/) - wireframe tool that swiftly transforms screenshots, templates, or text prompts into editable wireframes and prototypes, powered by AI
+- [Readdy AI](https://readdy.ai/) - turns your product requirements into beautiful, professional designs in minutes
+- [Softgen AI](https://try.softgen.ai/) - transform your ideas into stunning web applications
+- [Wegic](https://wegic.ai/) - create custom websites in seconds
 
 #### Copy
 
