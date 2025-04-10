@@ -85,6 +85,7 @@ _Tools, resources, articles, inspiration_
 - [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
 - [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
 - [Instagram Brand Identity](https://about.instagram.com/brand)
+- [Wise Design Identity](https://wise.design/)
 
 ## 💫 Awesome lists
 
@@ -94,6 +95,7 @@ _Tools, resources, articles, inspiration_
 - [Checklist Design](https://www.checklist.design/) - a collection of the best design practices
 - [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions and understand systems
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
+- [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers including tools, articles, books, plugins, and more by Adham Dannaway
 
 ## 🛠️ Component references and inspiration
 
@@ -116,6 +118,7 @@ _Tools, resources, articles, inspiration_
 
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
 - [Hey Design Systems!](https://heydesign.systems/) - your introduction to design systems
+- [Design System Knowledge Base](https://thedesignsystem.guide/knowledge-base) - resource for design system questions
 
 ## ⚙️ Design Systems
 
@@ -134,7 +137,8 @@ _Tools, resources, articles, inspiration_
 ## 🤓 Аccessibility
 
 - [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
-- [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy.
+- [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
+- [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
 
 ## 🖊️ Typography articles
 
