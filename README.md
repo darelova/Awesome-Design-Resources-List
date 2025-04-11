@@ -136,6 +136,10 @@ _Tools, resources, articles, inspiration_
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
 
+## 📦 No-code tools
+
+- [PeachWeb](https://peachweb.io/) - 3D website builder interface showcasing e-commerce and storytelling features for engaging experiences
+
 ## 🤓 Аccessibility
 
 - [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
