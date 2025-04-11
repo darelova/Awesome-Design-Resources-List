@@ -2,13 +2,14 @@
 
 _Tools, resources, articles, inspiration_
 
-[<img src="https://i.imgur.com/kq9XYWU.png">](https://discord.gg/exncPmG4tH)
+[<img src="https://i.imgur.com/ifdpil8.png">](https://discord.gg/exncPmG4tH)
 
 ## 👾 Design Inspiration
  
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
 - [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
 - [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
+- [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions 
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
 - [Dark](https://www.dark.design/) - handpicked dark-mode designs
 - [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday
@@ -35,6 +36,7 @@ _Tools, resources, articles, inspiration_
 - [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
+- [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
 
 ## 📰 News & Blogs
 
@@ -175,6 +177,7 @@ _Tools, resources, articles, inspiration_
 - [Shapes](https://shapes.framer.website/) - SVG shapes that you can easily copy and paste into your designs
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
 - [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
+- [Absurd Design](https://absurd.design/) - free Surrealist Illustrations
 
 ## 👾 Avatars
 
@@ -203,6 +206,7 @@ _Tools, resources, articles, inspiration_
 - [Phosphor](https://phosphoricons.com/) - a flexible icon family for interfaces, diagrams, presentations
 - [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
 - [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
+- [Icons for AI](https://iconsforai.com/) - free 16x16 icons made for AI projects!
 
 ## 🌈 Colors
 
@@ -254,6 +258,7 @@ _Tools, resources, articles, inspiration_
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device   
 - [Phase](https://www.phase.com/) - web application to create and edit animations
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
+- [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
 
 ## 🌐 3D Visualization
 
