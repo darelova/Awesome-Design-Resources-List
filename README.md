@@ -128,23 +128,19 @@ _Tools, resources, articles, inspiration_
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft’s collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior
 - [Carbon Design System](https://carbondesignsystem.com/) - IBM's open-source design system for digital experiences, with a focus on accessibility, modularity, and flexibility  
 
-
-## 🕹️ Games & tasks to help you master your design skills
-
-- [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
-- [What Should I Design](http://www.whatshouldidesign.com/) - a set of design challenges to practice design
-- [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
-- [UX Design Challenges](https://uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
-
 ## 📦 No-code tools
 
-- [PeachWeb](https://peachweb.io/) - 3D website builder interface showcasing e-commerce and storytelling features for engaging experiences
+- [Framer](https://www.framer.com/)
+- [Webflow](https://webflow.com/)
+- [Subframe](https://www.subframe.com/)
+- [PeachWeb](https://peachweb.io/)
 
 ## 🤓 Аccessibility
 
 - [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
 - [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
 - [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
+- [Microsoft Inclusive Design](https://inclusive.microsoft.design/) - methodology, born out of digital environments, that enables and draws on the full range of human diversity
 
 ## 🖊️ Typography articles
 
@@ -320,6 +316,13 @@ _Tools, resources, articles, inspiration_
 - [Flyerwrk](https://www.flyerwrk.com/en-com/collections/freebies) - mockup freebies collection  
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
+
+## 🕹️ Games & tasks to help you master your design skills
+
+- [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
+- [What Should I Design](http://www.whatshouldidesign.com/) - a set of design challenges to practice design
+- [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
+- [UX Design Challenges](https://uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
 
 ## ✨ AI
 
