@@ -357,6 +357,7 @@ _Tools, resources, articles, inspiration_
 #### Emojis
 
 - [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
+- [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
 
 #### Creating landing pages
 
