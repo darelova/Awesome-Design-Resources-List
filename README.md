@@ -37,6 +37,7 @@ _Tools, resources, articles, inspiration_
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
 - [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
+- [Websitevice](https://websitevice.com/) - website examples for inspiration
 
 ## 📰 News & Blogs
 
