@@ -11,7 +11,7 @@ _Tools, resources, articles, inspiration_
 - [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
 - [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions 
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
-- [Dark](https://www.dark.design/) - handpicked dark-mode designs
+- [Dark Design](https://www.dark.design/) - handpicked dark-mode designs
 - [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday
 - [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos   
 - [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
@@ -366,12 +366,16 @@ _Tools, resources, articles, inspiration_
 
 #### Website building
 
-- [Relume](https://www.relume.io/) -[ ](https://library.relume.io/)websites designed and built faster with AI
+- [Relume](https://www.relume.io/) - websites designed and built faster with AI
 - [Dora AI](https://www.dora.run/ai) - generate, customize, and deploy 3D websites with AI
 - [Visily AI](https://www.visily.ai/) - wireframe tool that swiftly transforms screenshots, templates, or text prompts into editable wireframes and prototypes, powered by AI
 - [Readdy AI](https://readdy.ai/) - turns your product requirements into beautiful, professional designs in minutes
 - [Softgen AI](https://try.softgen.ai/) - transform your ideas into stunning web applications
 - [Wegic](https://wegic.ai/) - create custom websites in seconds
+
+#### UX Design
+
+- [SiteForge](https://siteforge.io/) - AI Wireframe Generator
 
 #### Copy
 
@@ -389,3 +393,7 @@ _Tools, resources, articles, inspiration_
 #### Branding
 
 - [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
+
+#### Backgrounds
+
+- [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
