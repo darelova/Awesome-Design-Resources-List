@@ -248,7 +248,6 @@ _Tools, resources, articles, inspiration_
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
 - [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
-- [The Pattern Library](https://thepatternlibrary.com/#maze) - a collection of background patterns
 
 ## ✂️ Image tools
 
@@ -308,6 +307,7 @@ _Tools, resources, articles, inspiration_
 - [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/breakpoints) - preview responsive layout inside a Figma frame and share animated prototype
 - [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
 - [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
+- [Genie](https://genie.framer.website/) - simplify your content creation process with AI
 
 ## 🔌 Other plugins
 
@@ -412,6 +412,8 @@ _Tools, resources, articles, inspiration_
 #### Branding
 
 - [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
+- [Logome](https://www.logome.ai/) - design your stunning brand logo with AI
+- [Mokker](https://mokker.ai/) - AI background for product photos
 
 #### Backgrounds
 
