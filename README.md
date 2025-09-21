@@ -2,7 +2,7 @@
 
 _Tools, resources, articles, inspiration_
 
-[<img src="https://i.imgur.com/ifdpil8.png">](https://discord.gg/exncPmG4tH)
+[<img src="https://i.imgur.com/ifdpil8.png">](https://discord.gg/invite/exncPmG4tH)
 
 ## 👾 Design Inspiration
  
@@ -25,7 +25,7 @@ _Tools, resources, articles, inspiration_
 - [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
-- [Mobbin](https://mobbin.com/browse/ios/apps) - the world’s largest mobile and web design library
+- [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
 - [Land-book](https://land-book.com/) -  hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
@@ -106,7 +106,7 @@ _Tools, resources, articles, inspiration_
 
 ## 📚 Component libraries
 
-- [Tailwind components](https://tailwindui.com/components) - in-depth industry-standard compilation of components
+- [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
 - [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
 - [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
@@ -212,7 +212,7 @@ _Tools, resources, articles, inspiration_
 ## 🌈 Colors
 
 - [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs
-- [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/create) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
+- [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Randoma11y](https://randoma11y.com/?color=%2300ffff) - an endless collection of accessible color combos
 - [MyMind](https://access.mymind.com/colors) - a collection of unique color combinations for your design projects
 - [Color Box](https://colorbox.io/) - generate, preview, and organize color palettes  
@@ -242,8 +242,8 @@ _Tools, resources, articles, inspiration_
 - [Shotstash](https://shotstash.com/) - free stock photos for creative professionals  
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
-- [Lummi](https://www.lummi.ai/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
-- [The Pattern Library](http://thepatternlibrary.com/#maze) - a collection of background patterns
+- [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
+- [The Pattern Library](https://thepatternlibrary.com/#maze) - a collection of background patterns
 
 ## ✂️ Image tools
 
@@ -263,7 +263,7 @@ _Tools, resources, articles, inspiration_
 
 ## 🌐 3D Visualization
 
-- [three.js](http://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
+- [three.js](https://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
 
@@ -304,8 +304,8 @@ _Tools, resources, articles, inspiration_
 
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Mockuuups Studio](https://mockuuups.studio/) - drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free
-- [Angle.sh](http://angle.sh) - vector device mockups for Sketch, Figma, and XD
-- [Shots.so](http://shots.so) - any mockup that you need. Choose a mockup that suits your needs drag and drop your screenshot, design or any image to get started
+- [Angle.sh](https://angle.sh) - vector device mockups for Sketch, Figma, and XD
+- [Shots.so](https://shots.so) - any mockup that you need. Choose a mockup that suits your needs drag and drop your screenshot, design or any image to get started
 - [Mockupworld](https://www.mockupworld.co/) - source of photo-realistic free PSD Mockups online  
 - [Pixeden](https://www.pixeden.com/) - exclusive graphic, web, and design assets club (free and paid)  
 - [Mockups Design](https://mockups-design.com/) - source of free & high-quality mockups  
@@ -321,9 +321,9 @@ _Tools, resources, articles, inspiration_
 ## 🕹️ Games & tasks to help you master your design skills
 
 - [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
-- [What Should I Design](http://www.whatshouldidesign.com/) - a set of design challenges to practice design
+- [What Should I Design](https://www.whatshouldidesign.com/) - a set of design challenges to practice design
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
-- [UX Design Challenges](https://uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
+- [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
 
 ## ✨ AI
 
@@ -337,7 +337,7 @@ _Tools, resources, articles, inspiration_
 
 #### Image scaling
 
-- [Topaz](https://www.topazlabs.com/topaz-photo-ai) - sharpen, denoise, and upscale your images
+- [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 
 #### For image generation
 
@@ -349,7 +349,7 @@ _Tools, resources, articles, inspiration_
 
 #### For music
 
-- [Suno](https://suno.com/) - building a future where anyone can make great music
+- [Suno](https://suno.com/home) - building a future where anyone can make great music
 
 #### For videos
 
@@ -383,7 +383,7 @@ _Tools, resources, articles, inspiration_
 
 #### Colors
 
-- [AI colors](https://aicolors.co/) - create cool and unique color palettes with an AI-powered color palette generator
+- [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 
 #### Vectorizing
