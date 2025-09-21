@@ -31,13 +31,16 @@ _Tools, resources, articles, inspiration_
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
 - [Visuelle](https://visuelle.co.uk/) - an online creative showcase and feed curated by David Bennett, Creative Director at OPX Studio  
 - [Logggos](https://www.logggos.club/) - a catalog of well-designed logos  
-- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX as well as tutorials for Photoshop and other tools  
+- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
 - [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
 - [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
 - [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
 - [Websitevice](https://websitevice.com/) - website examples for inspiration
+- [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
+- [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
+- [Puchkeen](https://pushkeen.ai/) - the world’s largest push notifications library
 
 ## 📰 News & Blogs
 
@@ -99,6 +102,7 @@ _Tools, resources, articles, inspiration_
 - [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions and understand systems
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers including tools, articles, books, plugins, and more by Adham Dannaway
+- [Design Sphere](https://www.designsphere.xyz/) - a curated selection of podcasts discussing UX/UI, branding, motion design, graphic design, design systems, & more
 
 ## 🛠️ Component references and inspiration
 
@@ -179,6 +183,7 @@ _Tools, resources, articles, inspiration_
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
 - [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
 - [Absurd Design](https://absurd.design/) - free Surrealist Illustrations
+- [Spectrum](https://spectrums.framer.website/) - free vector shapes
 
 ## 👾 Avatars
 
@@ -248,7 +253,11 @@ _Tools, resources, articles, inspiration_
 ## ✂️ Image tools
 
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
-- [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images  
+- [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
+
+## Patterns
+
+- [Mazeletter](http://mazeletter.xyz/) - build zigzagging hedges, calligraphic ribbons, art deco facades and impossible staircases with this collection of infinitely tiling pattern fonts
 
 ## 📍 Animation
 
@@ -300,6 +309,10 @@ _Tools, resources, articles, inspiration_
 - [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
 - [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
 
+## 🔌 Other plugins
+
+- [Frameplugins](https://frameplugins.com/) - best Framer plugins to supercharge your website
+
 ## 📦 Mockups
 
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
@@ -346,6 +359,11 @@ _Tools, resources, articles, inspiration_
 - [Stable Defusion](https://stability.ai/stable-image)
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html)
 - [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
+- [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
+
+#### For illustrations and icons generation
+
+- [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 
 #### For music
 
@@ -363,6 +381,7 @@ _Tools, resources, articles, inspiration_
 #### Creating landing pages
 
 - [Musho](https://musho.ai/) - turns your prompts into nearly complete, dev-ready websites with simple layouts
+- [Figr](https://figr.design/) - first AI for deep product thinking to go from research to Interface designs
 
 #### Website building
 
