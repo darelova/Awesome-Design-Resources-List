@@ -360,6 +360,7 @@ _Tools, resources, articles, inspiration_
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html)
 - [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
+- [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 
 #### For illustrations and icons generation
 
