@@ -6,8 +6,6 @@ Tools, resources, articles, inspiration
 
 ## 🎨 Colors & Palettes
 
-- [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
-- [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs
 - [Randoma11y](https://randoma11y.com/?color=%2300ffff) - an endless collection of accessible color combos
 - [MyMind](https://access.mymind.com/colors) - a collection of unique color combinations for your design projects
@@ -18,7 +16,6 @@ Tools, resources, articles, inspiration
 - [Goodpalette](https://goodpalette.io/ed330e-3cc3de-b3adab) - a curated color palette generator that provides aesthetically pleasing color combinations  
 - [Tone](https://t-o-n-e.com/) - Color Inspiration - explores natural color schemes of beautiful places on Earth through photography  
 - [Adobe Color](https://color.adobe.com/) - gives you the power to extract a beautiful gradient from any image you choose
-- 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 
@@ -39,7 +36,7 @@ Tools, resources, articles, inspiration
 
 ## 🖼️ Icons & Illustrations (SVGs, Packs, Tools)
 
-- [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
+- 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - [coolshapes](https://coolshap.es/) - 100+ abstract shapes with cool grainy gradient
 - [MapSVG](https://mapsvg.com/maps) - download a free SVG map of any country in the world, free for commercial use
 - [Open Doodles](https://www.opendoodles.com/) - a library of sketchy illustrations of people free for personal and commercial use
@@ -48,13 +45,8 @@ Tools, resources, articles, inspiration
 - [DrawKit](https://www.drawkit.com/) - hand-drawn 2D & 3D illustrations, icons and animations
 - [ManyPixels](https://www.manypixels.co/gallery) - a royalty-free illustrations gallery
 - [Shapes](https://shapes.framer.website/) - SVG shapes that you can easily copy and paste into your designs
-- [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
-- [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
 - [Absurd Design](https://absurd.design/) - free Surrealist Illustrations
 - [Spectrum](https://spectrums.framer.website/) - free vector shapes
-- [Mazeletter](http://mazeletter.xyz/) - build zigzagging hedges, calligraphic ribbons, art deco facades and impossible staircases with this collection of infinitely tiling pattern fonts
-- [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
-- [DiceBear Avatars](https://dicebear.com/) - A free avatar library offering customizable, SVG-based avatar styles
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
 
 ### Icon sets
@@ -79,7 +71,7 @@ Tools, resources, articles, inspiration
 - [Phosphor](https://phosphoricons.com/) - a flexible icon family for interfaces, diagrams, presentations
 - [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
 - [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
-- [Icons for AI](https://iconsforai.com/) - free 16x16 icons made for AI projects!
+- 🤖 [Icons for AI](https://iconsforai.com/) - free 16x16 icons made for AI projects!
 - 🤖 [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
@@ -106,7 +98,6 @@ Tools, resources, articles, inspiration
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
-- 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 
 ## 📐 UI Kits & Component Libraries
 
@@ -120,7 +111,6 @@ Tools, resources, articles, inspiration
 - [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
-- [Simple Design System](https://www.figma.com/community/file/1380235722331273046) - a UI kit built by Figma to help you get started faster using pre-built examples and components
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
@@ -140,10 +130,18 @@ Tools, resources, articles, inspiration
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
 
-## 🛠️ Tools & Generators (Gradients, Shadows, Converters)
+## 🛠️ Production Tools (Gradients, Shadows, Converters)
 
+- [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
+- [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
+- [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
+- [DiceBear Avatars](https://dicebear.com/) - A free avatar library offering customizable, SVG-based avatar styles
+- 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
+- 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
+- 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
+- 🤖 [Captions](https://www.captions.ai/) - creates videos from captions with AI
 
 ## 🧩 Design Systems & Frameworks
 
@@ -183,7 +181,7 @@ Tools, resources, articles, inspiration
 - [User-Interface Elements: Glossary](https://www.nngroup.com/articles/ui-elements-glossary/?utm_campaign=&utm_source=linkedin&utm_medium=social#Ribbon) - use this glossary to clarify definitions for key graphical user-interface elements and controls quickly
 - [Design Patterns Catalogue](https://catalogue.projectsbyif.com/) - design pattern guideline resources to help you build better websites and apps
 
-## 🌐 Communities & Platforms (Showcases, Portfolios, Inspiration)
+## 🌐 Inspiration & Community (Showcases, Portfolios, Galleries)
 
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
 - [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
@@ -201,7 +199,6 @@ Tools, resources, articles, inspiration
 - [Savee](https://savee.it/) -  a platform where creatives find inspiration
 - [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
-- [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
@@ -226,6 +223,7 @@ Tools, resources, articles, inspiration
 
 ## 🔌 Figma plugins & resources
 
+- [Simple Design System](https://www.figma.com/community/file/1380235722331273046) - a UI kit built by Figma to help you get started faster using pre-built examples and components
 - [Fig Mayo](https://www.figmayo.com/) - effortless design system docs
 - [Specs (formerly, EightShapes Specs)](https://www.figma.com/community/plugin/1205622541257680763/specs-formerly-eightshapes-specs) - automate production of page and component design specifications (“specs”) of selected components, instances and frames.
 - [Contrast Grid](https://www.figma.com/community/plugin/993414361395505148/Contrast-Grid) - a plugin to check the contrast of multiple foreground and background color combos for a11y with WCAG 2.1 minimum contrast
@@ -233,7 +231,7 @@ Tools, resources, articles, inspiration
 - [iOS 16 UI Kit for Figma](https://www.figma.com/community/file/1121065701252736567) - contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS
 - [Translator](https://www.figma.com/community/plugin/743218037112142643/translator) - enables you to translate your text layers to other languages right in Figma
 - [Setproduct](https://www.setproduct.com/freebies) - free Figma Templates - UI kits, app templates, design systems (freebies as included)
-- [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
+- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint) - a plugin that finds missing styles within your designs
 - [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort) - automatically applies a basic structure to your component sets (variants), which can be customized to your liking
 - [Super Tidy](https://www.figma.com/community/plugin/731260060173130163/super-tidy) - keep your design tidy by easily aligning, renaming, and reordering your frames based on their canvas position
@@ -294,21 +292,22 @@ Tools, resources, articles, inspiration
 - 🤖 [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic
 - 🤖 [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
 
-## 🎬 Animations & 3D
+## 🎬 Animations, 3D and Sound
 
-- [GSAP](https://gsap.com/) - JavaScript animation library
+- [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
+- [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
+- [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
+- [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
+- [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
 - [Modyfi](https://www.modyfi.com/modifiers) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device   
-- [Phase](https://www.phase.com/) - web application to create and edit animations
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
-- [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
+- [Phase](https://www.phase.com/) - web application to create and edit animations
+- [GSAP](https://gsap.com/) - JavaScript animation library
 - [three.js](https://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
-- [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
-- 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
-- 🤖 [Captions](https://www.captions.ai/) - creates videos from captions with AI
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
@@ -340,4 +339,6 @@ Tools, resources, articles, inspiration
 - [What Should I Design](https://www.whatshouldidesign.com/) - a set of design challenges to practice design
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
+
+## ⁉️ Others
 
