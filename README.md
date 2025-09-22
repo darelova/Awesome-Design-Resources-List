@@ -2,12 +2,63 @@
 
 Tools, resources, articles, inspiration
 
-[<img src="https://i.imgur.com/ifdpil8.png">](https://discord.gg/invite/exncPmG4tH)
+[![A collection of design goodies for your everyday work. Tools, tips and inspiration all in one place.](https://i.imgur.com/ifdpil8.png)](https://discord.gg/invite/exncPmG4tH)
+
+Some sections in this list inevitably overlap because design resources often serve multiple purposes. A UI kit might also function as a design system, an icon library can double as an illustration source, and certain tools could be categorized under both generators and accessibility. Instead of treating these as strict boundaries, think of the sections as entry points—groupings that highlight the main use of a resource while acknowledging that many could fit comfortably in more than one place.
+
+## 🌐 Inspiration & Community (Showcases, Portfolios, Galleries)
+
+- [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
+- [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
+- [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
+- [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions
+- [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
+- [Dark Design](https://www.dark.design/) - handpicked dark-mode designs
+- [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday
+- [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos
+- [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
+- [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
+- [Behance](https://www.behance.net/) - the world's largest creative network to showcase work, find inspiration, and get hired
+- [Awwwards](https://www.awwwards.com/) - the Website Awards that recognize and promote the talent and effort of the best developers, designers, and web agencies in the world
+- [Muz.li](https://muz.li/) - a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop
+- [Savee](https://savee.it/) -  a platform where creatives find inspiration
+- [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
+- [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
+- [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
+- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
+- [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
+- [Land-book](https://land-book.com/) -  hand-picked website design inspiration
+- [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
+- [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
+- [Visuelle](https://visuelle.co.uk/) - an online creative showcase and feed curated by David Bennett, Creative Director at OPX Studio  
+- [Logggos](https://www.logggos.club/) - a catalog of well-designed logos  
+- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
+- [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
+- [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
+- [Appshots design](https://appshots.design/) - inspiring real-world UX designs
+- [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
+- [Websitevice](https://websitevice.com/) - website examples for inspiration
+- [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
+- [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
+- [Puchkeen](https://pushkeen.ai/) - the world's largest push notifications library
+
+## 📐 UI Kits & Component Libraries
+
+- [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
+- [The Component Gallery](https://component.gallery/components/accordion/) - an up-to-date repository of interface components based on examples from the world of design systems
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
+- [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
+- [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
+- [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
+- [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react)
+- [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
+- [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
+- [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
 
 ## 🎨 Colors & Palettes
 
 - [Coolors](https://coolors.co/) - generate or browse beautiful color combinations for your designs
-- [Randoma11y](https://randoma11y.com/?color=%2300ffff) - an endless collection of accessible color combos
+- [Randoma11y](https://randoma11y.com/) - an endless collection of accessible color combos
 - [MyMind](https://access.mymind.com/colors) - a collection of unique color combinations for your design projects
 - [Color Box](https://colorbox.io/) - generate, preview, and organize color palettes  
 - [Colorsinspo](https://colorsinspo.com/) - an all-in-one resource to find everything about colors with extreme ease  
@@ -28,7 +79,7 @@ Tools, resources, articles, inspiration
 - [Free Faces Gallery](https://www.freefaces.gallery/?fbclid=IwAR0z5NvxCSwOIEuwL8Ox6wROg1mqkn76V5HxE44HU-kOMKyq185U2Vsf10M) - a curated collection of typefaces that are available under a variety of free licenses somewhere on the interwebs
 - [Collletttivo](https://www.collletttivo.it/) - an open-source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration
 - [UNCUT.wtf](https://uncut.wtf/) - a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured
-- [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - advanced fonts for programmers with special glyphs 
+- [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - advanced fonts for programmers with special glyphs
 - [Typefaces.today](https://typefaces.today/) - handpicked typefaces for your creative projects  
 - [Fontshare](https://www.fontshare.com/) - a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all  
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
@@ -97,20 +148,7 @@ Tools, resources, articles, inspiration
 - 🤖 [Stable Defusion](https://stability.ai/stable-image) - AI image generation
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
-- 🤖 [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
-
-## 📐 UI Kits & Component Libraries
-
-- [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
-- [The Component Gallery](https://component.gallery/components/accordion/) - an up-to-date repository of interface components based on examples from the world of design systems
-- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
-- [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
-- [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
-- [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
-- [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react) 
-- [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
-- [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
-- [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
+- 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
@@ -142,6 +180,10 @@ Tools, resources, articles, inspiration
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
 - 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
 - 🤖 [Captions](https://www.captions.ai/) - creates videos from captions with AI
+- 🤖 [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
+- 🤖 [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
+- 🤖 [Logome](https://www.logome.ai/) - design your stunning brand logo with AI
+- 🤖 [Mokker](https://mokker.ai/) - AI background for product photos
 
 ## 🧩 Design Systems & Frameworks
 
@@ -181,46 +223,6 @@ Tools, resources, articles, inspiration
 - [User-Interface Elements: Glossary](https://www.nngroup.com/articles/ui-elements-glossary/?utm_campaign=&utm_source=linkedin&utm_medium=social#Ribbon) - use this glossary to clarify definitions for key graphical user-interface elements and controls quickly
 - [Design Patterns Catalogue](https://catalogue.projectsbyif.com/) - design pattern guideline resources to help you build better websites and apps
 
-## 🌐 Inspiration & Community (Showcases, Portfolios, Galleries)
-
-- [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
-- [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
-- [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
-- [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions 
-- [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
-- [Dark Design](https://www.dark.design/) - handpicked dark-mode designs
-- [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday
-- [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos
-- [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
-- [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
-- [Behance](https://www.behance.net/) - the world's largest creative network to showcase work, find inspiration, and get hired
-- [Awwwards](https://www.awwwards.com/) - the Website Awards that recognize and promote the talent and effort of the best developers, designers, and web agencies in the world
-- [Muz.li](https://muz.li/) - a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop
-- [Savee](https://savee.it/) -  a platform where creatives find inspiration
-- [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
-- [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
-- [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
-- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
-- [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
-- [Land-book](https://land-book.com/) -  hand-picked website design inspiration
-- [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
-- [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
-- [Visuelle](https://visuelle.co.uk/) - an online creative showcase and feed curated by David Bennett, Creative Director at OPX Studio  
-- [Logggos](https://www.logggos.club/) - a catalog of well-designed logos  
-- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
-- [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
-- [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
-- [Appshots design](https://appshots.design/) - inspiring real-world UX designs
-- [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
-- [Websitevice](https://websitevice.com/) - website examples for inspiration
-- [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
-- [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
-- [Puchkeen](https://pushkeen.ai/) - the world's largest push notifications library
-- 🤖 [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
-- 🤖 [Logome](https://www.logome.ai/) - design your stunning brand logo with AI
-- 🤖 [Mokker](https://mokker.ai/) - AI background for product photos
-- 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
-
 ## 🔌 Figma plugins & resources
 
 - [Simple Design System](https://www.figma.com/community/file/1380235722331273046) - a UI kit built by Figma to help you get started faster using pre-built examples and components
@@ -255,7 +257,6 @@ Tools, resources, articles, inspiration
 - [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
 - [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
 - 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
-
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
@@ -302,7 +303,7 @@ Tools, resources, articles, inspiration
 - [Modyfi](https://www.modyfi.com/modifiers) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
-- [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device   
+- [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
 - [Phase](https://www.phase.com/) - web application to create and edit animations
 - [GSAP](https://gsap.com/) - JavaScript animation library
@@ -318,10 +319,10 @@ Tools, resources, articles, inspiration
 
 ## 📦 No-code tools
 
-- [Framer](https://www.framer.com/)
-- [Webflow](https://webflow.com/)
-- [Subframe](https://www.subframe.com/)
-- [PeachWeb](https://peachweb.io/)
+- [Framer](https://www.framer.com/) - a powerful no-code platform for designing, prototyping, and publishing interactive websites
+- [Webflow](https://webflow.com/) - a visual web development tool that lets you design, build, and launch responsive websites without coding
+- [Subframe](https://www.subframe.com/) - a no-code tool for quickly creating wireframes and website layouts with an intuitive drag-and-drop interface
+- [PeachWeb](https://peachweb.io/) - a simple no-code website builder focused on fast, easy site creation and publishing
 - [Frameplugins](https://frameplugins.com/) - best Framer plugins to supercharge your website
 - 🤖 [Musho](https://musho.ai/) - turns your prompts into nearly complete, dev-ready websites with simple layouts
 - 🤖 [Figr](https://figr.design/) - first AI for deep product thinking to go from research to Interface designs
@@ -339,6 +340,3 @@ Tools, resources, articles, inspiration
 - [What Should I Design](https://www.whatshouldidesign.com/) - a set of design challenges to practice design
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
-
-## ⁉️ Others
-
