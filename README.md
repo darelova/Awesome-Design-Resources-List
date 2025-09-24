@@ -40,11 +40,12 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
 - [Puchkeen](https://pushkeen.ai/) - the world's largest push notifications library
+- [The Component Gallery](https://component.gallery/components/) - an up-to-date repository of interface components based on examples from the world of design systems
+- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 
 ## 📐 UI Kits & Component Libraries
 
 - [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
-- [The Component Gallery](https://component.gallery/components/accordion/) - an up-to-date repository of interface components based on examples from the world of design systems
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
 - [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
 - [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
@@ -53,7 +54,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
-- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 
 ## 🎨 Colors & Palettes
 
@@ -74,9 +74,9 @@ Some sections in this list inevitably overlap because design resources often ser
 
 - [Typescale](https://typescale.com/) - A simple tool that allows you to preview and adjust typography scales with different fonts and ratios  
 - [Typespiration](https://typespiration.com/) - a complete guide to matching typefaces, styling techniques, improving readability, and more
-- [Google Fonts](https://fonts.google.com/)
-- [Adobe Fonts](https://fonts.adobe.com/)
-- [Free Faces Gallery](https://www.freefaces.gallery/?fbclid=IwAR0z5NvxCSwOIEuwL8Ox6wROg1mqkn76V5HxE44HU-kOMKyq185U2Vsf10M) - a curated collection of typefaces that are available under a variety of free licenses somewhere on the interwebs
+- [Google Fonts](https://fonts.google.com/) - Free to use fonts repository by google
+- [Adobe Fonts](https://fonts.adobe.com/) - Premium paid fonts repository by Adobe
+- [Free Faces Gallery](https://www.freefaces.gallery/) - a curated collection of typefaces that are available under a variety of free licenses somewhere on the interwebs
 - [Collletttivo](https://www.collletttivo.it/) - an open-source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration
 - [UNCUT.wtf](https://uncut.wtf/) - a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - advanced fonts for programmers with special glyphs
@@ -87,7 +87,6 @@ Some sections in this list inevitably overlap because design resources often ser
 
 ## 🖼️ Icons & Illustrations (SVGs, Packs, Tools)
 
-- 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - [coolshapes](https://coolshap.es/) - 100+ abstract shapes with cool grainy gradient
 - [MapSVG](https://mapsvg.com/maps) - download a free SVG map of any country in the world, free for commercial use
 - [Open Doodles](https://www.opendoodles.com/) - a library of sketchy illustrations of people free for personal and commercial use
@@ -99,6 +98,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Absurd Design](https://absurd.design/) - free Surrealist Illustrations
 - [Spectrum](https://spectrums.framer.website/) - free vector shapes
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
+- 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 
 ### Icon sets
 
@@ -168,7 +168,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
 - [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
 
-## 🛠️ Production Tools (Gradients, Shadows, Converters)
+## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
 - [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
