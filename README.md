@@ -25,7 +25,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
-- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
 - [Land-book](https://land-book.com/) -  hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
@@ -54,6 +53,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
+- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 
 ## 🎨 Colors & Palettes
 
@@ -127,7 +127,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
 
-## 🖌️ Stock Photos & Images
+## 🖌️ Stock Photos & Backgrounds
 
 - [Unsplash](https://unsplash.com/) - a wide variety of high-quality photos contributed by photographers
 - [Pexels](https://www.pexels.com/) - free stock photos and videos
@@ -152,7 +152,6 @@ Some sections in this list inevitably overlap because design resources often ser
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
-- [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Mockuuups Studio](https://mockuuups.studio/) - drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free
 - [Angle.sh](https://angle.sh) - vector device mockups for Sketch, Figma, and XD
 - [Shots.so](https://shots.so) - any mockup that you need. Choose a mockup that suits your needs drag and drop your screenshot, design or any image to get started
@@ -167,6 +166,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Flyerwrk](https://www.flyerwrk.com/en-com/collections/freebies) - mockup freebies collection  
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
+- [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters)
 
@@ -174,6 +174,8 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
 - [DiceBear Avatars](https://dicebear.com/) - A free avatar library offering customizable, SVG-based avatar styles
+- [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
+- [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
@@ -211,7 +213,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Font trends for 2025 that creatives should keep in mind](https://www.lummi.ai/blog/font-trends)
 - [Visual Design in UX: Study Guide](https://www.nngroup.com/articles/visual-design-in-ux-study-guide/) - article
 - [Interaction Design Foundation: The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature) - article
-- [Lows of UX](https://lawsofux.com/) - a collection of best practices that designers can consider when building user interfaces
 - [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
 - [Practical UX skills and tools](https://uxtools.co/) - practical lessons, resources, and news in just 5 minutes a week
 - [Laws of UX](https://lawsofux.com/) - a collection of best practices that designers can consider when building user interfaces
@@ -269,12 +270,8 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Made By James](https://themadebyjames.com/the-blog/) - design tips by James Martin
 - [Nielsen Norman Group Articles & Videos](https://www.nngroup.com/articles/) - provides research-based insights on user experience, interaction design, and usability
 - [The DESK Magazine](https://vanschneider.com/blog/) - the design blog of Tobias von Schneider
-- [It's Nice That](https://www.itsnicethat.com/newsletters) - featuring top creative stories, industry news, and cultural highlights each week
-- [Design Milk](https://design-milk.com/subscriptions/) - get the latest design news and fresh design finds
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) - useful tips and techniques on front-end and UX
-- [UX Collective](https://newsletter.uxdesign.cc/) - provides weekly insights and resources to help designers think critically about their work
 - [Dense Discovery](https://www.densediscovery.com/) - offers a curated selection of links across design, technology, art, urbanism, and sustainability
-- [Creative Boom](https://www.creativeboom.com/news/) - a curated selection of inspiring stories, news, and insights from the creative industries
 - [NN/g Newsletter](https://www.nngroup.com/articles/subscribe/) - the latest articles about usability, design, and UX research from the Nielsen Norman Group
 - [HeyDesigner](https://heydesigner.com/) - the go-to newsletter for product people, UXers, PMs, and design engineers
 - [Interaction Design Foundation](https://www.interaction-design.org/newsletter) - stay updated with high-quality educational material every week
@@ -297,13 +294,11 @@ Some sections in this list inevitably overlap because design resources often ser
 
 - [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
-- [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
 - [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
 - [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
 - [Modyfi](https://www.modyfi.com/modifiers) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
-- [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
 - [Phase](https://www.phase.com/) - web application to create and edit animations
 - [GSAP](https://gsap.com/) - JavaScript animation library
