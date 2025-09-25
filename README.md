@@ -186,6 +186,16 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
 - 🤖 [Logome](https://www.logome.ai/) - design your stunning brand logo with AI
 - 🤖 [Mokker](https://mokker.ai/) - AI background for product photos
+- 🤖 [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
+
+### Multipurpose AI Chat
+
+- 🤖 [ChatGPT](https://openai.com/index/chatgpt/) - developed by OpenAI, ChatGPT is renowned for its human-like conversational abilities and is widely used for various applications, including drafting emails, writing code, and answering questions
+- 🤖 [Google Gemini](https://gemini.google.com/app) - formerly known as Google Bard, Gemini is Google's AI chatbot that leverages the company's extensive search capabilities to provide accurate and up-to-date information
+- 🤖 [Copilot](https://copilot.microsoft.com/chats/kpJMM6jmhXFpecA1qmK3X) - Microsoft's Copilot integrates seamlessly with Office applications, assisting users by generating content, summarizing information, and enhancing productivity
+- 🤖 [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic
+- 🤖 [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
+
 
 ## 🧩 Design Systems & Frameworks
 
@@ -283,12 +293,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers including tools, articles, books, plugins, and more by Adham Dannaway
 - [Design Sphere](https://www.designsphere.xyz/) - a curated selection of podcasts discussing UX/UI, branding, motion design, graphic design, design systems, & more
-- 🤖 [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
-- 🤖 [ChatGPT](https://openai.com/index/chatgpt/) - developed by OpenAI, ChatGPT is renowned for its human-like conversational abilities and is widely used for various applications, including drafting emails, writing code, and answering questions
-- 🤖 [Google Gemini](https://gemini.google.com/app) - formerly known as Google Bard, Gemini is Google's AI chatbot that leverages the company's extensive search capabilities to provide accurate and up-to-date information
-- 🤖 [Copilot](https://copilot.microsoft.com/chats/kpJMM6jmhXFpecA1qmK3X) - Microsoft's Copilot integrates seamlessly with Office applications, assisting users by generating content, summarizing information, and enhancing productivity
-- 🤖 [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic
-- 🤖 [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
 
 ## 🎬 Animations, 3D and Sound
 
