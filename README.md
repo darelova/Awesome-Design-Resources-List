@@ -187,6 +187,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Logome](https://www.logome.ai/) - design your stunning brand logo with AI
 - 🤖 [Mokker](https://mokker.ai/) - AI background for product photos
 - 🤖 [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
+- 🤖 [Gemini 2.5 Flash Image (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image) - unlock multimodal creativity for the next generation of visual apps
 
 ### Multipurpose AI Chat
 
@@ -316,7 +317,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
 - [Microsoft Inclusive Design](https://inclusive.microsoft.design/) - methodology, born out of digital environments, that enables and draws on the full range of human diversity
 
-## 📦 No-code tools
+## 📐 Wireframing, No-Code & AI Web Tools
 
 - [Framer](https://www.framer.com/) - a powerful no-code platform for designing, prototyping, and publishing interactive websites
 - [Webflow](https://webflow.com/) - a visual web development tool that lets you design, build, and launch responsive websites without coding
@@ -333,9 +334,10 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Wegic](https://wegic.ai/) - create custom websites in seconds
 - 🤖 [SiteForge](https://siteforge.io/) - AI Wireframe Generator
 
-## 🕹️ Design Games
+## 🕹️ Design Games & Exercises
 
 - [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
 - [What Should I Design](https://www.whatshouldidesign.com/) - a set of design challenges to practice design
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
+- [Monowi: Product Design Exercises 1.1](https://monowi.notion.site/Monowi-Product-Design-Exercises-1-1-99c913d7ec554164be0bbc785bccda97) - exercises for product designers
