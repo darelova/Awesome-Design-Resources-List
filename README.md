@@ -188,6 +188,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Mokker](https://mokker.ai/) - AI background for product photos
 - 🤖 [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
 - 🤖 [Gemini 2.5 Flash Image (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image) - unlock multimodal creativity for the next generation of visual apps
+- 🤖 [Logo Diffusion](https://logodiffusion.com/) - create custom logos in seconds with Logo Diffusion's AI Logo Maker
 
 ### Multipurpose AI Chat
 
@@ -214,6 +215,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
 - [Instagram Brand Identity](https://about.instagram.com/brand)
 - [Wise Design Identity](https://wise.design/)
+- [eBay Playbook](https://playbook.ebay.com/)
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
 - [Hey Design Systems!](https://heydesign.systems/) - your introduction to design systems
 - [Design System Knowledge Base](https://thedesignsystem.guide/knowledge-base) - resource for design system questions
@@ -269,6 +271,9 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
 - [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
 - 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
+- [Effects](https://www.figma.com/community/plugin/1326067067584608052/effects) - visual styles applied to objects
+- [thirteen23 - harmonograph](https://www.figma.com/community/plugin/1403515351214143901/thirteen23-harmonograph) - generate intricate and beautiful geometric patterns based on the principles of harmonic motion
+- [Perspective](https://www.figma.com/community/plugin/1459523089148854271/perspective) - add depth and dimension to your designs with easy-to-use perspective transformations and shadow effects
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
@@ -293,7 +298,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions and understand systems
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers including tools, articles, books, plugins, and more by Adham Dannaway
-- [Design Sphere](https://www.designsphere.xyz/) - a curated selection of podcasts discussing UX/UI, branding, motion design, graphic design, design systems, & more
 
 ## 🎬 Animations, 3D and Sound
 
@@ -333,6 +337,9 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Softgen AI](https://try.softgen.ai/) - transform your ideas into stunning web applications
 - 🤖 [Wegic](https://wegic.ai/) - create custom websites in seconds
 - 🤖 [SiteForge](https://siteforge.io/) - AI Wireframe Generator
+- 🤖 [Bolt.new](https://bolt.new/) - create stunning apps & websites by chatting with AI
+- 🤖 [Lovable](https://lovable.dev/) - create apps and websites by chatting with AI
+- 🤖 [v0 by Vercel](https://v0.app/) - an AI agent that turns ideas into fully built apps while also helping teams research, plan, and execute work end-to-end
 
 ## 🕹️ Design Games & Exercises
 
@@ -341,3 +348,10 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
 - [Monowi: Product Design Exercises 1.1](https://monowi.notion.site/Monowi-Product-Design-Exercises-1-1-99c913d7ec554164be0bbc785bccda97) - exercises for product designers
+- [Sprint Cards](https://sprint.cards/) - design challenges focused on UX thinking
+- [UX Challenges](https://www.uxtools.co/challenges) - UX practice with real-world exercises
+- [Good Brief](https://goodbrief.io/) - randomly generate smart design briefs to practice your design skills, get content for your portfolio, and gain experience working off a real design brief
+
+## 🎧 Podcasts
+
+- [Design Sphere](https://www.designsphere.xyz/) - a curated selection of podcasts discussing UX/UI, branding, motion design, graphic design, design systems, & more.
