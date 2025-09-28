@@ -3,7 +3,8 @@
   "version": "1.1.0",
   "description": "A curated list of design resources",
   "scripts": {
-    "check-links": "tsx scripts/duplicate-links-checker.ts"
+    "check-links": "tsx scripts/duplicate-links-checker.ts",
+    "badges": "tsx scripts/badges.ts"
   },
   "devDependencies": {
     "tsx": "^4.20.6",
