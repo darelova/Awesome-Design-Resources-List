@@ -6,6 +6,8 @@ Tools, resources, articles, inspiration
 
 Some sections in this list inevitably overlap because design resources often serve multiple purposes. A UI kit might also function as a design system, an icon library can double as an illustration source, and certain tools could be categorized under both generators and accessibility. Instead of treating these as strict boundaries, think of the sections as entry points—groupings that highlight the main use of a resource while acknowledging that many could fit comfortably in more than one place.
 
+Links marked with 🤖 are AI resources.
+
 ## 🌐 Inspiration & Community (Showcases, Portfolios, Galleries)
 
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
@@ -54,6 +56,8 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
+- [ReactBits](https://reactbits.dev/text-animations/split-text) - React components for creative developers
+- [Flowbase](https://www.flowbase.co/) - flowbase is the world's largest premium library of Webflow, Figma & Framer components and tools. Build better, faster with Flowbase
 
 ## 🎨 Colors & Palettes
 
@@ -142,6 +146,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
 - [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
+- [RD Tool](https://www.karlsims.com/rdtool.html) - web application to experiment with reaction-diffusion simulations
 - 🤖 [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 - 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
 - 🤖 [Dall-E](https://openart.ai/home) - AI image generation
@@ -149,8 +154,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
-- [RD Tool](https://www.karlsims.com/rdtool.html) - web application to experiment with reaction-diffusion simulations
-- - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
+- 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
@@ -203,7 +207,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic
 - 🤖 [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
 
-
 ## 🧩 Design Systems & Frameworks
 
 - [Material Design](https://m3.material.io/) - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces
@@ -247,13 +250,12 @@ Some sections in this list inevitably overlap because design resources often ser
 
 - [Simple Design System](https://www.figma.com/community/file/1380235722331273046) - a UI kit built by Figma to help you get started faster using pre-built examples and components
 - [Fig Mayo](https://www.figmayo.com/) - effortless design system docs
-- [Specs (formerly, EightShapes Specs)](https://www.figma.com/community/plugin/1205622541257680763/specs-formerly-eightshapes-specs) - automate production of page and component design specifications (“specs”) of selected components, instances and frames.
+- [Specs](https://www.figma.com/community/plugin/1205622541257680763/specs-formerly-eightshapes-specs) - automate production of page and component design specifications (“specs”) of selected components, instances and frames.
 - [Contrast Grid](https://www.figma.com/community/plugin/993414361395505148/Contrast-Grid) - a plugin to check the contrast of multiple foreground and background color combos for a11y with WCAG 2.1 minimum contrast
 - [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/mockuuups-studio) - mockup plugin with 4500+ device mockups
 - [iOS 16 UI Kit for Figma](https://www.figma.com/community/file/1121065701252736567) - contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS
 - [Translator](https://www.figma.com/community/plugin/743218037112142643/translator) - enables you to translate your text layers to other languages right in Figma
 - [Setproduct](https://www.setproduct.com/freebies) - free Figma Templates - UI kits, app templates, design systems (freebies as included)
-- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint) - a plugin that finds missing styles within your designs
 - [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort) - automatically applies a basic structure to your component sets (variants), which can be customized to your liking
 - [Super Tidy](https://www.figma.com/community/plugin/731260060173130163/super-tidy) - keep your design tidy by easily aligning, renaming, and reordering your frames based on their canvas position
@@ -271,15 +273,21 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Trace Images](https://www.figma.com/community/plugin/1291512177354533481/trace-images) - convert JPEGs and PNGs to vibrant SVG vectors in a single click, all within Figma
 - [Progressive Blur](https://www.figma.com/community/plugin/1362669306042132547/progressive-blur) - create real progressive blurs to your files, all in Figma
 - [Stark - Contrast & Accessibility Checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker) - a powerful combination of integrated tools that help you streamline your accessibility workflow
-- 🤖 [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers an access a world of stunning, AI-generated images crafted by talented digital artists
 - [Unipaste](https://www.figma.com/community/plugin/964930640501844415/unipaste) - delivers the easiest way to work with special characters in Figma
 - [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/breakpoints) - preview responsive layout inside a Figma frame and share animated prototype
 - [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
 - [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
-- 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
 - [Effects](https://www.figma.com/community/plugin/1326067067584608052/effects) - visual styles applied to objects
 - [thirteen23 - harmonograph](https://www.figma.com/community/plugin/1403515351214143901/thirteen23-harmonograph) - generate intricate and beautiful geometric patterns based on the principles of harmonic motion
 - [Perspective](https://www.figma.com/community/plugin/1459523089148854271/perspective) - add depth and dimension to your designs with easy-to-use perspective transformations and shadow effects
+- [Skew to Figma](https://www.figma.com/community/plugin/1314599573129418692) - Skew transform options for Figma
+- [Supa Gradient](https://www.figma.com/community/plugin/1097681662687985794/supa-gradient) - Plugin to generate gradients
+- [Reflect](https://www.figma.com/community/plugin/1292028417187154365/reflect) - creates reflections
+- [Typescale](https://www.figma.com/community/plugin/739825414752646970/typescales) - quickly generate a simple typescale/modular scale.
+- [Color Shades](https://www.figma.com/community/plugin/929607085343688745/color-shades) - generate multiple shades from the same base color.
+- 🤖 [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers an access a world of stunning, AI-generated images crafted by talented digital artists
+- 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
+- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
