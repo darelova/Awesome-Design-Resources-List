@@ -12,7 +12,6 @@ Links marked with 🤖 are AI resources.
 
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
 - [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
-- [Appshots](https://appshots.design/) - collection of real-world UX designs
 - [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
 - [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
@@ -236,7 +235,6 @@ Links marked with 🤖 are AI resources.
 - [Font trends for 2025 that creatives should keep in mind](https://www.lummi.ai/blog/font-trends)
 - [Visual Design in UX: Study Guide](https://www.nngroup.com/articles/visual-design-in-ux-study-guide/) - article
 - [Interaction Design Foundation: The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature) - article
-- [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
 - [Practical UX skills and tools](https://uxtools.co/) - practical lessons, resources, and news in just 5 minutes a week
 - [Laws of UX](https://lawsofux.com/) - a collection of best practices that designers can consider when building user interfaces
 - [Design Principles](https://principles.design/) - аn open source collection of Design Principles and methods
@@ -365,7 +363,6 @@ Links marked with 🤖 are AI resources.
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
 - [Monowi: Product Design Exercises 1.1](https://monowi.notion.site/Monowi-Product-Design-Exercises-1-1-99c913d7ec554164be0bbc785bccda97) - exercises for product designers
 - [Sprint Cards](https://sprint.cards/) - design challenges focused on UX thinking
-- [UX Challenges](https://www.uxtools.co/challenges) - UX practice with real-world exercises
 - [Good Brief](https://goodbrief.io/) - randomly generate smart design briefs to practice your design skills, get content for your portfolio, and gain experience working off a real design brief
 
 ## 🎧 Podcasts
