@@ -12,6 +12,7 @@ Links marked with 🤖 are AI resources.
 
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
 - [SupaHero](https://www.supahero.io/) - a curated collection of beautiful website hero sections
+- [Appshots](https://appshots.design/) - collection of real-world UX designs
 - [Footer Design](https://www.footer.design/) - a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style
 - [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
@@ -39,6 +40,7 @@ Links marked with 🤖 are AI resources.
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
 - [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
 - [Websitevice](https://websitevice.com/) - website examples for inspiration
+- [UI Sources](https://uisources.com/screenshots) - browse recordings of end to end user journeys from the top grossing apps
 - [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
 - [Puchkeen](https://pushkeen.ai/) - the world's largest push notifications library
@@ -48,12 +50,12 @@ Links marked with 🤖 are AI resources.
 ## 📐 UI Kits & Component Libraries
 
 - [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
-- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps
-- [Radix UI](https://www.radix-ui.com/) - An open-source component library optimized for fast development, easy maintenance, and accessibility
+- [shadcn/ui](https://ui.shadcn.com/) - beautifully designed components that you can copy and paste into your apps
+- [Radix UI](https://www.radix-ui.com/) - an open-source component library optimized for fast development, easy maintenance, and accessibility
 - [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
-- [Material Design/Components](https://m3.material.io/components) - Google’s interactive building blocks for creating a user interface
-- [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft’s component library (react)
-- [Nuxt UI](https://ui.nuxt.com) - A UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
+- [Material Design/Components](https://m3.material.io/components) - Google's interactive building blocks for creating a user interface
+- [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft's component library (react)
+- [Nuxt UI](https://ui.nuxt.com) - a UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
 - [ReactBits](https://reactbits.dev/text-animations/split-text) - React components for creative developers
@@ -114,9 +116,9 @@ Links marked with 🤖 are AI resources.
 - [Lucide](https://lucide.dev/icons/) - icon toolkit
 - [Radix Icons](https://www.radix-ui.com/icons) - a crisp set of 15×15 icons
 - [Feather](https://feathericons.com/) - simply beautiful open-source icons
-- [Material Symbols](https://fonts.google.com/icons) - Google’s Material Design icons pack
+- [Material Symbols](https://fonts.google.com/icons) - Google's Material Design icons pack
 - [Weather Icons](https://erikflowers.github.io/weather-icons/) - icon font and CSS with 222 weather-themed icons, ready to be dropped right into Bootstrap, or any project that needs high-quality weather, maritime, and meteorological-based icons
-- [Icones](https://icones.js.org) - A powerful icon explorer with over 100,000 icons from various libraries, supporting on-demand import and easy customization  
+- [Icones](https://icones.js.org) - a powerful icon explorer with over 100,000 icons from various libraries, supporting on-demand import and easy customization  
 - [Iconmonstr](https://iconmonstr.com/) - free simple icons collection  
 - [Iconoir](https://iconoir.com/) - a high-quality selection of free icons  
 - [Iconhub](https://iconhub.io/) - diverse Icon set to complete your awesome design  
@@ -179,7 +181,7 @@ Links marked with 🤖 are AI resources.
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
 - [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
-- [DiceBear Avatars](https://dicebear.com/) - A free avatar library offering customizable, SVG-based avatar styles
+- [DiceBear Avatars](https://dicebear.com/) - a free avatar library offering customizable, SVG-based avatar styles
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
@@ -210,7 +212,7 @@ Links marked with 🤖 are AI resources.
 ## 🧩 Design Systems & Frameworks
 
 - [Material Design](https://m3.material.io/) - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces
-- [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft’s collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior
+- [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft's collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior
 - [Carbon Design System](https://carbondesignsystem.com/) - IBM's open-source design system for digital experiences, with a focus on accessibility, modularity, and flexibility  
 
 ### References and learning resources
@@ -287,7 +289,7 @@ Links marked with 🤖 are AI resources.
 - [Color Shades](https://www.figma.com/community/plugin/929607085343688745/color-shades) - generate multiple shades from the same base color.
 - 🤖 [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers an access a world of stunning, AI-generated images crafted by talented digital artists
 - 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
-- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
+- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
