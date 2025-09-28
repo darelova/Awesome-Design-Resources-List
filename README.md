@@ -72,10 +72,10 @@ Some sections in this list inevitably overlap because design resources often ser
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
-- [Typescale](https://typescale.com/) - A simple tool that allows you to preview and adjust typography scales with different fonts and ratios  
+- [Typescale](https://typescale.com/) - a simple tool that allows you to preview and adjust typography scales with different fonts and ratios  
 - [Typespiration](https://typespiration.com/) - a complete guide to matching typefaces, styling techniques, improving readability, and more
-- [Google Fonts](https://fonts.google.com/) - Free to use fonts repository by google
-- [Adobe Fonts](https://fonts.adobe.com/) - Premium paid fonts repository by Adobe
+- [Google Fonts](https://fonts.google.com/) - free to use fonts repository by google
+- [Adobe Fonts](https://fonts.adobe.com/) - premium paid fonts repository by Adobe
 - [Free Faces Gallery](https://www.freefaces.gallery/) - a curated collection of typefaces that are available under a variety of free licenses somewhere on the interwebs
 - [Collletttivo](https://www.collletttivo.it/) - an open-source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration
 - [UNCUT.wtf](https://uncut.wtf/) - a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured
@@ -85,7 +85,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
 - [YouWorkForThem](https://www.youworkforthem.com/) - free high-quality fonts and graphics
 
-## 🖼️ Icons & Illustrations (SVGs, Packs, Tools)
+## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
 - [coolshapes](https://coolshap.es/) - 100+ abstract shapes with cool grainy gradient
 - [MapSVG](https://mapsvg.com/maps) - download a free SVG map of any country in the world, free for commercial use
@@ -98,7 +98,6 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Absurd Design](https://absurd.design/) - free Surrealist Illustrations
 - [Spectrum](https://spectrums.framer.website/) - free vector shapes
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
-- 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 
 ### Icon sets
 
@@ -127,7 +126,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
 
-## 🖌️ Stock Photos & Backgrounds
+## 🖼️ Images & Backgrounds
 
 - [Unsplash](https://unsplash.com/) - a wide variety of high-quality photos contributed by photographers
 - [Pexels](https://www.pexels.com/) - free stock photos and videos
@@ -142,6 +141,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Shotstash](https://shotstash.com/) - free stock photos for creative professionals  
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
+- [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
 - 🤖 [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 - 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
 - 🤖 [Dall-E](https://openart.ai/home) - AI image generation
@@ -149,6 +149,8 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
+- [RD Tool](https://www.karlsims.com/rdtool.html) - web application to experiment with reaction-diffusion simulations
+- - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
@@ -189,6 +191,9 @@ Some sections in this list inevitably overlap because design resources often ser
 - 🤖 [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
 - 🤖 [Gemini 2.5 Flash Image (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image) - unlock multimodal creativity for the next generation of visual apps
 - 🤖 [Logo Diffusion](https://logodiffusion.com/) - create custom logos in seconds with Logo Diffusion's AI Logo Maker
+- 🤖 [Flair.ai](https://flair.ai/) - AI tool for creating product content, including on-model photography, ad generation, and video creation
+- [SPACE TYPE GENERATOR](https://spacetypegenerator.com/) - an open source tool that allows users to create their own kinetic type experiments
+- [ISF](https://editor.isf.video/) - create interactive shaders to use on desktop, mobile, and in the browser
 
 ### Multipurpose AI Chat
 
@@ -236,6 +241,7 @@ Some sections in this list inevitably overlap because design resources often ser
 - [Memorisely](https://www.memorisely.com/) - live and on-demand immersive Figma training plans
 - [User-Interface Elements: Glossary](https://www.nngroup.com/articles/ui-elements-glossary/?utm_campaign=&utm_source=linkedin&utm_medium=social#Ribbon) - use this glossary to clarify definitions for key graphical user-interface elements and controls quickly
 - [Design Patterns Catalogue](https://catalogue.projectsbyif.com/) - design pattern guideline resources to help you build better websites and apps
+- [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused around digital well-being
 
 ## 🔌 Figma plugins & resources
 
