@@ -126,6 +126,7 @@ Links marked with 🤖 are AI resources.
 - [Phosphor](https://phosphoricons.com/) - a flexible icon family for interfaces, diagrams, presentations
 - [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
 - [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
+- [Griddy Icons](https://griddyicons.com/) - a free open-source icon family with unique utilitarian vibe
 - 🤖 [Icons for AI](https://iconsforai.com/) - free 16x16 icons made for AI projects!
 - 🤖 [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
