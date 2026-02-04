@@ -127,7 +127,6 @@ Links marked with 🤖 are AI resources.
 - [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
 - [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
 - [Griddy Icons](https://griddyicons.com/) - a free open-source icon family with unique utilitarian vibe
-- 🤖 [Icons for AI](https://iconsforai.com/) - free 16x16 icons made for AI projects!
 - 🤖 [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
@@ -174,7 +173,6 @@ Links marked with 🤖 are AI resources.
 - [Flyerwrk](https://www.flyerwrk.com/en-com/collections/freebies) - mockup freebies collection  
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
-- [Pixcap](https://pixcap.com/mockups) - 3D mockups and animations
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
@@ -320,11 +318,10 @@ Links marked with 🤖 are AI resources.
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
 - [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
 - [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
-- [Modyfi](https://www.modyfi.com/modifiers) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
+- [Modyfi](https://www.modyfi.com/) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
-- [Phase](https://www.phase.com/) - web application to create and edit animations
 - [GSAP](https://gsap.com/) - JavaScript animation library
 - [three.js](https://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
@@ -349,7 +346,6 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Dora AI](https://www.dora.run/ai) - generate, customize, and deploy 3D websites with AI
 - 🤖 [Visily AI](https://www.visily.ai/) - wireframe tool that swiftly transforms screenshots, templates, or text prompts into editable wireframes and prototypes, powered by AI
 - 🤖 [Readdy AI](https://readdy.ai/) - turns your product requirements into beautiful, professional designs in minutes
-- 🤖 [Softgen AI](https://try.softgen.ai/) - transform your ideas into stunning web applications
 - 🤖 [Wegic](https://wegic.ai/) - create custom websites in seconds
 - 🤖 [SiteForge](https://siteforge.io/) - AI Wireframe Generator
 - 🤖 [Bolt.new](https://bolt.new/) - create stunning apps & websites by chatting with AI
