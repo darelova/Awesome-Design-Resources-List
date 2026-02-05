@@ -387,3 +387,4 @@ Links marked with 🤖 are AI resources.
 ## 🌍 Chrome Extensions
 
 - [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) - UX & Usability Testing Chrome extension to enhance site design with heatmaps, scroll tracking, and screenshots
+- [Accessibility Insights for Web](https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en) - Accessibility Insights for Web helps developers quickly find and fix accessibility issues
