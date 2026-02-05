@@ -341,6 +341,7 @@ Links marked with 🤖 are AI resources.
 - [GSAP](https://gsap.com/) - JavaScript animation library
 - [three.js](https://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
+- [Myinstants](https://www.myinstants.com/en/index/bg/) - discover funny instant sound buttons
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
