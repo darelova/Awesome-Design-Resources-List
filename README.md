@@ -235,6 +235,10 @@ Links marked with 🤖 are AI resources.
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
 - [Hey Design Systems!](https://heydesign.systems/) - your introduction to design systems
 - [Design System Knowledge Base](https://thedesignsystem.guide/knowledge-base) - resource for design system questions
+- [Cash App](https://design.cash.app/)
+- [Vercel Geist Design System](https://vercel.com/geist/introduction)
+- [Orbit Design System](https://orbit.kiwi/)
+- [LINE Design System](https://designsystem.line.me/)
 
 ## 📚 Learning (Courses, Articles, Books, Case Studies)
 
@@ -322,7 +326,7 @@ Links marked with 🤖 are AI resources.
 - [Checklist Design](https://www.checklist.design/) - a collection of the best design practices
 - [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions, and understand systems
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
-- [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers, including tools, articles, books, plugins, and more by Adham Dannaway
+- [Karl Sims](https://www.karlsims.com/) - awesome resources for web applications, computer animations, technical papers, and more
 
 ## 🎬 Animations, 3D and Sound
 
@@ -378,3 +382,7 @@ Links marked with 🤖 are AI resources.
 ## 🎧 Podcasts
 
 - [Design Sphere](https://www.designsphere.xyz/) - a curated selection of podcasts discussing UX/UI, branding, motion design, graphic design, design systems, & more.
+
+## 🌍 Chrome Extensions
+
+- [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) - UX & Usability Testing Chrome extension to enhance site design with heatmaps, scroll tracking, and screenshots
