@@ -23,12 +23,12 @@ Links marked with 🤖 are AI resources.
 - [Behance](https://www.behance.net/) - the world's largest creative network to showcase work, find inspiration, and get hired
 - [Awwwards](https://www.awwwards.com/) - the Website Awards that recognize and promote the talent and effort of the best developers, designers, and web agencies in the world
 - [Muz.li](https://muz.li/) - a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop
-- [Savee](https://savee.it/) -  a platform where creatives find inspiration
+- [Savee](https://savee.it/) - a platform where creatives find inspiration
 - [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
-- [Land-book](https://land-book.com/) -  hand-picked website design inspiration
+- [Land-book](https://land-book.com/) - hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
 - [Visuelle](https://visuelle.co.uk/) - an online creative showcase and feed curated by David Bennett, Creative Director at OPX Studio  
@@ -42,7 +42,7 @@ Links marked with 🤖 are AI resources.
 - [UI Sources](https://uisources.com/screenshots) - browse recordings of end to end user journeys from the top grossing apps
 - [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
-- [Puchkeen](https://pushkeen.ai/) - the world's largest push notifications library
+- [Pushkeen](https://pushkeen.ai/) - the world's largest push notifications library
 - [The Component Gallery](https://component.gallery/components/) - an up-to-date repository of interface components based on examples from the world of design systems
 - [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 
@@ -159,7 +159,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 - 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
 - 🤖 [Dall-E](https://openart.ai/home) - AI image generation
-- 🤖 [Stable Defusion](https://stability.ai/stable-image) - AI image generation
+- 🤖 [Stable Diffusion](https://stability.ai/stable-image) - AI image generation
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
@@ -211,7 +211,7 @@ Links marked with 🤖 are AI resources.
 
 - 🤖 [ChatGPT](https://openai.com/index/chatgpt/) - developed by OpenAI, ChatGPT is renowned for its human-like conversational abilities and is widely used for various applications, including drafting emails, writing code, and answering questions
 - 🤖 [Google Gemini](https://gemini.google.com/app) - formerly known as Google Bard, Gemini is Google's AI chatbot that leverages the company's extensive search capabilities to provide accurate and up-to-date information
-- 🤖 [Copilot](https://copilot.microsoft.com/chats/kpJMM6jmhXFpecA1qmK3X) - Microsoft's Copilot integrates seamlessly with Office applications, assisting users by generating content, summarizing information, and enhancing productivity
+- 🤖 [Copilot](https://copilot.microsoft.com/) - Microsoft's Copilot integrates seamlessly with Office applications, assisting users by generating content, summarizing information, and enhancing productivity
 - 🤖 [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic
 - 🤖 [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
 
@@ -339,7 +339,7 @@ Links marked with 🤖 are AI resources.
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
 - [GSAP](https://gsap.com/) - JavaScript animation library
-- [three.js](https://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
+- [three.js](https://threejs.org/) - cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 
