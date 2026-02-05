@@ -46,6 +46,11 @@ Links marked with 🤖 are AI resources.
 - [The Component Gallery](https://component.gallery/components/) - an up-to-date repository of interface components based on examples from the world of design systems
 - [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 
+## 💖 Other Collections
+
+- [Fountn](https://fountn.design/) - collection of design resources, curated by designers
+- [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
+
 ## 📐 UI Kits & Component Libraries
 
 - [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
@@ -57,7 +62,7 @@ Links marked with 🤖 are AI resources.
 - [Nuxt UI](https://ui.nuxt.com) - a UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
-- [ReactBits](https://reactbits.dev/text-animations/split-text) - React components for creative developers
+- [React Bits](https://reactbits.dev/get-started/index) - React components for creative developers
 - [Flowbase](https://www.flowbase.co/) - flowbase is the world's largest premium library of Webflow, Figma & Framer components and tools. Build better, faster with Flowbase
 
 ## 🎨 Colors & Palettes
@@ -72,6 +77,7 @@ Links marked with 🤖 are AI resources.
 - [Goodpalette](https://goodpalette.io/ed330e-3cc3de-b3adab) - a curated color palette generator that provides aesthetically pleasing color combinations  
 - [Tone](https://t-o-n-e.com/) - Color Inspiration - explores natural color schemes of beautiful places on Earth through photography  
 - [Adobe Color](https://color.adobe.com/) - gives you the power to extract a beautiful gradient from any image you choose
+- [Pigment by ShapeFactory](https://pigment.shapefactory.co/) - a unique way to generate fresh and vibrant colors based on lighting and pigment, instead of math
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 
@@ -89,6 +95,8 @@ Links marked with 🤖 are AI resources.
 - [Fontshare](https://www.fontshare.com/) - a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all  
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
 - [YouWorkForThem](https://www.youworkforthem.com/) - free high-quality fonts and graphics
+- [Type Department](https://type-department.com/) - provides designers and brands with high-quality fonts that ignite design solutions and command attention
+- 🤖 [Typograph Studio](https://typograph.studio/en) - AI-powered type-design co-pilot
 
 ## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
@@ -126,7 +134,7 @@ Links marked with 🤖 are AI resources.
 - [Phosphor](https://phosphoricons.com/) - a flexible icon family for interfaces, diagrams, presentations
 - [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
 - [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
-- [Griddy Icons](https://griddyicons.com/) - a free open-source icon family with unique utilitarian vibe
+- [Griddy Icons](https://griddyicons.com/) - a free open-source icon family with a unique utilitarian vibe
 - 🤖 [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
@@ -243,7 +251,8 @@ Links marked with 🤖 are AI resources.
 - [Memorisely](https://www.memorisely.com/) - live and on-demand immersive Figma training plans
 - [User-Interface Elements: Glossary](https://www.nngroup.com/articles/ui-elements-glossary/?utm_campaign=&utm_source=linkedin&utm_medium=social#Ribbon) - use this glossary to clarify definitions for key graphical user-interface elements and controls quickly
 - [Design Patterns Catalogue](https://catalogue.projectsbyif.com/) - design pattern guideline resources to help you build better websites and apps
-- [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused around digital well-being
+- [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
+- [Design Token Naming Guide](https://www.namedesigntokens.guide/) - learn how to name design tokens the right way
 
 ## 🔌 Figma plugins & resources
 
@@ -254,13 +263,13 @@ Links marked with 🤖 are AI resources.
 - [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/mockuuups-studio) - mockup plugin with 4500+ device mockups
 - [iOS 16 UI Kit for Figma](https://www.figma.com/community/file/1121065701252736567) - contains hundreds of components, templates, demos, and everything else needed to help you start designing for iOS
 - [Translator](https://www.figma.com/community/plugin/743218037112142643/translator) - enables you to translate your text layers to other languages right in Figma
-- [Setproduct](https://www.setproduct.com/freebies) - free Figma Templates - UI kits, app templates, design systems (freebies as included)
+- [Setproduct](https://www.setproduct.com/freebies) - free Figma Templates - UI kits, app templates, design systems (freebies included)
 - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/design-lint) - a plugin that finds missing styles within your designs
 - [Simple Sort](https://www.figma.com/community/plugin/931578032226522167/simple-sort) - automatically applies a basic structure to your component sets (variants), which can be customized to your liking
 - [Super Tidy](https://www.figma.com/community/plugin/731260060173130163/super-tidy) - keep your design tidy by easily aligning, renaming, and reordering your frames based on their canvas position
 - [Styles & Variables Organizer](https://www.figma.com/community/plugin/816627069580757929/styles-variables-organizer) - link values used in your design file to all types of styles and variables easily
 - [Typography Style Guide Generator](https://www.figma.com/community/plugin/1209900339618349575/typography-style-guide-generator) - this plugin allows you to generate a typography style guide based on your defined local styles
-- [Delete Hidden Layers](https://www.figma.com/community/plugin/750292779381900360/delete-hidden-layers) - delete all hidden layers (also locked) at current or inside selected frame page except layers in components
+- [Delete Hidden Layers](https://www.figma.com/community/plugin/750292779381900360/delete-hidden-layers) - delete all hidden layers (also locked) at the current or inside the selected frame page, except layers in components
 - [Humaan Annotations](https://www.figma.com/community/widget/1253154577300925316) - a helpful widget for annotating/commenting on designs within the Figma canvas
 - [To Do: Just a task on your canvas](https://www.figma.com/community/widget/1229395149230714315) - the tool for keeping track of tasks and managing workflow without ever leaving the design environment
 - [Ticket Sync](https://www.figma.com/community/plugin/1073234730618485706/ticket-sync) - effortlessly link your project management tool (Jira, ClickUp, Monday) and Figma with Ticket Sync
@@ -282,11 +291,14 @@ Links marked with 🤖 are AI resources.
 - [Skew to Figma](https://www.figma.com/community/plugin/1314599573129418692) - Skew transform options for Figma
 - [Supa Gradient](https://www.figma.com/community/plugin/1097681662687985794/supa-gradient) - Plugin to generate gradients
 - [Reflect](https://www.figma.com/community/plugin/1292028417187154365/reflect) - creates reflections
-- [Typescale](https://www.figma.com/community/plugin/739825414752646970/typescales) - quickly generate a simple typescale/modular scale.
-- [Color Shades](https://www.figma.com/community/plugin/929607085343688745/color-shades) - generate multiple shades from the same base color.
-- 🤖 [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers an access a world of stunning, AI-generated images crafted by talented digital artists
+- [Typescale](https://www.figma.com/community/plugin/739825414752646970/typescales) - quickly generate a simple typescale/modular scale
+- [Color Shades](https://www.figma.com/community/plugin/929607085343688745/color-shades) - generate multiple shades from the same base color
+- [Visual Mockups - Devices & Branding Mockups](https://www.figma.com/community/plugin/1412299653088139669/visual-mockups-devices-branding-mockups) - a mockup library with high-quality, realistic mockups
+- [Kigen](https://www.figma.com/community/plugin/1499119094608975695/kigen-generate-design-system-variable-style-document) - create your design system foundations — variables, styles, and tokens — in just a few clicks
+- [Effect.app](https://www.figma.com/community/plugin/1504395974062742075/effect-app-real-time-image-video-effects) - add real-time, stackable effects to any frame without leaving Figma
+- 🤖 [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers access to a world of stunning, AI-generated images crafted by talented digital artists
 - 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
-- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
+- 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
@@ -308,9 +320,9 @@ Links marked with 🤖 are AI resources.
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - a collection of awesome design systems
 - [Tools.Design](https://www.toools.design/) - a growing archive of 1,500+ design resources, frequently updated for the community
 - [Checklist Design](https://www.checklist.design/) - a collection of the best design practices
-- [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions and understand systems
+- [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions, and understand systems
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
-- [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers including tools, articles, books, plugins, and more by Adham Dannaway
+- [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) - design resources for UX and product designers, including tools, articles, books, plugins, and more by Adham Dannaway
 
 ## 🎬 Animations, 3D and Sound
 
@@ -325,6 +337,7 @@ Links marked with 🤖 are AI resources.
 - [GSAP](https://gsap.com/) - JavaScript animation library
 - [three.js](https://three.js) -  cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
+- 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
