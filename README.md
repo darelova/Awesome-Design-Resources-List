@@ -341,6 +341,7 @@ Links marked with 🤖 are AI resources.
 - [GSAP](https://gsap.com/) - JavaScript animation library
 - [three.js](https://threejs.org/) - cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
+- [Myinstants](https://www.myinstants.com/en/index/bg/) - discover funny instant sound buttons
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
@@ -386,3 +387,4 @@ Links marked with 🤖 are AI resources.
 ## 🌍 Chrome Extensions
 
 - [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) - UX & Usability Testing Chrome extension to enhance site design with heatmaps, scroll tracking, and screenshots
+- [Accessibility Insights for Web](https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en) - Accessibility Insights for Web helps developers quickly find and fix accessibility issues
