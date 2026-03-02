@@ -21,6 +21,7 @@ Links marked with 🤖 are AI resources.
 - [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
 - [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
 - [Behance](https://www.behance.net/) - the world's largest creative network to showcase work, find inspiration, and get hired
+- [A1 Gallery](https://www.a1.gallery) - hand-curated web design inspiration gallery filterable by technology stack, font, style, colour, creator, type, and category — all combinable
 - [Awwwards](https://www.awwwards.com/) - the Website Awards that recognize and promote the talent and effort of the best developers, designers, and web agencies in the world
 - [Muz.li](https://muz.li/) - a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop
 - [Savee](https://savee.it/) - a platform where creatives find inspiration
