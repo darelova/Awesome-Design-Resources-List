@@ -30,22 +30,28 @@ Links marked with 🤖 are AI resources.
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
 - [Land-book](https://land-book.com/) - hand-picked website design inspiration
-- [BrandGuidelines](https://www.brandguidelines.net/) - handpicked curated brand guidelines from around the world  
+- [BrandGuidelines](https://www.brandguidelines.net/) - handpicked, curated brand guidelines from around the world  
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
 - [Visuelle](https://visuelle.co.uk/) - an online creative showcase and feed curated by David Bennett, Creative Director at OPX Studio  
-- [Logggos](https://www.logggos.club/) - a catalog of well-designed logos  
-- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
+- [Logggos](https://www.logggos.club/) - a catalog of well-designed logos
+- [Logobook](https://logobook.com/) - a collection of the worlds finest logos, symbols & trademarks
 - [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
+- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
 - [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
 - [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
 - [Websitevice](https://websitevice.com/) - website examples for inspiration
-- [UI Sources](https://uisources.com/screenshots) - browse recordings of end to end user journeys from the top grossing apps
+- [SaaS Landing Page](https://saaslandingpage.com/) - landing page examples created by top-class SaaS companies
+- [UI Sources](https://uisources.com/screenshots) - browse recordings of end-to-end user journeys from the top grossing apps
 - [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
 - [Pushkeen](https://pushkeen.ai/) - the world's largest push notifications library
 - [The Component Gallery](https://component.gallery/components/) - an up-to-date repository of interface components based on examples from the world of design systems
 - [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
+- [Design Systems Surf](https://designsystems.surf/) - best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams
+- [Landdding](https://landdding.com/) - find daily new web designs submitted to Landdding for showcasing their great design and getting upvotes from the community of web designers
+- [Landbook](https://land-book.com/) - website design inspiration gallery
+- [Lapa Ninja](https://www.lapa.ninja/) - landing page design inspiration, learn design, and more
 
 ## 💖 Other Collections
 
@@ -64,7 +70,10 @@ Links marked with 🤖 are AI resources.
 - [Untitled UI](https://www.untitledui.com/) - the largest UI kit and design system for Figma
 - [Preline UI](https://preline.co/) - an open-source Tailwind CSS components library
 - [React Bits](https://reactbits.dev/get-started/index) - React components for creative developers
-- [Flowbase](https://www.flowbase.co/) - flowbase is the world's largest premium library of Webflow, Figma & Framer components and tools. Build better, faster with Flowbase
+- [Flowbase](https://www.flowbase.co/) - the world's largest premium library of Webflow, Figma & Framer components and tools. Build better, faster with Flowbase
+- [Clonify](https://clonify.io/) - a powerful library of Framer and Figma assets to build stunning websites faster
+- [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
+- [Nova](https://novaui.design/) - a complete solution for Framer & Figma, offering all the resources needed from concept to launch
 
 ## 🎨 Colors & Palettes
 
@@ -298,12 +307,18 @@ Links marked with 🤖 are AI resources.
 - [Reflect](https://www.figma.com/community/plugin/1292028417187154365/reflect) - creates reflections
 - [Typescale](https://www.figma.com/community/plugin/739825414752646970/typescales) - quickly generate a simple typescale/modular scale
 - [Color Shades](https://www.figma.com/community/plugin/929607085343688745/color-shades) - generate multiple shades from the same base color
+- [Bento Grid Maker](https://www.figma.com/community/plugin/1361301034817165317/bento-grid-maker) - creates Bento Grid templates in Figma
 - [Visual Mockups - Devices & Branding Mockups](https://www.figma.com/community/plugin/1412299653088139669/visual-mockups-devices-branding-mockups) - a mockup library with high-quality, realistic mockups
 - [Kigen](https://www.figma.com/community/plugin/1499119094608975695/kigen-generate-design-system-variable-style-document) - create your design system foundations — variables, styles, and tokens — in just a few clicks
 - [Effect.app](https://www.figma.com/community/plugin/1504395974062742075/effect-app-real-time-image-video-effects) - add real-time, stackable effects to any frame without leaving Figma
+- [Content Reel](https://www.figma.com/community/plugin/731627216655469013/content-reel) - pulling text strings, images, and icons from one palette
+- [Morph](https://www.figma.com/community/plugin/906950256777348534/morph) - create awesome effects like Skeuomorph, Neon, Glitch, Reflection, Glass, Gradient, etc. right in Figma
+- [Stippling](https://www.figma.com/community/plugin/1409794712197371392/stippling) - creating stippling effects in Figma
 - 🤖 [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi) - offers access to a world of stunning, AI-generated images crafted by talented digital artists
 - 🤖 [Genie](https://genie.framer.website/) - simplify your content creation process with AI
 - 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
+- 🤖 [Generator](https://www.figma.com/community/plugin/899028246731755335/generator) - the first node-based plugin with the power to create generative art right in Figma, no code required
+- 🤖 [Generative Gradients](https://www.figma.com/community/plugin/1347316282856177038/generative-gradients) - create complex gradients using just a few simple tools such as color, radius, positioning, blur, and distortion
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
@@ -343,6 +358,7 @@ Links marked with 🤖 are AI resources.
 - [three.js](https://threejs.org/) - cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - [Myinstants](https://www.myinstants.com/en/index/bg/) - discover funny instant sound buttons
+- [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
@@ -359,6 +375,7 @@ Links marked with 🤖 are AI resources.
 - [Subframe](https://www.subframe.com/) - a no-code tool for quickly creating wireframes and website layouts with an intuitive drag-and-drop interface
 - [PeachWeb](https://peachweb.io/) - a simple no-code website builder focused on fast, easy site creation and publishing
 - [Frameplugins](https://frameplugins.com/) - best Framer plugins to supercharge your website
+- 🤖 [Flowmapp](https://www.flowmapp.com/) - a visual platform for planning UX and pitching web design
 - 🤖 [Musho](https://musho.ai/) - turns your prompts into nearly complete, dev-ready websites with simple layouts
 - 🤖 [Figr](https://figr.design/) - first AI for deep product thinking to go from research to Interface designs
 - 🤖 [Relume](https://www.relume.io/) - websites designed and built faster with AI
