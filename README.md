@@ -236,6 +236,7 @@ Links marked with 🤖 are AI resources.
 - [Starbucks Creative Expression](https://creative.starbucks.com/)
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/)
 - [IBM Design Language](https://www.ibm.com/design/language/)
+- [IBM Carbon Design System](https://carbondesignsystem.com/)
 - [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
 - [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
@@ -249,6 +250,10 @@ Links marked with 🤖 are AI resources.
 - [Vercel Geist Design System](https://vercel.com/geist/introduction)
 - [Orbit Design System](https://orbit.kiwi/)
 - [LINE Design System](https://designsystem.line.me/)
+- [Atlassian Design System](https://atlassian.design/)
+- [Material Design 3](https://m3.material.io/)
+- [Shopify Polaris](https://polaris-react.shopify.com/)
+- [Microsoft Fluent 2](https://fluent2.microsoft.design/)
 
 ## 📚 Learning (Courses, Articles, Books, Case Studies)
 
