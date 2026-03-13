@@ -52,6 +52,7 @@ Links marked with 🤖 are AI resources.
 - [Landdding](https://landdding.com/) - find daily new web designs submitted to Landdding for showcasing their great design and getting upvotes from the community of web designers
 - [Landbook](https://land-book.com/) - website design inspiration gallery
 - [Lapa Ninja](https://www.lapa.ninja/) - landing page design inspiration, learn design, and more
+- [One Page Love](https://onepagelove.com/) - a website design gallery showcasing the best single-page websites, templates, and resources
 
 ## 💖 Other Collections
 
