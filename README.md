@@ -53,6 +53,7 @@ Links marked with 🤖 are AI resources.
 - [Landbook](https://land-book.com/) - website design inspiration gallery
 - [Lapa Ninja](https://www.lapa.ninja/) - landing page design inspiration, learn design, and more
 - [One Page Love](https://onepagelove.com/) - a website design gallery showcasing the best single-page websites, templates, and resources
+- [Minimal Gallery](https://minimal.gallery/) -  a curated source of website design inspiration aiming to support people in their creative process
 
 ## 💖 Other Collections
 
@@ -192,6 +193,7 @@ Links marked with 🤖 are AI resources.
 - [Flyerwrk](https://www.flyerwrk.com/en-com/collections/freebies) - mockup freebies collection  
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
+- [Maneken](https://maneken.app/) - the browser powered mockup editor
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
@@ -365,6 +367,7 @@ Links marked with 🤖 are AI resources.
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - [Myinstants](https://www.myinstants.com/en/index/bg/) - discover funny instant sound buttons
 - [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
+- [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
