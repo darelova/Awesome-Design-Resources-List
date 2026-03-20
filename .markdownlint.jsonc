@@ -1,0 +1,6 @@
+{
+  "default": true,
+  "MD013": false, // disable line length rule
+  "MD025": true, // Require only one h1 per document
+  "no-trailing-spaces": true,
+}
