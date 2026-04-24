@@ -54,11 +54,14 @@ Links marked with 🤖 are AI resources.
 - [Lapa Ninja](https://www.lapa.ninja/) - landing page design inspiration, learn design, and more
 - [One Page Love](https://onepagelove.com/) - a website design gallery showcasing the best single-page websites, templates, and resources
 - [Minimal Gallery](https://minimal.gallery/) -  a curated source of website design inspiration aiming to support people in their creative process
+- [Unsection](https://www.unsection.com/) - browse 3000+ curated website sections from top brands
+- [ScreensDesign](https://screensdesign.com/) - discover how successful iOS apps design their screens, onboarding & paywalls. Perfect for designers, developers & product teams
 
 ## 💖 Other Collections
 
 - [Fountn](https://fountn.design/) - collection of design resources, curated by designers
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
+- [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
 
 ## 📐 UI Kits & Component Libraries
 
@@ -397,6 +400,12 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Bolt.new](https://bolt.new/) - create stunning apps & websites by chatting with AI
 - 🤖 [Lovable](https://lovable.dev/) - create apps and websites by chatting with AI
 - 🤖 [v0 by Vercel](https://v0.app/) - an AI agent that turns ideas into fully built apps while also helping teams research, plan, and execute work end-to-end
+- 🤖 [UX Pilot](https://uxpilot.ai/) - helps you ideate, refine, and visualize your ideas in 12 seconds
+- 🤖 [Motiff AI](https://motiff.com/) - create production-ready UI from any input. Motiff AI generates precise, consistent designs that fit seamlessly into your workflow
+- 🤖 [Rocket](https://www.rocket.new/) - AI App Builder & Vibe Solutioning Platform
+- 🤖 [Claude Design](https://www.claude.ai/design) - create polished visual work like designs, prototypes, slides, one-pagers, and more
+- 🤖 [Magic Patterns](https://www.magicpatterns.com/) - an AI prototype generator and AI prototyping tool that helps product teams go from idea to production, get user feedback, and build prototypes
+- 🤖 [Moonchild AI](https://moonchild.ai/) - design UI screens, user flows, and prototypes that match your brand, export to Claude Code or Cursor when you're ready to build
 
 ## 🕹️ Design Games & Exercises
 
