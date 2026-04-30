@@ -79,6 +79,7 @@ Links marked with 🤖 are AI resources.
 - [Clonify](https://clonify.io/) - a powerful library of Framer and Figma assets to build stunning websites faster
 - [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
 - [Nova](https://novaui.design/) - a complete solution for Framer & Figma, offering all the resources needed from concept to launch
+- [Shaders](https://shaders.com/) - component library of WebGPU shaders. Includes an editor. Useful for designers to see what's possible and reference
 
 ## 🎨 Colors & Palettes
 
