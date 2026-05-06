@@ -87,7 +87,8 @@ Links marked with 🤖 are AI resources.
 - [Randoma11y](https://randoma11y.com/) - an endless collection of accessible color combos
 - [MyMind](https://access.mymind.com/colors) - a collection of unique color combinations for your design projects
 - [Color Box](https://colorbox.io/) - generate, preview, and organize color palettes  
-- [Colorsinspo](https://colorsinspo.com/) - an all-in-one resource to find everything about colors with extreme ease  
+- [Colorsinspo](https://colorsinspo.com/) - an all-in-one resource to find everything about colors with extreme ease
+- [Palette Inspiration](https://paletteinspiration.com/) - color palettes inspired and built from classic master paintings
 - [Color Hunt](https://colorhunt.co/) - hand-picked color palettes  
 - [Happy Hues](https://www.happyhues.co/) - a color palette inspiration site that acts as a real-world example of how the colors could be used in your design project  
 - [Goodpalette](https://goodpalette.io/ed330e-3cc3de-b3adab) - a curated color palette generator that provides aesthetically pleasing color combinations  
