@@ -211,6 +211,7 @@ Links marked with 🤖 are AI resources.
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
+- 🤖 [igly.ai](https://igly.ai/) - free AI image editing platform with background removal, inpainting, upscaling and generative fill. [Demo →](https://www.youtube.com/watch?v=HB2E1WZ12is)
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
 - 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
