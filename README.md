@@ -210,6 +210,7 @@ Links marked with 🤖 are AI resources.
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
+- 🤖 [TinyTools](https://tinytools-smoky.vercel.app/) - free browser-based AI design utilities: AI background remover (runs locally via ONNX/WASM — no upload, privacy-first), color palette generator, favicon generator, and OG image generator. No signup, open source.
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
 - 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
