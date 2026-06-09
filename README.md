@@ -112,6 +112,7 @@ Links marked with 🤖 are AI resources.
 - [Fontshare](https://www.fontshare.com/) - a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all  
 - [FontsWiki](https://fontswiki.com/) - free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
+- [FontBoxDL](https://fontboxdl.com/) - free font library with 60,000+ typefaces, instant download with no signup, plus font tools (fancy text, font-to-SVG for Cricut)
 - [YouWorkForThem](https://www.youworkforthem.com/) - free high-quality fonts and graphics
 - [Type Department](https://type-department.com/) - provides designers and brands with high-quality fonts that ignite design solutions and command attention
 - 🤖 [Typograph Studio](https://typograph.studio/en) - AI-powered type-design co-pilot
