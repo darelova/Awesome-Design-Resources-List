@@ -56,6 +56,7 @@ Links marked with 🤖 are AI resources.
 - [Minimal Gallery](https://minimal.gallery/) -  a curated source of website design inspiration aiming to support people in their creative process
 - [Unsection](https://www.unsection.com/) - browse 3000+ curated website sections from top brands
 - [ScreensDesign](https://screensdesign.com/) - discover how successful iOS apps design their screens, onboarding & paywalls. Perfect for designers, developers & product teams
+- [Directory of Boring Websites](https://www.boringwebsites.info/) - simple online business ideas that succeed without hype or venture capital
 
 ## 💖 Other Collections
 
@@ -182,6 +183,8 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
+- 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
+- 🤖 [Hypra](https://hypra.studio/) - next-gen imagery library for creatives and teams
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
@@ -225,6 +228,8 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Flair.ai](https://flair.ai/) - AI tool for creating product content, including on-model photography, ad generation, and video creation
 - [SPACE TYPE GENERATOR](https://spacetypegenerator.com/) - an open source tool that allows users to create their own kinetic type experiments
 - [ISF](https://editor.isf.video/) - create interactive shaders to use on desktop, mobile, and in the browser
+- [Efecto](https://efecto.app/fx) - free design tool to create ASCII and Dither visual arts
+- 🤖 [X-Design](https://www.x-design.xin/) - creative AI agent and AI-powered photo editor. Instantly turns your ideas into professional logos, complete brand guidelines, posters, and more
 
 ### Multipurpose AI Chat
 
@@ -233,6 +238,10 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Copilot](https://copilot.microsoft.com/) - Microsoft's Copilot integrates seamlessly with Office applications, assisting users by generating content, summarizing information, and enhancing productivity
 - 🤖 [Grok](https://x.ai/grok) - an AI chatbot developed by xAI, a company founded by Elon Musk, Grok is integrated into X (formerly Twitter) and is known for its real-time data access and a personality described as rebellious and sarcastic
 - 🤖 [Claude](https://claude.ai/login) - created by Anthropic, Claude is designed with a focus on AI safety and reliability, offering users a trustworthy conversational experience
+
+### ✨ AI Built Products
+
+- 🤖 [DESIGN.md](https://www.designmd.co/) - drop a DESIGN.md into your prompt and your AI generates UI that already looks right. Real hex values, actual font names, component patterns for 150+ brands
 
 ## 🧩 Design Systems & Frameworks
 
@@ -375,6 +384,7 @@ Links marked with 🤖 are AI resources.
 - [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
 - [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
+- 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
