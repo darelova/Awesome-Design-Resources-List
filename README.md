@@ -428,6 +428,9 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Claude Design](https://www.claude.ai/design) - create polished visual work like designs, prototypes, slides, one-pagers, and more
 - 🤖 [Magic Patterns](https://www.magicpatterns.com/) - an AI prototype generator and AI prototyping tool that helps product teams go from idea to production, get user feedback, and build prototypes
 - 🤖 [Moonchild AI](https://moonchild.ai/) - design UI screens, user flows, and prototypes that match your brand, export to Claude Code or Cursor when you're ready to build
+- 🤖 [Replit](https://replit.com/) - create mobile and web apps, landing pages, and videos in one project with shared design
+- 🤖 [Base44](https://base44.com/) - a vibe coding platform that lets you build apps and websites without the need for any coding experience
+- 🤖 [Figma Make](https://www.figma.com/make/) - turn ideas into reality with AI-powered design tools—generate, iterate, and build faster, all in one creative space
 
 ## 🕹️ Design Games & Exercises
 
