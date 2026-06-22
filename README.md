@@ -57,6 +57,9 @@ Links marked with 🤖 are AI resources.
 - [Unsection](https://www.unsection.com/) - browse 3000+ curated website sections from top brands
 - [ScreensDesign](https://screensdesign.com/) - discover how successful iOS apps design their screens, onboarding & paywalls. Perfect for designers, developers & product teams
 - [Directory of Boring Websites](https://www.boringwebsites.info/) - simple online business ideas that succeed without hype or venture capital
+- [Design Spells](https://designspells.com/) - discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web
+- [Swissted](https://www.swissted.com/) - an ongoing design project and shop by Mike Joyce that reimagines vintage punk and indie rock concert flyers as Swiss Modernist typographic posters
+- [Viewport UI](https://viewport-ui.design/) - UI curated experiences for you inspiration
 
 ## 💖 Other Collections
 
@@ -98,6 +101,7 @@ Links marked with 🤖 are AI resources.
 - [Pigment by ShapeFactory](https://pigment.shapefactory.co/) - a unique way to generate fresh and vibrant colors based on lighting and pigment, instead of math
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
+- [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
@@ -116,6 +120,11 @@ Links marked with 🤖 are AI resources.
 - [YouWorkForThem](https://www.youworkforthem.com/) - free high-quality fonts and graphics
 - [Type Department](https://type-department.com/) - provides designers and brands with high-quality fonts that ignite design solutions and command attention
 - 🤖 [Typograph Studio](https://typograph.studio/en) - AI-powered type-design co-pilot
+- 🤖 [Mixfont](https://www.mixfont.com/)- identify, generate, and edit fonts, all powered by AI
+- 🤖 [Fontjoy](https://fontjoy.com/) - generate font pairings with deep learning
+- [Fontpair](https://fontpair.co/) - discover and test fonts, colors, and icons curated by professional designers
+- [Fonts by Ani Dimitrova](https://anidimitrova.com/) - custom typeface designes by Ani Dimitrova from Bulgaria
+- [About Type](https://abouttype.com/) - an independent type design studio by Krista Radoeva, creating contemporary multilingual typefaces with a focus on Latin and Cyrillic
 
 ## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
@@ -385,6 +394,7 @@ Links marked with 🤖 are AI resources.
 - [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 - 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
+- [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
