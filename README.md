@@ -192,6 +192,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
+- [Tessera](https://tgajwani4-a11y.github.io/tessera-patterns-site/) - seamless, tileable generative pattern packs (3000x3000px PNG) for packaging, fabric, and web backgrounds
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
 - 🤖 [Hypra](https://hypra.studio/) - next-gen imagery library for creatives and teams
 
