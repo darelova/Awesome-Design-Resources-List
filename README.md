@@ -222,6 +222,7 @@ Links marked with 🤖 are AI resources.
 - [DiceBear Avatars](https://dicebear.com/) - a free avatar library offering customizable, SVG-based avatar styles
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
+- [Landing Copy Grader](https://parweb.github.io/landing-copy-grader/) - scores landing page hero copy 0-100 against a fixed checklist of AI-writing tells, entirely in the browser
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
