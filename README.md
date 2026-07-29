@@ -85,6 +85,7 @@ Links marked with 🤖 are AI resources.
 - [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
 - [Nova](https://novaui.design/) - a complete solution for Framer & Figma, offering all the resources needed from concept to launch
 - [Shaders](https://shaders.com/) - component library of WebGPU shaders. Includes an editor. Useful for designers to see what's possible and reference
+- [Namer UI](https://github.com/Northstrix/namer-ui) - a collection of reusable Next.js/React components made to empower developers to quickly build beautiful UIs
 
 ## 🎨 Colors & Palettes
 
@@ -103,6 +104,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
+- [Nof](https://github.com/Northstrix/nof) - generate complementary color palettes.
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
