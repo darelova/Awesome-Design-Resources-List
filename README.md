@@ -242,6 +242,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [X-Design](https://www.x-design.xin/) - creative AI agent and AI-powered photo editor. Instantly turns your ideas into professional logos, complete brand guidelines, posters, and more
 - 🤖 [Kittl](https://www.kittl.com/) - AI design platform. Create with top image gen models, pro editing tools, mockups, and curated assets
 - 🤖 [Bookmarkify](https://www.bookmarkify.io/) - a visual bookmark manager that replaces cluttered browser tabs and forgotten links with a searchable visual library
+- [Free Image Merger](https://freeimagemerger.com/) - merge photos side by side, stacked, in a grid, or freely on a canvas; runs entirely in the browser so files never leave your device
 
 ### Multipurpose AI Chat
 
