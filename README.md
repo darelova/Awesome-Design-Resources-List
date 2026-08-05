@@ -195,6 +195,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
 - 🤖 [Hypra](https://hypra.studio/) - next-gen imagery library for creatives and teams
+- 🤖 [AI Scribbles](https://www.aiscribbles.com/) - A collection of free AI images and illustrations
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
