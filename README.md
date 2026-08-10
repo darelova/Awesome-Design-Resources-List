@@ -126,6 +126,7 @@ Links marked with 🤖 are AI resources.
 - [Fontpair](https://fontpair.co/) - discover and test fonts, colors, and icons curated by professional designers
 - [Fonts by Ani Dimitrova](https://anidimitrova.com/) - custom typeface designes by Ani Dimitrova from Bulgaria
 - [About Type](https://abouttype.com/) - an independent type design studio by Krista Radoeva, creating contemporary multilingual typefaces with a focus on Latin and Cyrillic
+- 🤖 [Fontinical](https://fontinical.com/fonts) - semantic search across 2,404 free font families by mood, use case, and language, with unmodified font binaries and lossless WOFF2
 
 ## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
