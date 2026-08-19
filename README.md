@@ -103,6 +103,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
+- [wedpalette](https://wedpalette.com) - Wedding color palette generator, assigns each hex to attire, florals, tables or stationery.
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
