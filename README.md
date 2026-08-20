@@ -164,6 +164,7 @@ Links marked with 🤖 are AI resources.
 - [Hugeicons](https://hugeicons.com/) - a modern icon library designed for designers and developers who need scalable, customizable, and visually balanced icons
 - [Heroicons](https://heroicons.com/) - hand-crafted SVG icons, by the makers of Tailwind CSS
 - [Griddy Icons](https://griddyicons.com/) - a free open-source icon family with a unique utilitarian vibe
+- [Thridy](https://thridy.com/) - 13,000+ free 3D icons in one consistent style, downloadable as HD transparent PNGs for personal and commercial use, no attribution or signup
 - 🤖 [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
