@@ -186,6 +186,7 @@ Links marked with 🤖 are AI resources.
 - [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
 - [RD Tool](https://www.karlsims.com/rdtool.html) - web application to experiment with reaction-diffusion simulations
 - 🤖 [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com/) - convert any photo into a free crochet pattern grid
 - 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
 - 🤖 [Dall-E](https://openart.ai/home) - AI image generation
 - 🤖 [Stable Diffusion](https://stability.ai/stable-image) - AI image generation
@@ -254,6 +255,7 @@ Links marked with 🤖 are AI resources.
 ### ✨ AI Built Products
 
 - 🤖 [DESIGN.md](https://www.designmd.co/) - drop a DESIGN.md into your prompt and your AI generates UI that already looks right. Real hex values, actual font names, component patterns for 150+ brands
+- [Codex Theme Builder](https://codextheme.tools/) - free browser tool to design and export custom Codex CLI themes
 
 ## 🧩 Design Systems & Frameworks
 
