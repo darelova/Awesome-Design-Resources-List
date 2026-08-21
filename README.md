@@ -393,6 +393,7 @@ Links marked with 🤖 are AI resources.
 - [three.js](https://threejs.org/) - cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - [Myinstants](https://www.myinstants.com/en/index/bg/) - discover funny instant sound buttons
+- [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds) - twelve original 44.1 kHz WAV interface clicks; $0 checkout, commercial use allowed
 - [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
 - [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
