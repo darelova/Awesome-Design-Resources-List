@@ -30,6 +30,7 @@ Links marked with 🤖 are AI resources.
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
 - [UIZZE](https://uizze.com) - Browse 800,000+ real web and iOS screens, flows, and UI elements to replace generic interface defaults with product-specific design decisions.
+- [Kombai Gallery](https://kombai.com/gallery/web/) - a free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products
 - [Land-book](https://land-book.com/) - hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked, curated brand guidelines from around the world  
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
