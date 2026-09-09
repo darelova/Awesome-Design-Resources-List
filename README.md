@@ -85,6 +85,7 @@ Links marked with 🤖 are AI resources.
 - [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
 - [Nova](https://novaui.design/) - a complete solution for Framer & Figma, offering all the resources needed from concept to launch
 - [Shaders](https://shaders.com/) - component library of WebGPU shaders. Includes an editor. Useful for designers to see what's possible and reference
+- [AI Canvas](https://aicanvas.me/) - open-source animated React components, blocks and design systems, built with Tailwind CSS and Motion and installed with the shadcn CLI
 
 ## 🎨 Colors & Palettes
 
