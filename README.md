@@ -61,10 +61,18 @@ Links marked with 🤖 are AI resources.
 - [Design Spells](https://designspells.com/) - discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web
 - [Swissted](https://www.swissted.com/) - an ongoing design project and shop by Mike Joyce that reimagines vintage punk and indie rock concert flyers as Swiss Modernist typographic posters
 - [Viewport UI](https://viewport-ui.design/) - UI curated experiences for you inspiration
+- [Same Energy](https://same.energy/) - a visual search engine. You can use it to find beautiful art, photography, decoration ideas, or anything else
+- [SEESAW Design Inspiration](https://www.seesaw.website/) - a hand-picked collection of the best websites on the internet, updated daily
+- [Visual Journal](https://visualjournal.it/) - a curated showcase of exceptional branding and graphic design from around the world, personally researched and selected by designer Alessandro Scarpellini
+- [Before](https://before.click/) - browse curated App Store screenshots from the best-designed iOS apps
+- [Pafolios](https://pafolios.com/) - the best-designed portfolios and case studies on the internet
+- [191 Social Proof Examples](https://socialproofexamples.com/) - a collection of success metrics and micro case studies to create a clear, impactful visual of your brand's achievements
+- [3D Websites](https://3dwebsites.design/) - a collection of websites using 3d elements to use as inspiration for your design work
+- [A/B Test](https://abtest.design/) - curated collection of A/B test results from best-in-class apps
 
 ## 💖 Other Collections
 
-- [Fountn](https://fountn.design/) - collection of design resources, curated by designers
+- [Fountn](https://fountn.design/) - a collection of design resources, curated by designers
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
 - [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
 
@@ -86,6 +94,8 @@ Links marked with 🤖 are AI resources.
 - [Nova](https://novaui.design/) - a complete solution for Framer & Figma, offering all the resources needed from concept to launch
 - [Shaders](https://shaders.com/) - component library of WebGPU shaders. Includes an editor. Useful for designers to see what's possible and reference
 - [AI Canvas](https://aicanvas.me/) - open-source animated React components, blocks and design systems, built with Tailwind CSS and Motion and installed with the shadcn CLI
+- [Originkit](https://www.originkit.dev/) - free animated component library for building modern websites
+- [Lightswind UI](https://lightswind.com/) - stunning react components for modern developers
 
 ## 🎨 Colors & Palettes
 
@@ -127,6 +137,7 @@ Links marked with 🤖 are AI resources.
 - [Fontpair](https://fontpair.co/) - discover and test fonts, colors, and icons curated by professional designers
 - [Fonts by Ani Dimitrova](https://anidimitrova.com/) - custom typeface designes by Ani Dimitrova from Bulgaria
 - [About Type](https://abouttype.com/) - an independent type design studio by Krista Radoeva, creating contemporary multilingual typefaces with a focus on Latin and Cyrillic
+- [Fonts In Use](https://fontsinuse.com/) - a public archive of typography indexed by typeface, format, industry, and period
 
 ## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
@@ -197,6 +208,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
 - 🤖 [Hypra](https://hypra.studio/) - next-gen imagery library for creatives and teams
+- [Public Work by Cosmos](https://www.cosmos.so/public-work) - a collection of free imagery, photos, and textures for public use
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
@@ -244,6 +256,9 @@ Links marked with 🤖 are AI resources.
 - 🤖 [X-Design](https://www.x-design.xin/) - creative AI agent and AI-powered photo editor. Instantly turns your ideas into professional logos, complete brand guidelines, posters, and more
 - 🤖 [Kittl](https://www.kittl.com/) - AI design platform. Create with top image gen models, pro editing tools, mockups, and curated assets
 - 🤖 [Bookmarkify](https://www.bookmarkify.io/) - a visual bookmark manager that replaces cluttered browser tabs and forgotten links with a searchable visual library
+- [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
+- [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
+- [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
 
 ### Multipurpose AI Chat
 
@@ -356,6 +371,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Attention Insight](https://www.figma.com/community/plugin/968765016617421513/attention-insight) - Artificial Intelligence instantly predicts where users will look after engaging with your design so you can save time and avoid fixes after the launch
 - 🤖 [Generator](https://www.figma.com/community/plugin/899028246731755335/generator) - the first node-based plugin with the power to create generative art right in Figma, no code required
 - 🤖 [Generative Gradients](https://www.figma.com/community/plugin/1347316282856177038/generative-gradients) - create complex gradients using just a few simple tools such as color, radius, positioning, blur, and distortion
+- 🤖 [Higgsfield AI](https://www.figma.com/community/plugin/1641150071720162509/higgsfield-ai-remove-background-mockup-face-swap-ai-image-video-generator) - remove background, create mockups, swap faces, and generate AI images & videos
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
@@ -400,6 +416,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
 - 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
 - [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
+- [animos](https://animos.app/) - motion templates for design showcases
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
