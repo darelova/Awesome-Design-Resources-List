@@ -69,6 +69,9 @@ Links marked with 🤖 are AI resources.
 - [191 Social Proof Examples](https://socialproofexamples.com/) - a collection of success metrics and micro case studies to create a clear, impactful visual of your brand's achievements
 - [3D Websites](https://3dwebsites.design/) - a collection of websites using 3d elements to use as inspiration for your design work
 - [A/B Test](https://abtest.design/) - curated collection of A/B test results from best-in-class apps
+- [Mindsparkle Mag](https://mindsparklemag.com/inspiration) - a collection of branding, web design, graphic and packaging projects through in-depth case studies and behind-the-scenes
+- [DIELINE](https://thedieline.com/) - the World’s leading packaging design resource for CPG brands, designers, and agencies
+- [Really Good Emails](https://reallygoodemails.com/) - a collection of email designs
 
 ## 💖 Other Collections
 
