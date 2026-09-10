@@ -72,6 +72,7 @@ Links marked with 🤖 are AI resources.
 - [Mindsparkle Mag](https://mindsparklemag.com/inspiration) - a collection of branding, web design, graphic and packaging projects through in-depth case studies and behind-the-scenes
 - [DIELINE](https://thedieline.com/) - the World’s leading packaging design resource for CPG brands, designers, and agencies
 - [Really Good Emails](https://reallygoodemails.com/) - a collection of email designs
+- [Inspora](https://www.inspora.design/) - a curated archive of recent visual design and creative work
 
 ## 💖 Other Collections
 
@@ -99,6 +100,9 @@ Links marked with 🤖 are AI resources.
 - [AI Canvas](https://aicanvas.me/) - open-source animated React components, blocks and design systems, built with Tailwind CSS and Motion and installed with the shadcn CLI
 - [Originkit](https://www.originkit.dev/) - free animated component library for building modern websites
 - [Lightswind UI](https://lightswind.com/) - stunning react components for modern developers
+- [ThreeUI](https://threeui.com/browse) - copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants
+- 🤖 [Refero Styles](https://styles.refero.design/) - a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites
+- 🤖 [Cult UI](https://www.cult-ui.com/) - production-ready AI patterns, full-stack templates, and starters for teams shipping on the Vercel AI SDK
 
 ## 🎨 Colors & Palettes
 
@@ -322,6 +326,7 @@ Links marked with 🤖 are AI resources.
 - [Design Patterns Catalogue](https://catalogue.projectsbyif.com/) - design pattern guideline resources to help you build better websites and apps
 - [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
 - [Design Token Naming Guide](https://www.namedesigntokens.guide/) - learn how to name design tokens the right way
+- [39 Principles for Designing Human–AI Interaction](https://syntaxstream.substack.com/p/42-principles-for-designing-humanai) - an applied framework for designing AI interfaces that support appropriate reliance, user control, transparency, and responsible autonomy
 
 ## 🔌 Figma plugins & resources
 
@@ -399,6 +404,7 @@ Links marked with 🤖 are AI resources.
 - [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions, and understand systems
 - [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
 - [Karl Sims](https://www.karlsims.com/) - awesome resources for web applications, computer animations, technical papers, and more
+- 🤖 [AI Goodies](https://aigoodies.beehiiv.com/) - newsletter on AI, UX, design resources, and trends
 
 ## 🎬 Animations, 3D and Sound
 
