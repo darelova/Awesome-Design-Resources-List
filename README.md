@@ -29,6 +29,7 @@ Links marked with 🤖 are AI resources.
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
+- [Flownato](https://www.flownato.com/) - real Android app screens, complete user flows and UI patterns for UI/UX research, focused on Indian apps like Swiggy, Zepto, MakeMyTrip and Nykaa
 - [UIZZE](https://uizze.com) - Browse 800,000+ real web and iOS screens, flows, and UI elements to replace generic interface defaults with product-specific design decisions.
 - [Land-book](https://land-book.com/) - hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked, curated brand guidelines from around the world  
