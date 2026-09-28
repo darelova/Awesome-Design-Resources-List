@@ -121,6 +121,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
+- [Your Color Picker](https://yourcolorpicker.com) - a free, browser-based eyedropper, hex/RGB/HSL converter, and WCAG contrast checker with no uploads and offline support
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
