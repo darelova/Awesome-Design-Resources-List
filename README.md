@@ -269,6 +269,8 @@ Links marked with 🤖 are AI resources.
 - [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
 - [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
 
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+
 ### Multipurpose AI Chat
 
 - 🤖 [ChatGPT](https://openai.com/index/chatgpt/) - developed by OpenAI, ChatGPT is renowned for its human-like conversational abilities and is widely used for various applications, including drafting emails, writing code, and answering questions
