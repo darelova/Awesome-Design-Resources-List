@@ -247,6 +247,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
+- [pic2svg](https://pic2svg.com/) - trace PNG/JPG images to editable SVG vectors with a side-by-side preview; free to trace, Pro tier for downloads
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
 - 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
 - 🤖 [Captions](https://www.captions.ai/) - creates videos from captions with AI
