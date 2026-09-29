@@ -142,6 +142,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Typograph Studio](https://typograph.studio/en) - AI-powered type-design co-pilot
 - 🤖 [Mixfont](https://www.mixfont.com/)- identify, generate, and edit fonts, all powered by AI
 - 🤖 [Fontjoy](https://fontjoy.com/) - generate font pairings with deep learning
+- 🤖 [Minglyph](https://minglyph.com/typography-tools) - create static typography artwork from exact words and names with editable style and palette briefs
 - [Fontpair](https://fontpair.co/) - discover and test fonts, colors, and icons curated by professional designers
 - [Fonts by Ani Dimitrova](https://anidimitrova.com/) - custom typeface designes by Ani Dimitrova from Bulgaria
 - [About Type](https://abouttype.com/) - an independent type design studio by Krista Radoeva, creating contemporary multilingual typefaces with a focus on Latin and Cyrillic
