@@ -268,6 +268,7 @@ Links marked with 🤖 are AI resources.
 - [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
 - [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
 - [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
+- 🤖 [Image to Layer](https://image2layers.org/) - split a flat JPG, PNG or WebP into editable transparent layers with the background filled in, then download a layered PSD
 
 ### Multipurpose AI Chat
 
