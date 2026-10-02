@@ -280,6 +280,7 @@ Links marked with 🤖 are AI resources.
 ### ✨ AI Built Products
 
 - 🤖 [DESIGN.md](https://www.designmd.co/) - drop a DESIGN.md into your prompt and your AI generates UI that already looks right. Real hex values, actual font names, component patterns for 150+ brands
+- 🤖 [Tesla Wrap Generator](https://teslawrapgenerator.com/) - turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG
 
 ## 🧩 Design Systems & Frameworks
 
