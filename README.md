@@ -104,6 +104,7 @@ Links marked with 🤖 are AI resources.
 - [ThreeUI](https://threeui.com/browse) - copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants
 - 🤖 [Refero Styles](https://styles.refero.design/) - a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites
 - 🤖 [Cult UI](https://www.cult-ui.com/) - production-ready AI patterns, full-stack templates, and starters for teams shipping on the Vercel AI SDK
+- [UIAble](https://uiable.com/) - UIAble is a free, open-source UI system that extends shadcn/ui with a vivid design system, reusable React components, and complete code ownership.
 
 ## 🎨 Colors & Palettes
 
