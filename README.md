@@ -266,6 +266,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Kittl](https://www.kittl.com/) - AI design platform. Create with top image gen models, pro editing tools, mockups, and curated assets
 - 🤖 [Bookmarkify](https://www.bookmarkify.io/) - a visual bookmark manager that replaces cluttered browser tabs and forgotten links with a searchable visual library
 - [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
+- [Stunna Photo Tools](https://stunna-app.com/tools) - free browser photo filters, photo booth frames and a photo strip maker with local image processing, no account and watermark-free exports
 - [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
 - [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
 
