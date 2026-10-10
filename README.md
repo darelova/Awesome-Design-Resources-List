@@ -268,6 +268,7 @@ Links marked with 🤖 are AI resources.
 - [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
 - [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
 - [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
+- 🤖 [Kamply](https://kamplyapp.com) - a marketing crew in a Mac app that produces on-brand social posts, carousels, reels, ads and decks, running on your own Claude Code or Codex plan (paid)
 
 ### Multipurpose AI Chat
 
