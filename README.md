@@ -58,6 +58,7 @@ Links marked with 🤖 are AI resources.
 - [Minimal Gallery](https://minimal.gallery/) -  a curated source of website design inspiration aiming to support people in their creative process
 - [Unsection](https://www.unsection.com/) - browse 3000+ curated website sections from top brands
 - [ScreensDesign](https://screensdesign.com/) - discover how successful iOS apps design their screens, onboarding & paywalls. Perfect for designers, developers & product teams
+- [APPLORE](https://applore.app/) - browse 18,000+ real App Store and Google Play icons by color, style and letter, with free app icon size exports
 - [Directory of Boring Websites](https://www.boringwebsites.info/) - simple online business ideas that succeed without hype or venture capital
 - [Design Spells](https://designspells.com/) - discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web
 - [Swissted](https://www.swissted.com/) - an ongoing design project and shop by Mike Joyce that reimagines vintage punk and indie rock concert flyers as Swiss Modernist typographic posters
