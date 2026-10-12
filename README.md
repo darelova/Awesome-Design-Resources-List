@@ -270,6 +270,7 @@ Links marked with 🤖 are AI resources.
 - [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
 - [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
 - [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
+- 🤖 [TranslateMyImage](https://translatemyimage.com/) - translate the text inside an image (banner, mockup, screenshot) into 45 languages and get the same image back with the layout kept
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
