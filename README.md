@@ -78,6 +78,7 @@ Links marked with 🤖 are AI resources.
 ## 💖 Other Collections
 
 - [Fountn](https://fountn.design/) - a collection of design resources, curated by designers
+- [The Design Tools](https://thedesigntools.site/) - a hand-curated directory of hundreds of design tools across product, graphic, industrial, architecture, and other disciplines; listings include strengths and drawbacks
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
 - [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
 
