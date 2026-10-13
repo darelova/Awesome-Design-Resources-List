@@ -4,6 +4,8 @@ Tools, resources, articles, inspiration
 
 [![A collection of design goodies for your everyday work. Tools, tips and inspiration all in one place.](./assets/awesome-list-featured-image.png)](https://discord.gg/invite/exncPmG4tH)
 
+![Links: 303](https://img.shields.io/badge/Links-303-blue)
+
 Some sections in this list inevitably overlap because design resources often serve multiple purposes. A UI kit might also function as a design system, an icon library can double as an illustration source, and certain tools could be categorized under both generators and accessibility. Instead of treating these as strict boundaries, think of the sections as entry points—groupings that highlight the main use of a resource while acknowledging that many could fit comfortably in more than one place.
 
 Links marked with 🤖 are AI resources.
