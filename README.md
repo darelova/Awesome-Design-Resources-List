@@ -124,6 +124,8 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
 
+- [ToolKnit Color Picker](https://toolknit.com/tools/color-picker.html) - convert between HEX, RGB and HSL and generate complementary or triadic color palettes
+
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
 - [Typescale](https://typescale.com/) - a simple tool that allows you to preview and adjust typography scales with different fonts and ratios  
