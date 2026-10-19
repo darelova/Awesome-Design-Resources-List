@@ -86,6 +86,7 @@ Links marked with 🤖 are AI resources.
 
 - [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
 - [shadcn/ui](https://ui.shadcn.com/) - beautifully designed components that you can copy and paste into your apps
+- [Skrewww Design System](https://skrewww.com/) - open-source React and TypeScript design system with token-driven components, a matching Figma library, and machine-readable contracts for AI coding agents
 - [Radix UI](https://www.radix-ui.com/) - an open-source component library optimized for fast development, easy maintenance, and accessibility
 - [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
 - [Material Design/Components](https://m3.material.io/components) - Google's interactive building blocks for creating a user interface
