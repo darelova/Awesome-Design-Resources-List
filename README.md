@@ -140,6 +140,7 @@ Links marked with 🤖 are AI resources.
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
 - [YouWorkForThem](https://www.youworkforthem.com/) - free high-quality fonts and graphics
 - [Type Department](https://type-department.com/) - provides designers and brands with high-quality fonts that ignite design solutions and command attention
+- [Honed Assets](https://www.honedassets.com/) - fonts, templates and mockups from independent creators, free and paid, with one commercial licence
 - 🤖 [Typograph Studio](https://typograph.studio/en) - AI-powered type-design co-pilot
 - 🤖 [Mixfont](https://www.mixfont.com/)- identify, generate, and edit fonts, all powered by AI
 - 🤖 [Fontjoy](https://fontjoy.com/) - generate font pairings with deep learning
