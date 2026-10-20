@@ -103,6 +103,7 @@ Links marked with 🤖 are AI resources.
 - [Originkit](https://www.originkit.dev/) - free animated component library for building modern websites
 - [Lightswind UI](https://lightswind.com/) - stunning react components for modern developers
 - [ThreeUI](https://threeui.com/browse) - copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants
+- [ElementsKit UI](https://elements-kit.com/ui) - open-source, framework-agnostic UI components (custom elements or JSX) with design tokens, a Storybook and a matching Figma community library
 - 🤖 [Refero Styles](https://styles.refero.design/) - a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites
 - 🤖 [Cult UI](https://www.cult-ui.com/) - production-ready AI patterns, full-stack templates, and starters for teams shipping on the Vercel AI SDK
 
