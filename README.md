@@ -75,6 +75,7 @@ Links marked with 🤖 are AI resources.
 - [DIELINE](https://thedieline.com/) - the World’s leading packaging design resource for CPG brands, designers, and agencies
 - [Really Good Emails](https://reallygoodemails.com/) - a collection of email designs
 - [Inspora](https://www.inspora.design/) - a curated archive of recent visual design and creative work
+- [BRRRANDING](https://www.brrranding.com/) - Branding inspiration, curated by humans
 
 ## 💖 Other Collections
 
