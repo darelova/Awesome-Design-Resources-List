@@ -433,6 +433,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
 - [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 - [animos](https://animos.app/) - motion templates for design showcases
+- 🤖 [pitchboom.io](https://pitchboom.io) - turn a product URL or a short brief into motion-design video ads with voice-over and music, rendered for every social format
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
