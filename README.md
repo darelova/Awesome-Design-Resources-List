@@ -440,6 +440,7 @@ Links marked with 🤖 are AI resources.
 - [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
 - [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
 - [Microsoft Inclusive Design](https://inclusive.microsoft.design/) - methodology, born out of digital environments, that enables and draws on the full range of human diversity
+- [What Is UX Research? A Complete Guide to UX Research Methods & Best Practices](https://pulsecorp.co/blog/what-is-ux-research-a-complete-guide-to-ux-research-methods-best-practices/) - guide to core UX research methods and a 5-step process for running effective studies
 
 ## 📐 Wireframing, No-Code & AI Web Tools
 
