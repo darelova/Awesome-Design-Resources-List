@@ -271,8 +271,8 @@ Links marked with 🤖 are AI resources.
 - [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
 - [Ladybug](https://theladybug.app/) - make wild visual effects in your browser
 - [MiroMiro](https://miromiro.app/) - copy any website's code, CSS & Lottie
-
-- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
+- 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 
 ### Multipurpose AI Chat
 
@@ -488,3 +488,7 @@ Links marked with 🤖 are AI resources.
 
 - [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) - UX & Usability Testing Chrome extension to enhance site design with heatmaps, scroll tracking, and screenshots
 - [Accessibility Insights for Web](https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en) - Accessibility Insights for Web helps developers quickly find and fix accessibility issues
+
+## 📈 Data Visualization
+
+- [D3](https://d3js.org/) - an open-source JavaScript library for data visualizations
