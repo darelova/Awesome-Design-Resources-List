@@ -45,6 +45,7 @@ Links marked with 🤖 are AI resources.
 - [Websitevice](https://websitevice.com/) - website examples for inspiration
 - [SaaS Landing Page](https://saaslandingpage.com/) - landing page examples created by top-class SaaS companies
 - [UI Sources](https://uisources.com/screenshots) - browse recordings of end-to-end user journeys from the top grossing apps
+- [KYC Flows](https://www.kycflows.com/) - dated, screen-by-screen screenshots of the sign-up flows of embedded wallet SDKs (Privy, Dynamic, thirdweb, MetaMask Embedded Wallets, Crossmint) and one KYC vendor (Didit), with side-by-side compare pages
 - [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
 - [Pushkeen](https://pushkeen.ai/) - the world's largest push notifications library
