@@ -208,6 +208,7 @@ Links marked with 🤖 are AI resources.
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
 - [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
+- [Gradients Studio](https://www.gradients.studio/) - make mesh, stripe, cloud and ray gradient backgrounds with real film grain, pixel and dither finishes, exported at 4K with no watermark
 - [RD Tool](https://www.karlsims.com/rdtool.html) - web application to experiment with reaction-diffusion simulations
 - 🤖 [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
 - 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
