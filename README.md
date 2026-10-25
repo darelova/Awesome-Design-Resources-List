@@ -238,6 +238,7 @@ Links marked with 🤖 are AI resources.
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
 - [Maneken](https://maneken.app/) - the browser powered mockup editor
+- [AppScreen](https://appscreen.pro/) - browser editor for App Store and Google Play screenshots with iPhone, iPad and Android device frames; free tier, $9 one-time Pro
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
