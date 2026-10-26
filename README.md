@@ -265,6 +265,7 @@ Links marked with 🤖 are AI resources.
 - [ISF](https://editor.isf.video/) - create interactive shaders to use on desktop, mobile, and in the browser
 - [Efecto](https://efecto.app/fx) - free design tool to create ASCII and Dither visual arts
 - [Image to ASCII](https://imagetoascii.art/) - convert images to ASCII art locally in the browser, then copy or export the result as text or an image
+- [Favicon Package Builder](https://radarmakers.com/tools/favicon-package-builder) - turn one logo into favicon.ico, PNG sizes, an Apple touch icon, a maskable icon and a web manifest, free and processed locally in the browser
 - 🤖 [X-Design](https://www.x-design.xin/) - creative AI agent and AI-powered photo editor. Instantly turns your ideas into professional logos, complete brand guidelines, posters, and more
 - 🤖 [Kittl](https://www.kittl.com/) - AI design platform. Create with top image gen models, pro editing tools, mockups, and curated assets
 - 🤖 [Bookmarkify](https://www.bookmarkify.io/) - a visual bookmark manager that replaces cluttered browser tabs and forgotten links with a searchable visual library
