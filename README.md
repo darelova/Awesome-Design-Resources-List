@@ -76,6 +76,7 @@ Links marked with 🤖 are AI resources.
 - [Really Good Emails](https://reallygoodemails.com/) - a collection of email designs
 - [Inspora](https://www.inspora.design/) - a curated archive of recent visual design and creative work
 - [BRRRANDING](https://www.brrranding.com/) - Branding inspiration, curated by humans
+- [Design Details](https://designdetails.io/) - a free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns
 
 ## 💖 Other Collections
 
