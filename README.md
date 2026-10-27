@@ -219,6 +219,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
 - 🤖 [Hypra](https://hypra.studio/) - next-gen imagery library for creatives and teams
+- 🤖 [Personified](https://allsvgicons.com/personified-free-avatars/) - free AI portrait photos of fictional people with personas (country, age, mood) for mockups and placeholder users
 - [Public Work by Cosmos](https://www.cosmos.so/public-work) - a collection of free imagery, photos, and textures for public use
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
