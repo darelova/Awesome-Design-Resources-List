@@ -1,234 +1,220 @@
 #!/usr/bin/env tsx
 
-import { existsSync, readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import { choice, TypeSafeClient } from '@typesafe-ai/sdk';
+import {
+  ENTRY_PATTERN,
+  parseReadme,
+  type Entry,
+  type Section,
+} from './lib/readme';
+import { argValue, chunk, percent, requireApiKey, runPool } from './lib/util';
 
 /**
- * Uses TypeSafe's Jev model to check which README section each resource belongs in.
+ * Uses TypeSafe's Jev model to check which README section
+ * each resource belongs in.
  *
  *   npm run categorize                     audit every entry in README.md
  *   npm run categorize -- --limit 20       audit the first 20 entries only
  *   npm run categorize -- --json out.json  also write every answer to a file
  *   npm run categorize -- --suggest "- [Name](https://url) - description"
  *
- * Needs TYPESAFE_API_KEY, read from the environment or from .env in the repo root.
+ * Needs TYPESAFE_API_KEY, from the environment or from .env in the repo root.
  */
 
 // All question wording and thresholds live here.
 const MODEL = 'jev-1.14.0';
 const LIST_CONTEXT = {
   title: 'Awesome Design Resources List',
-  about: 'A curated list of links for designers: tools, resources, articles, and inspiration.',
+  about:
+    'A curated list of links for designers: ' +
+    'tools, resources, articles, and inspiration.',
   placement_rule:
-    'Sections overlap. Each resource goes in the section that matches its main use, even if it could fit elsewhere.',
+    'Sections overlap. Each resource goes in the section that matches ' +
+    'its main use, even if it could fit elsewhere.',
 };
-const SECTION_QUESTION = 'Which section of the list is the best home for this resource?';
-// Below this probability for its current section, an entry is reported as misplaced.
+const SECTION_QUESTION =
+  'Which section of the list is the best home for this resource?';
+
+// An entry is misplaced when its current section scores below this.
 const MOVE_THRESHOLD = 0.2;
 const ENTRIES_PER_REQUEST = 25;
 const CONCURRENT_REQUESTS = 4;
+const SUGGESTIONS_SHOWN = 3;
 
-interface Section {
-  readonly key: string;
-  readonly heading: string;
-}
+const VERDICT_TITLES = {
+  move: '🚚 Likely in the wrong section',
+  borderline: '🤔 Fits its section, but another fits better',
+};
 
-interface Entry {
-  readonly line: number;
-  readonly name: string;
-  readonly url: string;
-  readonly description: string;
-  readonly ai: boolean;
-  readonly section: Section;
-  readonly subsection?: string;
-}
+/** The parts of an entry that Jev sees */
+type Listing = Pick<Entry, 'name' | 'url' | 'description' | 'ai'>;
+
+/** Section key to the probability that it is the best home */
+type Probabilities = Readonly<Record<string, number>>;
 
 type Verdict = 'ok' | 'borderline' | 'move';
 
-interface Result {
-  readonly entry: Entry;
+interface Placement {
   readonly suggested: string;
-  readonly probabilities: Record<string, number>;
+  readonly probabilities: Probabilities;
+}
+
+interface Result extends Placement {
+  readonly entry: Entry;
   readonly verdict: Verdict;
 }
 
-const ENTRY_PATTERN = /^- (🤖 )?\[([^\]]+)\]\(([^)]+)\)\s*-?\s*(.*)$/;
-
-function stripEmoji(text: string): string {
-  return text.replace(/^[^\p{L}\p{N}]+/u, '').trim();
+interface Context {
+  readonly client: TypeSafeClient;
+  readonly sections: readonly Section[];
+  readonly headingOf: ReadonlyMap<string, string>;
 }
 
-function sectionKey(heading: string): string {
-  return stripEmoji(heading)
-    .replace(/\(.*\)/, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '_')
-    .replace(/^_|_$/g, '');
+function sectionPrompt(listing: Listing) {
+  return {
+    question: SECTION_QUESTION,
+    resource: {
+      name: listing.name,
+      url: listing.url,
+      description: listing.description || '(no description)',
+      ...(listing.ai ? { ai_powered: true } : {}),
+    },
+  };
 }
 
 /**
- * Reads the README into its top-level sections and the entries under each one
+ * Asks Jev for the best section of each listing, in a single request
  */
-function parseReadme(content: string): { sections: Section[]; entries: Entry[] } {
-  const sections: Section[] = [];
-  const entries: Entry[] = [];
-  let current: Section | undefined;
-  let subsection: string | undefined;
-
-  content.split('\n').forEach((raw, index) => {
-    const text = raw.trim();
-    if (text.startsWith('## ')) {
-      const heading = stripEmoji(text.slice(3));
-      current = { key: sectionKey(heading), heading };
-      sections.push(current);
-      subsection = undefined;
-      return;
-    }
-    if (text.startsWith('### ')) {
-      subsection = stripEmoji(text.slice(4));
-      return;
-    }
-    const match = ENTRY_PATTERN.exec(text);
-    if (match && current) {
-      entries.push({
-        line: index + 1,
-        ai: Boolean(match[1]),
-        name: match[2].trim(),
-        url: match[3].trim(),
-        description: match[4].trim(),
-        section: current,
-        subsection,
-      });
-    }
-  });
-
-  return { sections, entries };
-}
-
-function sectionQuestion(sections: readonly Section[], entry: Pick<Entry, 'name' | 'url' | 'description' | 'ai'>) {
+async function placeListings(
+  { client, sections }: Context,
+  listings: readonly Listing[],
+): Promise<Placement[]> {
   const criteria = Object.fromEntries(sections.map((s) => [s.key, s.heading]));
-  return choice(
-    {
-      question: SECTION_QUESTION,
-      resource: {
-        name: entry.name,
-        url: entry.url,
-        description: entry.description || '(no description)',
-        ...(entry.ai ? { ai_powered: true } : {}),
-      },
-    },
-    criteria,
+  const ask = (listing: Listing) => choice(sectionPrompt(listing), criteria);
+  const questions = Object.fromEntries(
+    listings.map((listing, i) => [`e${i}`, ask(listing)]),
   );
-}
 
-function verdictFor(entry: Entry, suggested: string, probabilities: Record<string, number>): Verdict {
-  if (suggested === entry.section.key) return 'ok';
-  return (probabilities[entry.section.key] ?? 0) < MOVE_THRESHOLD ? 'move' : 'borderline';
-}
-
-async function classify(client: TypeSafeClient, sections: readonly Section[], batch: readonly Entry[]): Promise<Result[]> {
-  const questions = Object.fromEntries(batch.map((entry, i) => [`e${i}`, sectionQuestion(sections, entry)]));
-  const response = await client.systemOne({ model: MODEL, state: { list: LIST_CONTEXT }, questions });
-
-  return batch.map((entry, i) => {
-    const answer = response.answers[`e${i}`];
-    const probabilities = answer.probabilities as Record<string, number>;
-    return { entry, suggested: answer.choice, probabilities, verdict: verdictFor(entry, answer.choice, probabilities) };
-  });
-}
-
-async function runPool<T, R>(items: readonly T[], limit: number, work: (item: T) => Promise<R>): Promise<R[]> {
-  const results: R[] = new Array(items.length);
-  let next = 0;
-  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
-    while (next < items.length) {
-      const index = next++;
-      results[index] = await work(items[index]);
-    }
-  });
-  await Promise.all(workers);
-  return results;
-}
-
-function percent(value: number | undefined): string {
-  return `${Math.round((value ?? 0) * 100)}%`;
-}
-
-function printResults(results: readonly Result[], sections: readonly Section[]): void {
-  const headingOf = new Map(sections.map((s) => [s.key, s.heading]));
-  const show = (verdict: Verdict, title: string) => {
-    const rows = results.filter((r) => r.verdict === verdict);
-    console.log(`\n${title} (${rows.length})\n`);
-    for (const { entry, suggested, probabilities } of rows) {
-      const where = entry.subsection ? `${entry.section.heading} › ${entry.subsection}` : entry.section.heading;
-      console.log(`  L${entry.line}  ${entry.name}  ${entry.url}`);
-      console.log(`        now:     ${where} (${percent(probabilities[entry.section.key])})`);
-      console.log(`        suggest: ${headingOf.get(suggested)} (${percent(probabilities[suggested])})`);
-    }
-  };
-
-  show('move', '🚚 Likely in the wrong section');
-  show('borderline', '🤔 Fits its section, but another fits better');
-  const ok = results.filter((r) => r.verdict === 'ok').length;
-  console.log(`\n✅ ${ok} of ${results.length} entries are in the section Jev picked.\n`);
-}
-
-async function suggest(client: TypeSafeClient, sections: readonly Section[], line: string): Promise<void> {
-  const match = ENTRY_PATTERN.exec(line.trim());
-  if (!match) {
-    throw new Error('Expected a list line like: - [Name](https://url) - description');
-  }
-  const entry = { ai: Boolean(match[1]), name: match[2], url: match[3], description: match[4] };
-  const response = await client.systemOne({
+  const { answers } = await client.systemOne({
     model: MODEL,
     state: { list: LIST_CONTEXT },
-    questions: { section: sectionQuestion(sections, entry) },
+    questions,
   });
-  const ranked = Object.entries(response.answers.section.probabilities as Record<string, number>)
+
+  return listings.map((_, i) => {
+    const answer = answers[`e${i}`];
+    return { suggested: answer.choice, probabilities: answer.probabilities };
+  });
+}
+
+function verdictFor(entry: Entry, placement: Placement): Verdict {
+  if (placement.suggested === entry.section.key) return 'ok';
+  const current = placement.probabilities[entry.section.key] ?? 0;
+  return current < MOVE_THRESHOLD ? 'move' : 'borderline';
+}
+
+/**
+ * Places every entry in batches and compares Jev's pick with its section
+ */
+async function audit(
+  context: Context,
+  entries: readonly Entry[],
+): Promise<Result[]> {
+  const batches = chunk(entries, ENTRIES_PER_REQUEST);
+  const placed = await runPool(batches, CONCURRENT_REQUESTS, (batch) =>
+    placeListings(context, batch),
+  );
+
+  return placed.flat().map((placement, i) => ({
+    entry: entries[i],
+    ...placement,
+    verdict: verdictFor(entries[i], placement),
+  }));
+}
+
+function printAudit(results: readonly Result[], context: Context): void {
+  for (const [verdict, title] of Object.entries(VERDICT_TITLES)) {
+    const rows = results.filter((r) => r.verdict === verdict);
+    console.log(`\n${title} (${rows.length})\n`);
+    rows.forEach((row) => printRow(row, context));
+  }
+
+  const ok = results.filter((r) => r.verdict === 'ok').length;
+  const total = results.length;
+  console.log(`\n✅ ${ok} of ${total} entries are in the section Jev picked.\n`);
+}
+
+function printRow(result: Result, { headingOf }: Context): void {
+  const { entry, suggested, probabilities } = result;
+  const share = (key: string) => percent(probabilities[key]);
+  const where = [entry.section.heading, entry.subsection]
+    .filter(Boolean)
+    .join(' › ');
+  const target = headingOf.get(suggested);
+
+  console.log(`  L${entry.line}  ${entry.name}  ${entry.url}`);
+  console.log(`        now:     ${where} (${share(entry.section.key)})`);
+  console.log(`        suggest: ${target} (${share(suggested)})`);
+}
+
+function parseListing(line: string): Listing {
+  const match = ENTRY_PATTERN.exec(line.trim());
+  if (!match) {
+    throw new Error(
+      'Expected a list line like: - [Name](https://url) - description',
+    );
+  }
+
+  const [, ai, name, url, description] = match;
+  return { ai: Boolean(ai), name, url, description };
+}
+
+/**
+ * Prints the best sections for one new list line
+ */
+async function suggest(context: Context, line: string): Promise<void> {
+  const listing = parseListing(line);
+  const [{ probabilities }] = await placeListings(context, [listing]);
+  const ranked = Object.entries(probabilities)
     .sort(([, a], [, b]) => b - a)
-    .slice(0, 3);
-  const headingOf = new Map(sections.map((s) => [s.key, s.heading]));
-  console.log(`\n${entry.name}`);
+    .slice(0, SUGGESTIONS_SHOWN);
+
+  console.log(`\n${listing.name}`);
   for (const [key, probability] of ranked) {
-    console.log(`  ${percent(probability).padStart(4)}  ${headingOf.get(key)}`);
+    const share = percent(probability).padStart(4);
+    console.log(`  ${share}  ${context.headingOf.get(key)}`);
   }
   console.log();
 }
 
-function argValue(args: readonly string[], flag: string): string | undefined {
-  const index = args.indexOf(flag);
-  return index === -1 ? undefined : args[index + 1];
-}
-
 async function main(): Promise<void> {
   const root = process.cwd();
-  const envPath = join(root, '.env');
-  if (existsSync(envPath)) process.loadEnvFile(envPath);
-  if (!process.env.TYPESAFE_API_KEY) {
-    throw new Error('TYPESAFE_API_KEY is not set. Add it to .env in the repo root.');
-  }
+  requireApiKey(root);
 
   const args = process.argv.slice(2);
-  const { sections, entries } = parseReadme(readFileSync(join(root, 'README.md'), 'utf-8'));
-  const client = new TypeSafeClient();
+  const readme = readFileSync(join(root, 'README.md'), 'utf-8');
+  const { sections, entries } = parseReadme(readme);
+  const context: Context = {
+    client: new TypeSafeClient(),
+    sections,
+    headingOf: new Map(sections.map((s) => [s.key, s.heading])),
+  };
 
   const line = argValue(args, '--suggest');
   if (line) {
-    await suggest(client, sections, line);
+    await suggest(context, line);
     return;
   }
 
   const limit = Number(argValue(args, '--limit') ?? entries.length);
   const selected = entries.slice(0, limit);
-  const batches: Entry[][] = [];
-  for (let i = 0; i < selected.length; i += ENTRIES_PER_REQUEST) {
-    batches.push(selected.slice(i, i + ENTRIES_PER_REQUEST));
-  }
+  const scope = `${selected.length} entries across ${sections.length} sections`;
 
-  console.log(`🔍 Checking ${selected.length} entries across ${sections.length} sections with ${MODEL}...`);
-  const results = (await runPool(batches, CONCURRENT_REQUESTS, (batch) => classify(client, sections, batch))).flat();
-  printResults(results, sections);
+  console.log(`🔍 Checking ${scope} with ${MODEL}...`);
+  const results = await audit(context, selected);
+  printAudit(results, context);
 
   const jsonPath = argValue(args, '--json');
   if (jsonPath) {
@@ -238,6 +224,7 @@ async function main(): Promise<void> {
 }
 
 main().catch((error: unknown) => {
-  console.error(`💥 ${error instanceof Error ? error.message : String(error)}`);
+  const message = error instanceof Error ? error.message : String(error);
+  console.error(`💥 ${message}`);
   process.exit(1);
 });
