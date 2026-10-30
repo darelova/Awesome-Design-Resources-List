@@ -245,6 +245,7 @@ Links marked with 🤖 are AI resources.
 
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
 - [BulkPicTools](https://bulkpictools.com) - free browser-based tool to batch compress, resize, convert, crop, and watermark 1,000+ images at once — all processed locally with no account required
+- 🤖 [HelpMyIMG](https://helpmyimg.com/) - free in-browser AI background remover, image compression, resize, and EXIF cleaner with 100% on-device processing and no account required
 - [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
 - [DiceBear Avatars](https://dicebear.com/) - a free avatar library offering customizable, SVG-based avatar styles
