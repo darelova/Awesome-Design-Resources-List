@@ -38,7 +38,6 @@ Links marked with 🤖 are AI resources.
 - [Logggos](https://www.logggos.club/) - a catalog of well-designed logos
 - [Logobook](https://logobook.com/) - a collection of the worlds finest logos, symbols & trademarks
 - [Logo System](https://logosystem.co/) - the biggest logo design library for inspiration  
-- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
 - [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
 - [Websitevice](https://websitevice.com/) - website examples for inspiration
@@ -47,9 +46,6 @@ Links marked with 🤖 are AI resources.
 - [Crypto Design Club](https://cryptodesign.club/) - a database of best-in-class handpicked crypto designs
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
 - [Pushkeen](https://pushkeen.ai/) - the world's largest push notifications library
-- [The Component Gallery](https://component.gallery/components/) - an up-to-date repository of interface components based on examples from the world of design systems
-- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
-- [Design Systems Surf](https://designsystems.surf/) - best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams
 - [Landdding](https://landdding.com/) - find daily new web designs submitted to Landdding for showcasing their great design and getting upvotes from the community of web designers
 - [Landbook](https://land-book.com/) - website design inspiration gallery
 - [Lapa Ninja](https://www.lapa.ninja/) - landing page design inspiration, learn design, and more
@@ -75,19 +71,22 @@ Links marked with 🤖 are AI resources.
 - [Really Good Emails](https://reallygoodemails.com/) - a collection of email designs
 - [Inspora](https://www.inspora.design/) - a curated archive of recent visual design and creative work
 - [BRRRANDING](https://www.brrranding.com/) - Branding inspiration, curated by humans
+- [It's Nice That](https://www.itsnicethat.com/projects-creatives) - daily dose of creative inspiration
 
 ## 💖 Other Collections
 
 - [Fountn](https://fountn.design/) - a collection of design resources, curated by designers
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
 - [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
+- [Awesome Design](https://github.com/gztchan/awesome-design) - curated design resources from all over the world
+- [Tools.Design](https://www.toools.design/) - a growing archive of 1,500+ design resources, frequently updated for the community
+- [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
 
 ## 📐 UI Kits & Component Libraries
 
 - [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
 - [shadcn/ui](https://ui.shadcn.com/) - beautifully designed components that you can copy and paste into your apps
 - [Radix UI](https://www.radix-ui.com/) - an open-source component library optimized for fast development, easy maintenance, and accessibility
-- [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
 - [Material Design/Components](https://m3.material.io/components) - Google's interactive building blocks for creating a user interface
 - [Fluent UI/Components](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs) - Microsoft's component library (react)
 - [Nuxt UI](https://ui.nuxt.com) - a UI library for building modern web apps, powered by Vue.js and Tailwind CSS, designed for simplicity and flexibility
@@ -96,15 +95,15 @@ Links marked with 🤖 are AI resources.
 - [React Bits](https://reactbits.dev/get-started/index) - React components for creative developers
 - [Flowbase](https://www.flowbase.co/) - the world's largest premium library of Webflow, Figma & Framer components and tools. Build better, faster with Flowbase
 - [Clonify](https://clonify.io/) - a powerful library of Framer and Figma assets to build stunning websites faster
-- [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
 - [Shaders](https://shaders.com/) - component library of WebGPU shaders. Includes an editor. Useful for designers to see what's possible and reference
 - [AI Canvas](https://aicanvas.me/) - open-source animated React components, blocks and design systems, built with Tailwind CSS and Motion and installed with the shadcn CLI
 - [Originkit](https://www.originkit.dev/) - free animated component library for building modern websites
 - [Lightswind UI](https://lightswind.com/) - stunning react components for modern developers
 - [ThreeUI](https://threeui.com/browse) - copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants
-- 🤖 [Refero Styles](https://styles.refero.design/) - a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites
 - 🤖 [Cult UI](https://www.cult-ui.com/) - production-ready AI patterns, full-stack templates, and starters for teams shipping on the Vercel AI SDK
 - [qodesign-free](https://teodoravadani.github.io/qodesign-free/) - free MIT animated React components and the Orbit and Ledger dashboards made with Framer Motion, installable with the shadcn CLI, npm, or as single HTML files
+- [The Component Gallery](https://component.gallery/components/) - an up-to-date repository of interface components based on examples from the world of design systems
+- [UI Components Handbook](https://www.uiguideline.com/components) - compiled all the wisdom and best practices from the top 20 Design Systems and UI libraries in one place. We will continue to add more components week after week
 
 ## 🎨 Colors & Palettes
 
@@ -123,6 +122,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
+- [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
@@ -146,6 +146,8 @@ Links marked with 🤖 are AI resources.
 - [Fonts by Ani Dimitrova](https://anidimitrova.com/) - custom typeface designes by Ani Dimitrova from Bulgaria
 - [About Type](https://abouttype.com/) - an independent type design studio by Krista Radoeva, creating contemporary multilingual typefaces with a focus on Latin and Cyrillic
 - [Fonts In Use](https://fontsinuse.com/) - a public archive of typography indexed by typeface, format, industry, and period
+- [SPACE TYPE GENERATOR](https://spacetypegenerator.com/) - an open source tool that allows users to create their own kinetic type experiments
+- [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
 
 ## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
@@ -160,6 +162,9 @@ Links marked with 🤖 are AI resources.
 - [Absurd Design](https://absurd.design/) - free Surrealist Illustrations
 - [Spectrum](https://spectrums.framer.website/) - free vector shapes
 - [Illustration.lol](https://www.illustration.lol/) - a curated collection of editorial illustrations and images from illustrators around the world  
+- [DiceBear Avatars](https://dicebear.com/) - a free avatar library offering customizable, SVG-based avatar styles
+- [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
+- [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
 
 ### Icon sets
 
@@ -205,14 +210,8 @@ Links marked with 🤖 are AI resources.
 - [Shotstash](https://shotstash.com/) - free stock photos for creative professionals  
 - [FOCA](https://focastock.com/) - free stock photos for commercial use; design and create for free with FOCA Canvas  
 - [Life of Pix](https://www.lifeofpix.com/) - free high resolution photography
-- [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
 - [RD Tool](https://www.karlsims.com/rdtool.html) - web application to experiment with reaction-diffusion simulations
 - 🤖 [Lummi](https://www.lummi.ai/s/photos/guitar) - a collection of unique, royalty-free AI stock photos, illustrations, and 3D
-- 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
-- 🤖 [Dall-E](https://openart.ai/home) - AI image generation
-- 🤖 [Stable Diffusion](https://stability.ai/stable-image) - AI image generation
-- 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
-- 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
@@ -236,21 +235,18 @@ Links marked with 🤖 are AI resources.
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
 - [Maneken](https://maneken.app/) - the browser powered mockup editor
+- [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
 - [BulkPicTools](https://bulkpictools.com) - free browser-based tool to batch compress, resize, convert, crop, and watermark 1,000+ images at once — all processed locally with no account required
-- [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
-- [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
-- [DiceBear Avatars](https://dicebear.com/) - a free avatar library offering customizable, SVG-based avatar styles
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
-- 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
 - 🤖 [Captions](https://www.captions.ai/) - creates videos from captions with AI
 - 🤖 [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
 - 🤖 [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
@@ -258,7 +254,6 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Gemini 2.5 Flash Image (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image) - unlock multimodal creativity for the next generation of visual apps
 - 🤖 [Logo Diffusion](https://logodiffusion.com/) - create custom logos in seconds with Logo Diffusion's AI Logo Maker
 - 🤖 [Flair.ai](https://flair.ai/) - AI tool for creating product content, including on-model photography, ad generation, and video creation
-- [SPACE TYPE GENERATOR](https://spacetypegenerator.com/) - an open source tool that allows users to create their own kinetic type experiments
 - [ISF](https://editor.isf.video/) - create interactive shaders to use on desktop, mobile, and in the browser
 - [Efecto](https://efecto.app/fx) - free design tool to create ASCII and Dither visual arts
 - [Image to ASCII](https://imagetoascii.art/) - convert images to ASCII art locally in the browser, then copy or export the result as text or an image
@@ -270,6 +265,13 @@ Links marked with 🤖 are AI resources.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
+- 🤖 [Dall-E](https://openart.ai/home) - AI image generation
+- 🤖 [Stable Diffusion](https://stability.ai/stable-image) - AI image generation
+- 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
+- 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
+- [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
+- [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 
 ### Multipurpose AI Chat
 
@@ -288,6 +290,11 @@ Links marked with 🤖 are AI resources.
 - [Material Design](https://m3.material.io/) - Google's open-source design system, provides comprehensive guidelines, styles, & components to create user-friendly interfaces
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft's collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior
 - [Carbon Design System](https://carbondesignsystem.com/) - IBM's open-source design system for digital experiences, with a focus on accessibility, modularity, and flexibility  
+- [Design Systems Surf](https://designsystems.surf/) - best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams
+- 🤖 [Refero Styles](https://styles.refero.design/) - a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites
+- [Elastic UI](https://eui.elastic.co/#/) - design library in use at Elastic to build internal products that need to share our aesthetics
+- [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - a collection of awesome design systems
 
 ### References and learning resources
 
@@ -296,7 +303,6 @@ Links marked with 🤖 are AI resources.
 - [IBM Carbon Design System](https://carbondesignsystem.com/)
 - [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
-- [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
 - [Instagram Brand Identity](https://about.instagram.com/brand)
 - [Wise Design Identity](https://wise.design/)
 - [eBay Playbook](https://playbook.ebay.com/)
@@ -329,6 +335,9 @@ Links marked with 🤖 are AI resources.
 - [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
 - [Design Token Naming Guide](https://www.namedesigntokens.guide/) - learn how to name design tokens the right way
 - [39 Principles for Designing Human–AI Interaction](https://syntaxstream.substack.com/p/42-principles-for-designing-humanai) - an applied framework for designing AI interfaces that support appropriate reliance, user control, transparency, and responsible autonomy
+- [Pepsi Global Redesign](https://design.pepsico.com/case-studies/pepsi-global-redesign)
+- [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions, and understand systems
+- [Checklist Design](https://www.checklist.design/) - a collection of the best design practices
 
 ## 🔌 Figma plugins & resources
 
@@ -384,34 +393,27 @@ Links marked with 🤖 are AI resources.
 
 ## 📰 News & Blogs (Curated resources, newsletters)
 
-- [It's Nice That](https://www.itsnicethat.com/projects-creatives) - daily dose of creative inspiration
 - [Design Milk](https://design-milk.com/) - spotlights emerging talent, innovation, and creative living across architecture, art, and more
 - [Smashing Magazine](https://www.smashingmagazine.com/) - offers practical design and development insights to help you build better, user-friendly websites
 - [UX Collective](https://uxdesign.cc/) - a design publication sharing thoughtful insights on UX, product, and visual design
 - [The Creative Edge](https://99designs.com/blog/) - 99designs' blog offers design inspiration, tutorials, and resources for designers and entrepreneurs
 - [Creative Boom](https://www.creativeboom.com/) - delivers news, inspiration, and insights to empower the global creative community
 - [Made By James](https://themadebyjames.com/the-blog/) - design tips by James Martin
-- [Nielsen Norman Group Articles & Videos](https://www.nngroup.com/articles/) - provides research-based insights on user experience, interaction design, and usability
 - [The DESK Magazine](https://vanschneider.com/blog/) - the design blog of Tobias von Schneider
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) - useful tips and techniques on front-end and UX
 - [Dense Discovery](https://www.densediscovery.com/) - offers a curated selection of links across design, technology, art, urbanism, and sustainability
 - [NN/g Newsletter](https://www.nngroup.com/articles/subscribe/) - the latest articles about usability, design, and UX research from the Nielsen Norman Group
 - [HeyDesigner](https://heydesigner.com/) - the go-to newsletter for product people, UXers, PMs, and design engineers
 - [Interaction Design Foundation](https://www.interaction-design.org/newsletter) - stay updated with high-quality educational material every week
-- [Awesome Design](https://github.com/gztchan/awesome-design) - curated design resources from all over the world
-- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - a collection of awesome design systems
-- [Tools.Design](https://www.toools.design/) - a growing archive of 1,500+ design resources, frequently updated for the community
-- [Checklist Design](https://www.checklist.design/) - a collection of the best design practices
-- [Untools](https://untools.co/) - thinking tools and frameworks to help you solve problems, make decisions, and understand systems
-- [Resource.fyi](https://resource.fyi/) - products, Resources, and Tools handpicked for developers, designers, marketers, tech enthusiasts, and professionals
 - [Karl Sims](https://www.karlsims.com/) - awesome resources for web applications, computer animations, technical papers, and more
 - 🤖 [AI Goodies](https://aigoodies.beehiiv.com/) - newsletter on AI, UX, design resources, and trends
+- [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
+- [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
 
 ## 🎬 Animations, 3D and Sound
 
 - [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
-- [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
 - [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
@@ -421,17 +423,15 @@ Links marked with 🤖 are AI resources.
 - [Spline](https://spline.design/) - a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 - [Myinstants](https://www.myinstants.com/en/index/bg/) - discover funny instant sound buttons
 - [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
-- [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
-- [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 - [animos](https://animos.app/) - motion templates for design showcases
+- 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
-- [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
-- [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
 - [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
 - [Microsoft Inclusive Design](https://inclusive.microsoft.design/) - methodology, born out of digital environments, that enables and draws on the full range of human diversity
+- [Nielsen Norman Group Articles & Videos](https://www.nngroup.com/articles/) - provides research-based insights on user experience, interaction design, and usability
 
 ## 📐 Wireframing, No-Code & AI Web Tools
 
