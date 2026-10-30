@@ -16,7 +16,6 @@ Links marked with 🤖 are AI resources.
 - [CTA.gallery](https://www.cta.gallery/) - curated gallery of Call-to-Actions (CTAs) designed to inspire creativity and maximize conversions
 - [Dark Mode Design](https://www.darkmodedesign.com/) - a showcase of beautifully designed and inspiring dark-mode websites
 - [Dark Design](https://www.dark.design/) - handpicked dark-mode designs
-- [Godly](https://godly.website/) - a curation of the best web design inspiration, everyday
 - [Rebrand](https://www.rebrand.gallery/) - explore the best new design systems, visual identity introductions, and rebrand videos
 - [Bestfolios](https://www.bestfolios.com/portfolios) - the largest collection of the best portfolio websites from top designers in the industry
 - [Dribbble](https://dribbble.com/) - a place to gain inspiration, feedback, community, and jobs
@@ -47,7 +46,6 @@ Links marked with 🤖 are AI resources.
 - [Sneak Peek](https://sneakpeek.design/) - see how top design teams design
 - [Pushkeen](https://pushkeen.ai/) - the world's largest push notifications library
 - [Landdding](https://landdding.com/) - find daily new web designs submitted to Landdding for showcasing their great design and getting upvotes from the community of web designers
-- [Landbook](https://land-book.com/) - website design inspiration gallery
 - [Lapa Ninja](https://www.lapa.ninja/) - landing page design inspiration, learn design, and more
 - [One Page Love](https://onepagelove.com/) - a website design gallery showcasing the best single-page websites, templates, and resources
 - [Minimal Gallery](https://minimal.gallery/) -  a curated source of website design inspiration aiming to support people in their creative process
@@ -84,7 +82,7 @@ Links marked with 🤖 are AI resources.
 
 ## 📐 UI Kits & Component Libraries
 
-- [Tailwind components](https://tailwindcss.com/plus/ui-blocks) - in-depth industry-standard compilation of components
+- [Tailwind components](https://tailwindcss.com/plus) - in-depth industry-standard compilation of components
 - [shadcn/ui](https://ui.shadcn.com/) - beautifully designed components that you can copy and paste into your apps
 - [Radix UI](https://www.radix-ui.com/) - an open-source component library optimized for fast development, easy maintenance, and accessibility
 - [Material Design/Components](https://m3.material.io/components) - Google's interactive building blocks for creating a user interface
@@ -229,7 +227,6 @@ Links marked with 🤖 are AI resources.
 - [Mr. Mockup](https://mrmockup.com/free-mockups/) - a huge collection of high-quality free mockups for Photoshop  
 - [LS Graphics](https://www.ls.graphics/) - a vast collection of free and premium mockups for Photoshop and Figma  
 - [Mockup Hunt](https://mockuphunt.co/) - a huge collection of the best free mockups hand-curated from the most trusted mockup websites  
-- [Minimal Mockups](https://www.minimalmockups.com/) - free high-quality mockups  
 - [Unblast](https://unblast.com/) - fine and free design resources made by the world's best designers  
 - [Flyerwrk](https://www.flyerwrk.com/en-com/collections/freebies) - mockup freebies collection  
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
@@ -266,12 +263,10 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
 - 🤖 [Midjourney](https://www.midjourney.com/home) - AI image generation
-- 🤖 [Dall-E](https://openart.ai/home) - AI image generation
 - 🤖 [Stable Diffusion](https://stability.ai/stable-image) - AI image generation
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
 - [Shader Gradient](https://www.shadergradient.co/) - create beautiful, moving gradients (available on Figma, Framer, and as React component)
-- [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 
 ### Multipurpose AI Chat
 
@@ -300,7 +295,6 @@ Links marked with 🤖 are AI resources.
 
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/)
 - [IBM Design Language](https://www.ibm.com/design/language/)
-- [IBM Carbon Design System](https://carbondesignsystem.com/)
 - [Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Spotify Design & Branding Guidelines](https://developer.spotify.com/documentation/design)
 - [Instagram Brand Identity](https://about.instagram.com/brand)
@@ -308,12 +302,10 @@ Links marked with 🤖 are AI resources.
 - [eBay Playbook](https://playbook.ebay.com/)
 - [The Design System Guide](https://thedesignsystem.guide/) - all the essential resources for setting up the design system
 - [Hey Design Systems!](https://heydesign.systems/) - your introduction to design systems
-- [Design System Knowledge Base](https://thedesignsystem.guide/knowledge-base) - resource for design system questions
 - [Cash App](https://design.cash.app/)
 - [Vercel Geist Design System](https://vercel.com/geist/introduction)
 - [LINE Design System](https://designsystem.line.me/)
 - [Atlassian Design System](https://atlassian.design/)
-- [Material Design 3](https://m3.material.io/)
 - [Shopify Polaris](https://polaris-react.shopify.com/)
 - [Microsoft Fluent 2](https://fluent2.microsoft.design/)
 
@@ -369,7 +361,6 @@ Links marked with 🤖 are AI resources.
 - [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/breakpoints) - preview responsive layout inside a Figma frame and share animated prototype
 - [Cleaner](https://www.figma.com/community/plugin/1264993877076633643/cleaner) - tidies up selected or current page elements by removing unused and unnecessary items
 - [Organize Layers](https://www.figma.com/community/plugin/786286754606650597/organize-layers) - organizes all layers on the current page based on layer name
-- [Effects](https://www.figma.com/community/plugin/1326067067584608052/effects) - visual styles applied to objects
 - [thirteen23 - harmonograph](https://www.figma.com/community/plugin/1403515351214143901/thirteen23-harmonograph) - generate intricate and beautiful geometric patterns based on the principles of harmonic motion
 - [Perspective](https://www.figma.com/community/plugin/1459523089148854271/perspective) - add depth and dimension to your designs with easy-to-use perspective transformations and shadow effects
 - [Skew to Figma](https://www.figma.com/community/plugin/1314599573129418692) - Skew transform options for Figma
