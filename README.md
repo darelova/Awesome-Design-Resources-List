@@ -27,7 +27,6 @@ Links marked with 🤖 are AI resources.
 - [Savee](https://savee.it/) - a platform where creatives find inspiration
 - [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
-- [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
 - [UIZZE](https://uizze.com) - Browse 800,000+ real web and iOS screens, flows, and UI elements to replace generic interface defaults with product-specific design decisions.
 - [Kombai Gallery](https://kombai.com/gallery/web/) - a free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products
@@ -42,7 +41,6 @@ Links marked with 🤖 are AI resources.
 - [abdz](https://abduzeedo.com/) - a collective of individual writers sharing articles about design, photography, and UX, as well as tutorials for Photoshop and other tools  
 - [Cosmos](https://www.cosmos.so/) - a discovery engine for creatives  
 - [Appshots design](https://appshots.design/) - inspiring real-world UX designs
-- [schema.supply](https://www.schema.supply/) - branding, web, and image inspiration, providing a premium digital asset library filled with creative resources
 - [Websitevice](https://websitevice.com/) - website examples for inspiration
 - [SaaS Landing Page](https://saaslandingpage.com/) - landing page examples created by top-class SaaS companies
 - [UI Sources](https://uisources.com/screenshots) - browse recordings of end-to-end user journeys from the top grossing apps
@@ -99,7 +97,6 @@ Links marked with 🤖 are AI resources.
 - [Flowbase](https://www.flowbase.co/) - the world's largest premium library of Webflow, Figma & Framer components and tools. Build better, faster with Flowbase
 - [Clonify](https://clonify.io/) - a powerful library of Framer and Figma assets to build stunning websites faster
 - [Atomize Design System](https://atomizedesign.com/) - pixel-perfect UI components and multi-brand theme support
-- [Nova](https://novaui.design/) - a complete solution for Framer & Figma, offering all the resources needed from concept to launch
 - [Shaders](https://shaders.com/) - component library of WebGPU shaders. Includes an editor. Useful for designers to see what's possible and reference
 - [AI Canvas](https://aicanvas.me/) - open-source animated React components, blocks and design systems, built with Tailwind CSS and Motion and installed with the shadcn CLI
 - [Originkit](https://www.originkit.dev/) - free animated component library for building modern websites
@@ -137,7 +134,6 @@ Links marked with 🤖 are AI resources.
 - [Collletttivo](https://www.collletttivo.it/) - an open-source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration
 - [UNCUT.wtf](https://uncut.wtf/) - a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - advanced fonts for programmers with special glyphs
-- [Typefaces.today](https://typefaces.today/) - handpicked typefaces for your creative projects  
 - [Fontshare](https://www.fontshare.com/) - a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all  
 - [FontsWiki](https://fontswiki.com/) - free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects
 - [DaFont](https://www.dafont.com/) - archive of freely downloadable fonts
@@ -258,9 +254,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Captions](https://www.captions.ai/) - creates videos from captions with AI
 - 🤖 [Krea](https://www.krea.ai/) - generate, edit, and enhance images and videos using powerful AI for free
 - 🤖 [Glorify](https://glorify.com/) - easily create marketing visuals that turn browsers into buyers
-- 🤖 [Logome](https://www.logome.ai/) - design your stunning brand logo with AI
 - 🤖 [Mokker](https://mokker.ai/) - AI background for product photos
-- 🤖 [Relume Ipsum](https://www.relumeipsum.com/) - a fast way to write AI copy for a website
 - 🤖 [Gemini 2.5 Flash Image (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image) - unlock multimodal creativity for the next generation of visual apps
 - 🤖 [Logo Diffusion](https://logodiffusion.com/) - create custom logos in seconds with Logo Diffusion's AI Logo Maker
 - 🤖 [Flair.ai](https://flair.ai/) - AI tool for creating product content, including on-model photography, ad generation, and video creation
@@ -268,7 +262,6 @@ Links marked with 🤖 are AI resources.
 - [ISF](https://editor.isf.video/) - create interactive shaders to use on desktop, mobile, and in the browser
 - [Efecto](https://efecto.app/fx) - free design tool to create ASCII and Dither visual arts
 - [Image to ASCII](https://imagetoascii.art/) - convert images to ASCII art locally in the browser, then copy or export the result as text or an image
-- 🤖 [X-Design](https://www.x-design.xin/) - creative AI agent and AI-powered photo editor. Instantly turns your ideas into professional logos, complete brand guidelines, posters, and more
 - 🤖 [Kittl](https://www.kittl.com/) - AI design platform. Create with top image gen models, pro editing tools, mockups, and curated assets
 - 🤖 [Bookmarkify](https://www.bookmarkify.io/) - a visual bookmark manager that replaces cluttered browser tabs and forgotten links with a searchable visual library
 - [Tooooools](https://www.tooooools.app/) - free minimalist and lo-fi effects for image and video processing online
@@ -298,7 +291,6 @@ Links marked with 🤖 are AI resources.
 
 ### References and learning resources
 
-- [Starbucks Creative Expression](https://creative.starbucks.com/)
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/)
 - [IBM Design Language](https://www.ibm.com/design/language/)
 - [IBM Carbon Design System](https://carbondesignsystem.com/)
@@ -313,7 +305,6 @@ Links marked with 🤖 are AI resources.
 - [Design System Knowledge Base](https://thedesignsystem.guide/knowledge-base) - resource for design system questions
 - [Cash App](https://design.cash.app/)
 - [Vercel Geist Design System](https://vercel.com/geist/introduction)
-- [Orbit Design System](https://orbit.kiwi/)
 - [LINE Design System](https://designsystem.line.me/)
 - [Atlassian Design System](https://atlassian.design/)
 - [Material Design 3](https://m3.material.io/)
@@ -342,7 +333,6 @@ Links marked with 🤖 are AI resources.
 ## 🔌 Figma plugins & resources
 
 - [Simple Design System](https://www.figma.com/community/file/1380235722331273046) - a UI kit built by Figma to help you get started faster using pre-built examples and components
-- [Fig Mayo](https://www.figmayo.com/) - effortless design system docs
 - [Specs](https://www.figma.com/community/plugin/1205622541257680763/specs-formerly-eightshapes-specs) - automate production of page and component design specifications (“specs”) of selected components, instances and frames.
 - [Contrast Grid](https://www.figma.com/community/plugin/993414361395505148/Contrast-Grid) - a plugin to check the contrast of multiple foreground and background color combos for a11y with WCAG 2.1 minimum contrast
 - [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/mockuuups-studio) - mockup plugin with 4500+ device mockups
@@ -423,7 +413,6 @@ Links marked with 🤖 are AI resources.
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
 - [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
 - [Abstract 3d vol.2](https://abstract-vol2.wannathis.one/) - playful set of different shapes to enhance your design projects
-- [Modyfi](https://www.modyfi.com/) - 40+ built-in effects, all of which are real-time editable, non-destructive, animatable, and completely free to use
 - [Jitter](https://jitter.video/) - a tool to create professional animated content - on-brand animated UIs, videos, social media posts, websites, apps, logos, and more
 - [unicorn.studio](https://www.unicorn.studio/) - elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code  
 - [Paper](https://liquid.paper.design/) - see your logo in liquid
@@ -434,7 +423,6 @@ Links marked with 🤖 are AI resources.
 - [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
 - [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
-- 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
 - [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 - [animos](https://animos.app/) - motion templates for design showcases
 
@@ -456,7 +444,6 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Musho](https://musho.ai/) - turns your prompts into nearly complete, dev-ready websites with simple layouts
 - 🤖 [Figr](https://figr.design/) - first AI for deep product thinking to go from research to Interface designs
 - 🤖 [Relume](https://www.relume.io/) - websites designed and built faster with AI
-- 🤖 [Dora AI](https://www.dora.run/ai) - generate, customize, and deploy 3D websites with AI
 - 🤖 [Visily AI](https://www.visily.ai/) - wireframe tool that swiftly transforms screenshots, templates, or text prompts into editable wireframes and prototypes, powered by AI
 - 🤖 [Readdy AI](https://readdy.ai/) - turns your product requirements into beautiful, professional designs in minutes
 - 🤖 [Wegic](https://wegic.ai/) - create custom websites in seconds
@@ -477,7 +464,6 @@ Links marked with 🤖 are AI resources.
 ## 🕹️ Design Games & Exercises
 
 - [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
-- [What Should I Design](https://www.whatshouldidesign.com/) - a set of design challenges to practice design
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
 - [Monowi: Product Design Exercises 1.1](https://monowi.notion.site/Monowi-Product-Design-Exercises-1-1-99c913d7ec554164be0bbc785bccda97) - exercises for product designers
