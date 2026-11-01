@@ -217,6 +217,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Stable Diffusion](https://stability.ai/stable-image) - AI image generation
 - 🤖 [Adobe Firefly](https://www.adobe.com/products/firefly.html) - AI image generation
 - 🤖 [Runway ML](https://runwayml.com/) - a platform to create AI-generated images and videos
+- 🤖 [Wizmade](https://wizmade.si/) - all-in-one AI video and image creation platform featuring Kling, Veo 3.1, Seedance, FLUX, and viral video effects
 - 🤖 [Background Supply](https://www.background.supply/) - AI-generated backgrounds for your next design project
 - 🤖 [Grainient](https://grainient.supply/) - offers 1000+ awesome gradients, noisy textured, and AI-generated backgrounds
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
