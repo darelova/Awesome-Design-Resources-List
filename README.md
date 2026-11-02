@@ -473,6 +473,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Replit](https://replit.com/) - create mobile and web apps, landing pages, and videos in one project with shared design
 - 🤖 [Base44](https://base44.com/) - a vibe coding platform that lets you build apps and websites without the need for any coding experience
 - 🤖 [Figma Make](https://www.figma.com/make/) - turn ideas into reality with AI-powered design tools—generate, iterate, and build faster, all in one creative space
+- 🤖 [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - a free, source-available interface design tool built in Rust, with a local MCP server that lets AI agents inspect and edit the open file
 
 ## 🕹️ Design Games & Exercises
 
