@@ -496,3 +496,4 @@ Links marked with 🤖 are AI resources.
 ## 📈 Data Visualization
 
 - [D3](https://d3js.org/) - an open-source JavaScript library for data visualizations
+- [Chart design in brand colours (Polish)](https://blog.aeneia.pl/wykresy-w-jezyku-wizualnym-marki) - a guide to using brand colours while keeping chart labels, scales and text alternatives readable
