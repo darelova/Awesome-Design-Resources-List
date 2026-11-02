@@ -477,6 +477,7 @@ Links marked with 🤖 are AI resources.
 ## 🕹️ Design Games & Exercises
 
 - [The Bézier Game](https://bezier.method.ac/) - a game to help you master the pen tool (requires keyboard and mouse)
+- [Color Genius](https://colorgenius.art/) - a free daily color-matching game that trains your eye for hue, saturation, and value
 - [What Should I Design](https://www.whatshouldidesign.com/) - a set of design challenges to practice design
 - [Sharpen Design](https://sharpen.design/) - millions of practice design prompts to challenge you to think outside the box
 - [UX Design Challenges](https://www.uxtools.co/challenges) - a set of real-world challenges to practice crucial UX design skills
