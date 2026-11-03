@@ -222,6 +222,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Neurascapes](https://www.neurascapes.com/) - AI images made for creators. Curated collections with prompts included
 - 🤖 [Hypra](https://hypra.studio/) - next-gen imagery library for creatives and teams
 - [Public Work by Cosmos](https://www.cosmos.so/public-work) - a collection of free imagery, photos, and textures for public use
+- 🤖 [MakeImg](https://makeimg.ai/) - AI photo generator that turns a text prompt or reference photo into a new image, with 11 models and free daily credits
 
 ## 📑 Templates (Landing Pages, Presentations, Mockups)
 
