@@ -265,6 +265,7 @@ Links marked with 🤖 are AI resources.
 - 🤖 [Gemini 2.5 Flash Image (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image) - unlock multimodal creativity for the next generation of visual apps
 - 🤖 [Logo Diffusion](https://logodiffusion.com/) - create custom logos in seconds with Logo Diffusion's AI Logo Maker
 - 🤖 [Flair.ai](https://flair.ai/) - AI tool for creating product content, including on-model photography, ad generation, and video creation
+- 🤖 [Imagera](https://imagera.ai) - AI studio for images, video, voice and music that keeps the same character or product consistent across shots
 - [SPACE TYPE GENERATOR](https://spacetypegenerator.com/) - an open source tool that allows users to create their own kinetic type experiments
 - [ISF](https://editor.isf.video/) - create interactive shaders to use on desktop, mobile, and in the browser
 - [Efecto](https://efecto.app/fx) - free design tool to create ASCII and Dither visual arts
