@@ -278,6 +278,7 @@ Links marked with 🤖 are AI resources.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- 🤖 [Shotboard](https://getshotboard.com) - Mac app to research ads, write scripts, and make the images, video and voice. Bring your Claude or ChatGPT subscription and use 100 media models, paying providers directly with no markup
 
 ### Multipurpose AI Chat
 
