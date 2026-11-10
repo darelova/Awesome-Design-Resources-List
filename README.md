@@ -278,6 +278,7 @@ Links marked with 🤖 are AI resources.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- 🤖 [Prompt Generator](https://trypromptgenerator.com/) - writes image prompts for Midjourney, FLUX, Nano Banana, GPT Image, Seedream and Stable Diffusion from a description or an uploaded picture (image to prompt), free daily allowance with no sign-up
 
 ### Multipurpose AI Chat
 
