@@ -8,6 +8,8 @@ Some sections in this list inevitably overlap because design resources often ser
 
 Links marked with 🤖 are AI resources.
 
+You can chat about the Awesome List in our [Discord channel here](https://discord.gg/6p2ra69tpg) 
+
 ## 🌐 Inspiration & Community (Showcases, Portfolios, Galleries)
 
 - [Navbar Gallery](https://www.navbar.gallery/) - find the best navigation bar examples for your design
