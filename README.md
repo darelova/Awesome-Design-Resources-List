@@ -78,6 +78,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Mindsparkle Mag](https://mindsparklemag.com/inspiration) - a collection of branding, web design, graphic and packaging projects through in-depth case studies and behind-the-scenes
 - [DIELINE](https://thedieline.com/) - the World’s leading packaging design resource for CPG brands, designers, and agencies
 - [Really Good Emails](https://reallygoodemails.com/) - a collection of email designs
+- [They Sent It](https://theysentit.com/) - a free archive of real marketing emails from 60,000+ brands
 - [Inspora](https://www.inspora.design/) - a curated archive of recent visual design and creative work
 - [BRRRANDING](https://www.brrranding.com/) - Branding inspiration, curated by humans
 
