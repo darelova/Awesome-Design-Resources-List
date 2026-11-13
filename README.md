@@ -254,6 +254,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Pacdora](https://www.pacdora.com/) - an online packaging design tool that integrates editing, 3D preview, rendering
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
+- 🤖 [Cutout.Free](https://cutout.free/) - free online background removal with transparent PNG and JPG downloads; no account required
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
