@@ -443,6 +443,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
+- [Calculation Hub Luminance & RGB Brightness Calculator](https://calculation-hub.com/colors/luminance-brightness) - free HEX, RGB, and HSL color calculations for relative luminance, brightness, and contrast, with formulas and limitations; not a full accessibility audit
 - [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
 - [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
 - [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
