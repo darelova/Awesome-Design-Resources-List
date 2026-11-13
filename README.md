@@ -129,6 +129,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
+- [Image Color Picker AI](https://imagecolorpickerai.com/hex-code-from-image) - click a pixel in an uploaded image to copy its HEX, RGB, HSL, CMYK, or OKLCH; processing stays in the browser
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
