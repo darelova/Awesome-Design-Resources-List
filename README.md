@@ -495,6 +495,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 
 - [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) - UX & Usability Testing Chrome extension to enhance site design with heatmaps, scroll tracking, and screenshots
 - [Accessibility Insights for Web](https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en) - Accessibility Insights for Web helps developers quickly find and fix accessibility issues
+- [PixLasso](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb) - save every image on a page, or across open tabs, in one ZIP at the largest size it can find, and convert WebP or AVIF to JPG or PNG locally; free up to 30 images per batch
 
 ## 📈 Data Visualization
 
