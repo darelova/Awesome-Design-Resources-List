@@ -280,6 +280,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- [ASCII Images](https://ascii-images.com/) - free no-account browser tools for static ASCII artwork, FIGlet banners, text boxes, tables and diagrams
 
 ### Multipurpose AI Chat
 
