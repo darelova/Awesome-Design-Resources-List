@@ -278,6 +278,7 @@ Links marked with 🤖 are AI resources.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- 🤖 [SVGMaker](https://svgmaker.io/) - AI SVG generator, converter and editor in the browser
 
 ### Multipurpose AI Chat
 
