@@ -440,6 +440,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
 - [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 - [animos](https://animos.app/) - motion templates for design showcases
+- [movin.design](https://movin.design/) - animated UI components, animated icons and WebGL shaders, plus an easing editor, a slideshow maker and a credited motion design gallery
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
