@@ -83,6 +83,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 
 ## 💖 Other Collections
 
+- [Awesome UI/UX Tools](https://github.com/aasavchauhan/awesome-design-tools) - a community-maintained directory of UI/UX tools, resources, and workflows for product designers
 - [Fountn](https://fountn.design/) - a collection of design resources, curated by designers
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
 - [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
