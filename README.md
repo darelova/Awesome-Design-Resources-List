@@ -243,6 +243,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
 - [Maneken](https://maneken.app/) - the browser powered mockup editor
+- [Textmock](https://textmock.com/) - free browser maker for iPhone text conversation mockups (iMessage and SMS, group chats, dark mode), saved as a screenshot, square or story image
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
