@@ -243,6 +243,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Mockup Cloud](https://www.mockupcloud.com/) - premium & free mockup templates  
 - [Akoya](https://akoyamockups.com/) - photorealistic mockups
 - [Maneken](https://maneken.app/) - the browser powered mockup editor
+- [Hyklates](https://hyklates.com/) - 300+ free multi-page HTML website templates for small businesses (restaurants, clinics, schools, hotels, NGOs, online stores), each with a live preview and free download
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
