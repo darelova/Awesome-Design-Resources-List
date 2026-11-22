@@ -231,6 +231,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Mockuuups Studio](https://mockuuups.studio/) - drag-and-drop tool for creating beautiful app previews or any marketing materials. Easily insert your screenshot into device mockups for free
 - [Angle.sh](https://angle.sh) - vector device mockups for Sketch, Figma, and XD
 - [Shots.so](https://shots.so) - any mockup that you need. Choose a mockup that suits your needs drag and drop your screenshot, design or any image to get started
+- [XShots](https://selfark.com/xshots) - macOS editor for designing, localizing, and batch-exporting app store screenshot sets; includes a one-time three-day trial, then paid access.
 - [Mockupworld](https://www.mockupworld.co/) - source of photo-realistic free PSD Mockups online  
 - [Pixeden](https://www.pixeden.com/) - exclusive graphic, web, and design assets club (free and paid)  
 - [Mockups Design](https://mockups-design.com/) - source of free & high-quality mockups  
