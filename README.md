@@ -255,7 +255,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
-- 🤖 [bgnix](https://bgnix.com/) - free background remover that runs in the browser (photos never uploaded): transparent, white or coloured backgrounds and batch mode
+- 🤖 [bgnix](https://bgnix.com/) - free AI background remover that runs in the browser (photos never uploaded): full-resolution PNG, no watermark, no daily limit, transparent/white/coloured backgrounds and batch mode
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
 - 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
