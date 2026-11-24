@@ -193,6 +193,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Griddy Icons](https://griddyicons.com/) - a free open-source icon family with a unique utilitarian vibe
 - [Thridy](https://thridy.com/) - 13,000+ free 3D icons in one consistent style, downloadable as HD transparent PNGs for personal and commercial use, no attribution or signup
 - [Trace Logos](https://trace-logos.ru/en/) - free catalog of 800+ brand logos in SVG and PNG with a color editor
+- [Khazna](https://khazna.ly/) - open-source library of Libyan bank and payment logos in SVG, PNG and WebP, plus banking app UI screens
 - 🤖 [Icons8](https://icons8.com/illustration-generator) - AI Generator that makes series of illustrations and icons in the same style
 - 🤖 [AI Emojis](https://www.emojis.com/) - turn your ideas into emojis with AI
 - 🤖 [The Thiings Collection](https://www.thiings.co/things) - a collection with 2800+ 3D AI generated emojis
