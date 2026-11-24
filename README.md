@@ -496,6 +496,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 
 - [Plerdy UX & Usability Testing](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) - UX & Usability Testing Chrome extension to enhance site design with heatmaps, scroll tracking, and screenshots
 - [Accessibility Insights for Web](https://chromewebstore.google.com/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en) - Accessibility Insights for Web helps developers quickly find and fix accessibility issues
+- [A1 New Tab](https://chromewebstore.google.com/detail/phfbefhdgaldaacfkkeeegodkckccioi) - hand-picked website design inspiration from A1 in every new tab
 
 ## 📈 Data Visualization
 
