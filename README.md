@@ -153,6 +153,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Fonts by Ani Dimitrova](https://anidimitrova.com/) - custom typeface designes by Ani Dimitrova from Bulgaria
 - [About Type](https://abouttype.com/) - an independent type design studio by Krista Radoeva, creating contemporary multilingual typefaces with a focus on Latin and Cyrillic
 - [Fonts In Use](https://fontsinuse.com/) - a public archive of typography indexed by typeface, format, industry, and period
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - free script-header and body-font pairing guidance for design projects; paid fonts and workbooks are separate
 
 ## 🖌️ Icons & Illustrations (SVGs, Packs, Tools)
 
