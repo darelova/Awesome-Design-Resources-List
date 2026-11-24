@@ -83,6 +83,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 
 ## 💖 Other Collections
 
+- [AI Tool Pricing](https://twistavo.com/ai-tool-pricing) - plans and entry prices of 51 AI creative tools in 10 categories (video, image, avatar, voice, music, editing, 3D, background removal, upscaling, dubbing), each read on the vendor's own pricing page, on November 22, 2026.
 - [Fountn](https://fountn.design/) - a collection of design resources, curated by designers
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
 - [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
