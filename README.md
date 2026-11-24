@@ -477,6 +477,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - 🤖 [Replit](https://replit.com/) - create mobile and web apps, landing pages, and videos in one project with shared design
 - 🤖 [Base44](https://base44.com/) - a vibe coding platform that lets you build apps and websites without the need for any coding experience
 - 🤖 [Figma Make](https://www.figma.com/make/) - turn ideas into reality with AI-powered design tools—generate, iterate, and build faster, all in one creative space
+- 🤖 [Kite](https://kite.new/) - a collaborative design tool where AI agents like Claude, Cursor or Codex draw real, editable frames, text and components through an MCP server, with copy to Figma or HTML/React/Tailwind
 
 ## 🕹️ Design Games & Exercises
 
