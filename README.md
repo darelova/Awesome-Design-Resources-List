@@ -35,6 +35,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Kombai Gallery](https://kombai.com/gallery/web/) - a free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products
 - [Pixlpin](https://pixlpin.com) - free, curated library of real app screens, user flows and design inspiration
 - [The UI Index](https://theuiindex.com/) - free library of real website screens and flows from 1,400 live sites, on desktop and mobile, filterable by screen type, sector, typeface and colour
+- [Refto Explore](https://refto.one/explore) - free, hand-curated gallery of real websites with full-page screenshots, version history, page sections and a DESIGN.md file for each site
 - [Land-book](https://land-book.com/) - hand-picked website design inspiration
 - [BrandGuidelines](https://www.brandguidelines.net/) - handpicked, curated brand guidelines from around the world  
 - [Deck.Gallery](https://www.deck.gallery/) - explore curated, beautifully designed presentation decks, slides, keynotes, and guidelines, all chosen for their exceptional design quality  
