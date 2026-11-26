@@ -111,6 +111,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - 🤖 [Refero Styles](https://styles.refero.design/) - a curated DESIGN.md library for AI agents: colors, typography, spacing, components, and design rules from leading product websites
 - 🤖 [Cult UI](https://www.cult-ui.com/) - production-ready AI patterns, full-stack templates, and starters for teams shipping on the Vercel AI SDK
 - [qodesign-free](https://teodoravadani.github.io/qodesign-free/) - free MIT animated React components and the Orbit and Ledger dashboards made with Framer Motion, installable with the shadcn CLI, npm, or as single HTML files
+- [ReUI](https://reui.io/?utm_source=awesome-design-resources&utm_medium=directory&utm_campaign=reui-nov26) - Free shadcn/ui components and copy-paste examples, plus custom ReUI primitives, forever.
 
 ## 🎨 Colors & Palettes
 
