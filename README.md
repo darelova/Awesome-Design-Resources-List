@@ -341,6 +341,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Humane by Design](https://humanebydesign.com/) - guidance for designing humane digital products and services focused on digital well-being
 - [Design Token Naming Guide](https://www.namedesigntokens.guide/) - learn how to name design tokens the right way
 - [39 Principles for Designing Human–AI Interaction](https://syntaxstream.substack.com/p/42-principles-for-designing-humanai) - an applied framework for designing AI interfaces that support appropriate reliance, user control, transparency, and responsible autonomy
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ## 🔌 Figma plugins & resources
 
@@ -437,7 +438,6 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Endless Tools](https://endlesstools.io/) - all-in-one web tool to quickly craft striking 3D visuals, animations, and unique effects — no heavy software or coding needed
 - [Contentcore XYZ](https://contentcore.xyz/) - create content in one place, incredibly fast, export as images or videos
 - 🤖 [Tripo](https://www.tripo3d.ai/) - from texts, images, or sketches to production-ready 3D Assets in seconds
-- 🤖 [Magic Animator](https://magicanimator.com/) - animate your designs in seconds with AI
 - [textlab](https://textlab.javii.tools/) - mockup generator - type anything and instantly see it as iMessage, WhatsApp, Notes, Wikipedia, Instagram, TikTok, YouTube, and more
 - [animos](https://animos.app/) - motion templates for design showcases
 - 🤖 [iArt](https://www.iart.ai/) - create motion graphics from a text prompt, refine them through conversational edits, and export videos for logo animations, kinetic typography and explainers
