@@ -129,6 +129,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - 🤖 [AI colors](https://www.bairesdev.com/tools/ai-colors) - create cool and unique color palettes with an AI-powered color palette generator
 - 🤖 [Palette Maker](https://palettemaker.com/) - create unique color schemes with AI and see them come to life in real design examples
 - [Storied Colors](https://storiedcolors.com/) - named colors with documented histories
+- [Free Color Picker](https://free-color-picker.web-free.site/?ref=github) - pick a color online and copy it as HEX, RGB, HSL, HSV, HWB or OKLCH, all in your browser with no sign-up
 
 ## 🔠 Typography (Fonts, Pairing, Generators)
 
