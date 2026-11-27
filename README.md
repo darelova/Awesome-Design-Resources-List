@@ -280,6 +280,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- [Rasterbator Poster Maker](https://rasterbator.app/poster-maker/) - free browser-based halftone poster and multi-page tiled PDF maker for printing large wall art across A4 or US Letter sheets
 
 ### Multipurpose AI Chat
 
