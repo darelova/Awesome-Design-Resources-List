@@ -28,6 +28,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Muz.li](https://muz.li/) - a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop
 - [Savee](https://savee.it/) - a platform where creatives find inspiration
 - [Pinterest](https://www.pinterest.com/) - discover recipes, home ideas, style inspiration, design, and other ideas to try
+- 🤖 [ArtiGram](https://artigram.cafeboon.com) - free gallery of interactive HTML artifacts made by people and AI assistants, from games to data visualisations
 - [BentoGrids](https://bentogrids.com/) - a curated collection of bento designs for your inspiration
 - [App Motion](https://appmotion.design/) - explore the best, hand-picked app motion design
 - [Mobbin](https://mobbin.com/discover/apps/ios) - the world’s largest mobile and web design library
