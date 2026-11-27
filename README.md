@@ -255,6 +255,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [Content Core](https://contentcore.xyz/) - render unlimited images and videos in your browser on any compatible device
 - 🤖 [Vizcom](https://www.vizcom.com/) - a new way to design for the real world
 - 🤖 [Remove.bg](https://www.remove.bg/) - instantly removes image backgrounds with AI, perfect for creating transparent images
+- 🤖 [bgnix](https://bgnix.com/) - free AI background remover that runs in the browser (photos never uploaded): full-resolution PNG, no watermark, no daily limit, transparent/white/coloured backgrounds and batch mode
 - 🤖 [Topaz](https://www.topazlabs.com/topaz-photo) - sharpen, denoise, and upscale your images
 - 🤖 [Vectorizer AI](https://vectorizer.ai/) - trace pixels to vectors in full color  
 - 🤖 [Suno](https://suno.com/home) - building a future where anyone can make great music
@@ -280,6 +281,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - free browser-based HEIC to PNG converter, files never uploaded
 - 🤖 [Bot Avatars](https://libraries.dev/bots) - animated avatars for your AI agents 
 - [Pic2Vector](https://pic2vector.com/) - free PNG/JPG/WebP to layered SVG converter that runs locally in the browser (vtracer + WebAssembly), files never uploaded
+- [infiniqr](https://infiniqr.com/) - free QR code generator with logo, colours and frames; static codes never expire, PNG/SVG/PDF export with no watermark, plus free editable QR codes with scan statistics
 
 ### Multipurpose AI Chat
 
