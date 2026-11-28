@@ -292,6 +292,7 @@ You can chat about the Awesome List in our [Discord channel here](https://discor
 ### ✨ AI Built Products
 
 - 🤖 [DESIGN.md](https://www.designmd.co/) - drop a DESIGN.md into your prompt and your AI generates UI that already looks right. Real hex values, actual font names, component patterns for 150+ brands
+- 🤖 [Tweenery](https://tweenery.com/) - AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow. Free plan available
 
 ## 🧩 Design Systems & Frameworks
 
